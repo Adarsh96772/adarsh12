@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "formatters": {
+    "detailed": {
+      "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+    }
+  },
+  "handlers": {
+    "file": {
+      "class": "logging.FileHandler",
+      "filename": "logs/chat_server.log",
+      "formatter": "detailed",
+      "level": "INFO"
+    },
+    "console": {
+      "class": "logging.StreamHandler",
+      "formatter": "detailed",
+      "level": "DEBUG"
+    }
+  },
+  "loggers": {
+    "chat_server": {
+      "level": "DEBUG",
+      "handlers": [
+        "file",
+        "console"
+      ]
+    }
+  }
+}
