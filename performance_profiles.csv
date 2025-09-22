@@ -1,0 +1,6 @@
+profile_name,description,client_count,arrival_rate,session_duration,server_count,expected_rating
+Normal_Load,Normal business hours load,100,2,300,3,4.0
+Peak_Load,Peak hours with high traffic,500,10,600,3,3.5
+Stress_Test,Stress test with overload,1000,20,900,3,3.0
+Endurance_Test,Long duration test,200,5,1800,3,4.2
+Spike_Test,Sudden traffic spike,300,50,120,3,2.5

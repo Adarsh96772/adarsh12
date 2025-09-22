@@ -1,0 +1,22 @@
+2025-07-15 13:56:04,520 - IterativeSimulation - INFO - Starting Iterative Simulation...
+2025-07-15 13:56:04,520 - IterativeSimulation - INFO - Server_A started on port 8000
+2025-07-15 13:56:04,520 - IterativeSimulation - INFO - Server_B started on port 8001
+2025-07-15 13:56:04,520 - IterativeSimulation - INFO - Server_C started on port 8002
+2025-07-15 13:56:07,527 - IterativeSimulation - INFO - Client 0 completed successfully
+2025-07-15 13:56:07,666 - IterativeSimulation - INFO - Client 100 completed successfully
+2025-07-15 13:56:07,836 - IterativeSimulation - INFO - Client 200 completed successfully
+2025-07-15 13:56:07,997 - IterativeSimulation - INFO - Client 300 completed successfully
+2025-07-15 13:56:08,130 - IterativeSimulation - INFO - Client 400 completed successfully
+2025-07-15 13:56:08,269 - IterativeSimulation - INFO - Client 500 completed successfully
+2025-07-15 13:56:08,407 - IterativeSimulation - INFO - Client 600 completed successfully
+2025-07-15 13:56:08,545 - IterativeSimulation - INFO - Client 700 completed successfully
+2025-07-15 13:56:08,683 - IterativeSimulation - INFO - Client 800 completed successfully
+2025-07-15 13:56:08,825 - IterativeSimulation - INFO - Client 900 completed successfully
+2025-07-15 13:56:08,962 - IterativeSimulation - INFO - Waiting for 1000 clients to complete...
+2025-07-15 13:56:08,969 - IterativeSimulation - INFO - Simulation completed. Results written to iterative_simulation_results.json
+2025-07-15 13:56:08,969 - IterativeSimulation - INFO - === SIMULATION SUMMARY ===
+2025-07-15 13:56:08,969 - IterativeSimulation - INFO - Total clients served: 1000
+2025-07-15 13:56:08,969 - IterativeSimulation - INFO - Total lost clients: 0
+2025-07-15 13:56:08,969 - IterativeSimulation - INFO - Average response time: 0.0003s
+2025-07-15 13:56:08,969 - IterativeSimulation - INFO - Throughput: 693.36 clients/sec
+2025-07-15 13:56:08,970 - IterativeSimulation - INFO - Simulation time: 1.4422471523284912s

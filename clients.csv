@@ -1,0 +1,1001 @@
+client_id,client_name,first_name,last_name,email,preferred_server,session_duration,message_count,initial_message,response_pattern,rating_tendency,arrival_offset,priority,client_type,expected_wait_tolerance,chat_complexity,technical_level,satisfaction_threshold,retry_attempts,preferred_response_time,session_goal
+1,Uma_Lewis_0001,Uma,Lewis,uma.lewis1@test.net,Server_A,1178,42,I'm experiencing problems with login,random,positive,47854,medium,returning,59,medium,intermediate,3,2,34,information
+2,Ivy_Baker_0002,Ivy,Baker,ivy.baker2@test.net,Any,1647,11,Can you help me reset my password?,quick,random,39300,high,returning,406,simple,advanced,5,3,8,technical
+3,Sage_Clark_0003,Sage,Clark,sage.clark3@hotmail.com,Server_C,892,28,I'm experiencing problems with login,slow,neutral,65040,low,returning,109,complex,advanced,2,2,47,complaint
+4,Yara_Campbell_0004,Yara,Campbell,yara.campbell4@company.com,Server_B,234,29,My account is not working properly,slow,positive,47824,low,new,541,complex,advanced,2,3,23,information
+5,River_Rivera_0005,River,Rivera,river.rivera5@test.net,Server_C,638,40,I have a question about your service,quick,positive,36013,high,premium,164,medium,intermediate,3,1,52,technical
+6,Casey_Johnson_0006,Casey,Johnson,casey.johnson6@yahoo.com,Server_C,909,43,Can you help me with a technical issue?,random,positive,19309,high,returning,147,medium,advanced,3,1,23,information
+7,Charlie_Johnson_0007,Charlie,Johnson,charlie.johnson7@client.biz,Any,1515,40,Could you explain how this feature works?,slow,positive,23037,low,premium,534,medium,advanced,5,1,12,purchase
+8,Unique_Rivera_0008,Unique,Rivera,unique.rivera8@client.biz,Any,1404,14,I have a question about your service,random,positive,35261,high,new,412,simple,beginner,2,2,27,complaint
+9,Sage_Perez_0009,Sage,Perez,sage.perez9@yahoo.com,Server_C,1432,43,Can you help me with a technical issue?,medium,negative,53173,medium,new,568,complex,advanced,2,2,28,support
+10,Morgan_Martin_0010,Morgan,Martin,morgan.martin10@outlook.com,Server_C,1405,37,There's an error in my order,medium,neutral,35101,low,premium,550,complex,beginner,4,2,46,support
+11,Ivy_Moore_0011,Ivy,Moore,ivy.moore11@client.biz,Server_C,822,17,I need help with configuration,random,random,76387,high,returning,358,complex,intermediate,2,3,57,technical
+12,Frank_Nelson_0012,Frank,Nelson,frank.nelson12@demo.io,Server_B,372,17,I need help with integration,slow,random,81983,medium,premium,501,simple,advanced,3,1,59,complaint
+13,Xavier_White_0013,Xavier,White,xavier.white13@gmail.com,Server_B,710,38,There's a bug in the application,medium,positive,15242,medium,new,60,simple,beginner,5,2,13,purchase
+14,Xavier_Garcia_0014,Xavier,Garcia,xavier.garcia14@test.net,Server_A,238,22,I have a complaint about the service,random,negative,38493,medium,returning,146,medium,beginner,3,2,5,complaint
+15,Taylor_Garcia_0015,Taylor,Garcia,taylor.garcia15@outlook.com,Server_A,579,29,Can you help me with a technical issue?,quick,negative,74167,medium,returning,393,medium,beginner,4,3,60,purchase
+16,Alex_Scott_0016,Alex,Scott,alex.scott16@yahoo.com,Any,1398,17,I have a complaint about the service,slow,negative,24118,high,premium,363,simple,intermediate,3,1,22,complaint
+17,Kendall_Jackson_0017,Kendall,Jackson,kendall.jackson17@gmail.com,Server_A,179,46,I want to upgrade my plan,quick,negative,76966,high,returning,508,medium,advanced,2,3,42,complaint
+18,Ivy_Garcia_0018,Ivy,Garcia,ivy.garcia18@test.net,Server_A,1506,41,Can you help me reset my password?,random,positive,37069,high,premium,564,complex,intermediate,5,3,29,support
+19,Phoenix_Hill_0019,Phoenix,Hill,phoenix.hill19@company.com,Server_A,316,21,I want to upgrade my plan,quick,random,58494,low,new,323,complex,advanced,5,1,55,technical
+20,Indigo_Clark_0020,Indigo,Clark,indigo.clark20@company.com,Server_B,195,21,Can you help me reset my password?,quick,random,6496,low,new,556,medium,beginner,5,1,15,complaint
+21,Quinn_Rivera_0021,Quinn,Rivera,quinn.rivera21@outlook.com,Any,588,10,Could you explain how this feature works?,medium,positive,15521,high,new,125,simple,beginner,5,2,40,information
+22,Finley_Clark_0022,Finley,Clark,finley.clark22@outlook.com,Server_B,1407,44,"Hello, I need help with my account",random,neutral,49709,high,premium,116,simple,advanced,5,2,6,complaint
+23,Phoenix_Wright_0023,Phoenix,Wright,phoenix.wright23@test.net,Server_C,839,5,There's an error in my order,medium,random,22630,medium,returning,574,medium,advanced,3,2,31,complaint
+24,Ruby_Miller_0024,Ruby,Miller,ruby.miller24@test.net,Any,1491,35,Can you provide more information?,random,positive,75835,low,returning,513,complex,intermediate,2,3,53,information
+25,Jesse_Miller_0025,Jesse,Miller,jesse.miller25@yahoo.com,Any,456,48,My account is not working properly,slow,negative,51708,low,new,471,simple,advanced,4,3,59,information
+26,Charlie_Clark_0026,Charlie,Clark,charlie.clark26@example.org,Server_A,406,45,I have a question about your service,quick,random,44724,low,returning,157,complex,advanced,3,3,50,support
+27,Leo_Jackson_0027,Leo,Jackson,leo.jackson27@test.net,Server_A,915,13,I need assistance with billing,slow,negative,85756,medium,premium,272,simple,beginner,4,3,19,technical
+28,Wendy_Lewis_0028,Wendy,Lewis,wendy.lewis28@company.com,Server_A,425,44,Can you provide more information?,quick,neutral,15947,medium,premium,523,complex,beginner,2,3,17,purchase
+29,Olivia_White_0029,Olivia,White,olivia.white29@yahoo.com,Server_A,1217,41,I need training on how to use this,medium,negative,53933,low,premium,158,complex,intermediate,3,3,7,support
+30,Gray_Wright_0030,Gray,Wright,gray.wright30@yahoo.com,Server_C,403,48,I'm having trouble accessing my data,random,random,77266,high,new,253,medium,beginner,2,2,31,technical
+31,Xavier_Scott_0031,Xavier,Scott,xavier.scott31@test.net,Any,472,23,I need help with configuration,slow,positive,68604,low,returning,398,complex,advanced,3,1,37,purchase
+32,Drew_Rivera_0032,Drew,Rivera,drew.rivera32@sample.co,Server_B,308,18,My account is not working properly,slow,negative,20540,high,new,506,complex,beginner,3,3,47,purchase
+33,Jack_Smith_0033,Jack,Smith,jack.smith33@example.org,Any,246,20,I want to upgrade my plan,slow,neutral,45308,high,premium,74,complex,beginner,2,2,23,purchase
+34,Jesse_Campbell_0034,Jesse,Campbell,jesse.campbell34@company.com,Any,546,21,I'm having trouble accessing my data,medium,random,29190,medium,new,100,complex,intermediate,4,2,34,support
+35,Yara_Mitchell_0035,Yara,Mitchell,yara.mitchell35@gmail.com,Any,1587,46,Can you check my account status?,quick,random,17779,low,returning,565,complex,beginner,2,2,24,complaint
+36,Drew_Nguyen_0036,Drew,Nguyen,drew.nguyen36@company.com,Server_C,836,32,Could you explain how this feature works?,quick,neutral,20535,low,new,521,simple,advanced,3,3,40,purchase
+37,Indigo_Lopez_0037,Indigo,Lopez,indigo.lopez37@yahoo.com,Server_B,905,14,I need assistance with billing,quick,neutral,67762,high,returning,450,medium,beginner,5,1,24,complaint
+38,Ellis_Nguyen_0038,Ellis,Nguyen,ellis.nguyen38@client.biz,Any,771,34,There's an error in my order,medium,negative,12050,medium,returning,432,complex,beginner,3,2,17,purchase
+39,Gray_Flores_0039,Gray,Flores,gray.flores39@company.com,Server_B,1577,21,I'm experiencing problems with login,medium,negative,1279,medium,premium,236,simple,intermediate,2,1,45,technical
+40,Ellis_Martin_0040,Ellis,Martin,ellis.martin40@yahoo.com,Server_C,1477,28,I need help with configuration,quick,positive,60011,low,returning,476,medium,beginner,2,1,48,information
+41,Taylor_Miller_0041,Taylor,Miller,taylor.miller41@gmail.com,Any,80,8,The system is running slowly,medium,random,50887,medium,premium,411,complex,advanced,2,3,39,technical
+42,Jesse_Perez_0042,Jesse,Perez,jesse.perez42@sample.co,Any,383,22,I have a question about your service,quick,neutral,52568,low,premium,308,complex,intermediate,3,1,57,purchase
+43,Uma_Anderson_0043,Uma,Anderson,uma.anderson43@example.org,Any,690,50,I'm having trouble accessing my data,quick,random,62935,medium,premium,30,complex,intermediate,3,1,15,information
+44,Leo_Green_0044,Leo,Green,leo.green44@client.biz,Server_A,1362,40,I need training on how to use this,slow,positive,81362,low,new,495,simple,intermediate,5,2,19,information
+45,Charlie_Anderson_0045,Charlie,Anderson,charlie.anderson45@client.biz,Any,242,16,Can you check my account status?,slow,neutral,59521,low,new,174,complex,intermediate,3,2,42,purchase
+46,Sage_Smith_0046,Sage,Smith,sage.smith46@demo.io,Any,453,7,There's an error in my order,random,random,51417,medium,premium,325,medium,advanced,5,3,25,information
+47,Drew_Clark_0047,Drew,Clark,drew.clark47@yahoo.com,Server_C,1800,16,There's an error in my order,quick,neutral,29240,low,premium,336,simple,advanced,4,2,30,technical
+48,Charlie_Williams_0048,Charlie,Williams,charlie.williams48@gmail.com,Any,475,24,I need help with configuration,slow,random,7638,high,premium,379,complex,beginner,4,1,57,purchase
+49,Yara_Torres_0049,Yara,Torres,yara.torres49@example.org,Server_A,1275,32,I have a complaint about the service,quick,random,18229,medium,returning,269,complex,intermediate,5,1,38,complaint
+50,Kendall_Smith_0050,Kendall,Smith,kendall.smith50@sample.co,Server_B,1152,33,There's an error in my order,quick,neutral,6021,high,new,106,complex,advanced,4,3,30,support
+51,Sam_Baker_0051,Sam,Baker,sam.baker51@gmail.com,Server_B,854,15,Can you check my account status?,quick,random,8154,medium,new,105,simple,beginner,2,2,10,purchase
+52,Henry_Martinez_0052,Henry,Martinez,henry.martinez52@hotmail.com,Server_C,251,27,I want to upgrade my plan,random,random,15937,low,new,487,medium,beginner,2,2,7,technical
+53,Ivy_Garcia_0053,Ivy,Garcia,ivy.garcia53@client.biz,Any,882,20,I have a question about your service,medium,negative,47165,high,premium,509,medium,intermediate,2,3,43,purchase
+54,Oakley_Green_0054,Oakley,Green,oakley.green54@outlook.com,Server_C,164,31,Can you help me with a technical issue?,random,random,58378,high,returning,465,simple,beginner,2,1,32,information
+55,Wendy_Allen_0055,Wendy,Allen,wendy.allen55@yahoo.com,Server_C,1264,25,I need training on how to use this,random,negative,6828,low,new,427,simple,intermediate,3,1,16,complaint
+56,Xavier_Lee_0056,Xavier,Lee,xavier.lee56@outlook.com,Server_C,1255,45,"Hello, I need help with my account",quick,positive,71127,medium,premium,134,simple,intermediate,4,1,23,complaint
+57,Phoenix_Thompson_0057,Phoenix,Thompson,phoenix.thompson57@example.org,Any,121,34,Can you provide more information?,quick,negative,77810,medium,new,330,simple,intermediate,5,3,32,purchase
+58,Nico_Torres_0058,Nico,Torres,nico.torres58@yahoo.com,Server_C,310,9,I want to cancel my subscription,slow,random,67824,high,new,96,complex,advanced,3,2,24,information
+59,Mia_Garcia_0059,Mia,Garcia,mia.garcia59@sample.co,Server_B,249,6,My account is not working properly,random,neutral,52641,low,returning,100,complex,beginner,3,3,5,information
+60,Harper_Mitchell_0060,Harper,Mitchell,harper.mitchell60@sample.co,Server_B,1643,39,Can you provide more information?,quick,neutral,60178,low,premium,226,complex,advanced,3,2,48,information
+61,Taylor_Hill_0061,Taylor,Hill,taylor.hill61@company.com,Server_C,1254,33,I want to cancel my subscription,quick,random,43158,medium,premium,342,medium,advanced,5,3,57,purchase
+62,Victor_Martinez_0062,Victor,Martinez,victor.martinez62@test.net,Server_B,301,45,I need training on how to use this,quick,neutral,83598,high,returning,363,simple,beginner,5,1,50,support
+63,Phoenix_Green_0063,Phoenix,Green,phoenix.green63@outlook.com,Server_C,1701,15,I need training on how to use this,random,positive,33146,medium,returning,336,simple,intermediate,5,1,23,technical
+64,Henry_Martin_0064,Henry,Martin,henry.martin64@client.biz,Any,1800,30,There's a bug in the application,medium,random,66464,high,new,318,simple,advanced,4,1,20,purchase
+65,Casey_Johnson_0065,Casey,Johnson,casey.johnson65@client.biz,Server_B,1363,6,I'm having trouble accessing my data,quick,negative,47005,high,premium,440,complex,advanced,5,3,37,complaint
+66,Peter_Rodriguez_0066,Peter,Rodriguez,peter.rodriguez66@company.com,Server_A,1135,37,I need assistance with billing,slow,negative,26576,high,new,392,simple,beginner,4,3,60,purchase
+67,Jack_Anderson_0067,Jack,Anderson,jack.anderson67@demo.io,Server_C,1305,34,I need training on how to use this,slow,random,26022,low,returning,255,simple,beginner,4,2,59,technical
+68,Leo_Jackson_0068,Leo,Jackson,leo.jackson68@demo.io,Server_A,1541,30,The system is running slowly,quick,positive,13577,medium,returning,204,medium,intermediate,4,1,50,complaint
+69,Karen_Hernandez_0069,Karen,Hernandez,karen.hernandez69@company.com,Any,964,33,My account is not working properly,medium,random,61091,medium,new,181,medium,beginner,4,2,8,purchase
+70,Alice_Perez_0070,Alice,Perez,alice.perez70@demo.io,Server_C,1028,6,I need assistance with billing,slow,neutral,66220,low,returning,462,simple,advanced,2,1,49,support
+71,Jesse_Wilson_0071,Jesse,Wilson,jesse.wilson71@outlook.com,Server_C,602,24,I want to upgrade my plan,medium,positive,51722,low,new,143,simple,beginner,4,1,17,complaint
+72,Kendall_Wilson_0072,Kendall,Wilson,kendall.wilson72@gmail.com,Server_B,365,36,I need help with integration,medium,neutral,3318,high,premium,570,simple,intermediate,4,2,20,support
+73,Alex_Thomas_0073,Alex,Thomas,alex.thomas73@client.biz,Server_B,1110,35,I'm having trouble accessing my data,medium,negative,60789,low,new,368,simple,intermediate,3,3,19,support
+74,Sage_Wilson_0074,Sage,Wilson,sage.wilson74@outlook.com,Any,67,39,I want to upgrade my plan,medium,neutral,69375,low,premium,323,simple,advanced,3,3,60,complaint
+75,Ruby_Ramirez_0075,Ruby,Ramirez,ruby.ramirez75@test.net,Any,1398,49,I need training on how to use this,random,random,65016,medium,premium,580,complex,beginner,2,3,25,purchase
+76,Alice_Smith_0076,Alice,Smith,alice.smith76@company.com,Server_A,1342,16,I need training on how to use this,medium,positive,61134,high,new,545,simple,beginner,4,2,13,information
+77,Gray_Nguyen_0077,Gray,Nguyen,gray.nguyen77@test.net,Server_A,1776,8,The system is running slowly,medium,positive,15794,high,returning,87,simple,advanced,3,3,53,complaint
+78,Wendy_Sanchez_0078,Wendy,Sanchez,wendy.sanchez78@gmail.com,Any,1173,33,I need assistance with billing,random,neutral,54235,medium,premium,52,complex,beginner,3,1,30,technical
+79,Bob_Jackson_0079,Bob,Jackson,bob.jackson79@company.com,Server_B,192,10,Can you check my account status?,quick,positive,47808,low,new,296,medium,beginner,2,2,26,complaint
+80,Lane_Hernandez_0080,Lane,Hernandez,lane.hernandez80@company.com,Any,247,24,I have a complaint about the service,slow,positive,22916,high,returning,574,simple,beginner,3,1,21,complaint
+81,Karen_Martin_0081,Karen,Martin,karen.martin81@sample.co,Server_B,491,12,There's a bug in the application,random,random,10450,medium,premium,82,simple,intermediate,5,1,50,purchase
+82,Ivy_Garcia_0082,Ivy,Garcia,ivy.garcia82@hotmail.com,Server_C,1415,27,I have a question about your service,slow,random,22150,medium,new,152,medium,intermediate,4,3,50,support
+83,Lane_Robinson_0083,Lane,Robinson,lane.robinson83@company.com,Server_C,726,35,I need help with integration,medium,random,34620,low,returning,348,complex,advanced,2,1,7,information
+84,Indigo_Mitchell_0084,Indigo,Mitchell,indigo.mitchell84@hotmail.com,Any,1626,32,I need assistance with billing,quick,positive,29112,medium,new,401,medium,intermediate,3,2,52,complaint
+85,Eve_Perez_0085,Eve,Perez,eve.perez85@yahoo.com,Any,302,33,Can you help me with a technical issue?,random,random,71481,medium,premium,323,complex,intermediate,3,2,33,technical
+86,Morgan_Nelson_0086,Morgan,Nelson,morgan.nelson86@company.com,Server_B,934,7,I'm experiencing problems with login,quick,negative,46352,low,premium,428,medium,intermediate,5,1,19,support
+87,Lane_Allen_0087,Lane,Allen,lane.allen87@example.org,Server_B,116,47,My account is not working properly,medium,positive,21359,medium,new,226,simple,advanced,4,2,12,information
+88,River_Harris_0088,River,Harris,river.harris88@company.com,Server_B,552,24,I need training on how to use this,quick,negative,62023,high,returning,287,simple,beginner,2,2,56,information
+89,Zoe_Garcia_0089,Zoe,Garcia,zoe.garcia89@sample.co,Any,518,43,I'm having trouble accessing my data,medium,neutral,52678,low,returning,569,medium,intermediate,2,2,25,information
+90,Diana_Hall_0090,Diana,Hall,diana.hall90@demo.io,Server_A,782,49,Can you provide more information?,quick,positive,37232,medium,new,397,medium,beginner,3,3,43,purchase
+91,Drew_Wright_0091,Drew,Wright,drew.wright91@client.biz,Any,1559,36,I want to cancel my subscription,medium,random,38060,medium,returning,280,complex,beginner,3,3,56,support
+92,Zoe_Baker_0092,Zoe,Baker,zoe.baker92@example.org,Server_B,1164,11,I want to upgrade my plan,random,neutral,82493,low,new,388,medium,advanced,3,2,51,complaint
+93,Ruby_Brown_0093,Ruby,Brown,ruby.brown93@sample.co,Server_A,1433,37,I need help with configuration,quick,positive,7524,medium,returning,507,simple,intermediate,3,2,39,complaint
+94,Finley_Smith_0094,Finley,Smith,finley.smith94@gmail.com,Server_C,194,20,Can you provide more information?,slow,positive,13074,medium,new,199,medium,intermediate,5,2,26,complaint
+95,Sam_Johnson_0095,Sam,Johnson,sam.johnson95@example.org,Server_B,589,8,There's an error in my order,quick,positive,60676,high,returning,170,complex,intermediate,4,3,23,purchase
+96,Zoe_Perez_0096,Zoe,Perez,zoe.perez96@outlook.com,Server_A,144,17,I'm experiencing problems with login,random,negative,33029,high,new,145,complex,advanced,3,1,28,support
+97,Phoenix_Lewis_0097,Phoenix,Lewis,phoenix.lewis97@test.net,Server_C,1776,48,I'm experiencing problems with login,quick,neutral,58253,low,returning,299,medium,advanced,2,1,27,support
+98,Leo_Hall_0098,Leo,Hall,leo.hall98@demo.io,Server_A,1164,14,Can you help me reset my password?,random,random,48938,medium,new,411,complex,beginner,2,3,35,complaint
+99,Gray_Jones_0099,Gray,Jones,gray.jones99@test.net,Server_A,1285,34,I have a complaint about the service,slow,negative,18409,low,premium,279,simple,beginner,2,2,11,information
+100,Peter_Rivera_0100,Peter,Rivera,peter.rivera100@gmail.com,Server_C,384,16,My account is not working properly,quick,random,45367,low,returning,307,complex,advanced,4,2,51,purchase
+101,Lane_Williams_0101,Lane,Williams,lane.williams101@outlook.com,Server_C,719,45,I need training on how to use this,quick,negative,31026,low,returning,195,medium,advanced,4,3,11,purchase
+102,Alice_Baker_0102,Alice,Baker,alice.baker102@yahoo.com,Any,674,23,"Hello, I need help with my account",slow,random,55031,high,new,355,simple,intermediate,3,3,59,information
+103,Finley_Green_0103,Finley,Green,finley.green103@yahoo.com,Any,288,12,Can you help me reset my password?,medium,positive,32938,low,premium,188,simple,advanced,2,2,6,information
+104,Nico_Young_0104,Nico,Young,nico.young104@outlook.com,Server_B,1547,44,I have a question about your service,random,positive,3021,medium,premium,410,simple,intermediate,3,3,47,technical
+105,Taylor_Walker_0105,Taylor,Walker,taylor.walker105@client.biz,Any,303,18,I need assistance with billing,quick,positive,8158,low,returning,63,complex,advanced,5,1,11,technical
+106,Grace_Brown_0106,Grace,Brown,grace.brown106@hotmail.com,Server_B,1508,15,I'm experiencing problems with login,medium,random,20876,high,new,62,simple,beginner,4,2,33,purchase
+107,Mia_Baker_0107,Mia,Baker,mia.baker107@client.biz,Any,790,25,I need training on how to use this,quick,positive,79546,medium,returning,334,simple,intermediate,4,3,44,information
+108,Olivia_Nguyen_0108,Olivia,Nguyen,olivia.nguyen108@company.com,Server_B,969,45,Could you explain how this feature works?,medium,positive,26058,medium,returning,122,medium,advanced,5,2,50,purchase
+109,Unique_Rodriguez_0109,Unique,Rodriguez,unique.rodriguez109@test.net,Server_C,171,44,Could you explain how this feature works?,random,neutral,46753,medium,new,385,medium,beginner,4,1,19,support
+110,Quinn_Lee_0110,Quinn,Lee,quinn.lee110@demo.io,Server_B,86,22,Can you check my account status?,random,random,75448,low,returning,489,medium,beginner,2,2,49,information
+111,Drew_Hernandez_0111,Drew,Hernandez,drew.hernandez111@test.net,Server_A,782,9,There's an error in my order,quick,random,40403,high,new,408,medium,intermediate,2,3,60,purchase
+112,Indigo_Ramirez_0112,Indigo,Ramirez,indigo.ramirez112@example.org,Any,1404,47,Can you check my account status?,medium,positive,27140,medium,premium,227,complex,beginner,4,1,13,purchase
+113,Jesse_Young_0113,Jesse,Young,jesse.young113@client.biz,Any,1593,29,I'm having trouble accessing my data,random,neutral,23539,high,new,48,medium,advanced,2,2,37,information
+114,Yara_Hall_0114,Yara,Hall,yara.hall114@example.org,Server_C,607,25,Can you help me with a technical issue?,random,negative,23307,high,returning,549,medium,advanced,4,1,38,information
+115,Peter_Torres_0115,Peter,Torres,peter.torres115@yahoo.com,Server_B,861,47,I need assistance with billing,medium,random,79580,high,returning,547,complex,advanced,4,3,30,purchase
+116,Noah_Thompson_0116,Noah,Thompson,noah.thompson116@example.org,Server_A,1613,22,I need assistance with billing,medium,negative,19533,low,premium,211,medium,beginner,3,2,56,information
+117,Noah_Lewis_0117,Noah,Lewis,noah.lewis117@demo.io,Server_B,1276,47,Could you explain how this feature works?,medium,positive,64168,low,new,125,medium,advanced,2,3,57,purchase
+118,Lane_Smith_0118,Lane,Smith,lane.smith118@gmail.com,Server_C,935,24,Can you check my account status?,slow,positive,25509,low,premium,42,simple,advanced,3,3,35,complaint
+119,Finley_Walker_0119,Finley,Walker,finley.walker119@hotmail.com,Any,1339,17,The system is running slowly,slow,positive,37689,high,premium,228,simple,advanced,4,3,40,technical
+120,Quinn_Green_0120,Quinn,Green,quinn.green120@example.org,Server_A,1384,11,I have a complaint about the service,medium,negative,45306,low,new,165,simple,intermediate,5,2,10,technical
+121,Tina_Wilson_0121,Tina,Wilson,tina.wilson121@hotmail.com,Any,1671,12,Can you help me with a technical issue?,random,negative,71418,low,returning,494,complex,beginner,4,1,49,complaint
+122,Blake_Rivera_0122,Blake,Rivera,blake.rivera122@yahoo.com,Server_A,223,22,The system is running slowly,medium,negative,69090,medium,returning,535,simple,advanced,5,3,7,technical
+123,Indigo_Wright_0123,Indigo,Wright,indigo.wright123@test.net,Server_C,1098,43,I need help with integration,slow,random,40206,medium,premium,225,complex,beginner,3,2,8,purchase
+124,Nico_Nelson_0124,Nico,Nelson,nico.nelson124@demo.io,Server_A,958,37,I want to cancel my subscription,slow,random,60093,medium,new,407,simple,intermediate,3,3,36,purchase
+125,Henry_Hernandez_0125,Henry,Hernandez,henry.hernandez125@company.com,Any,241,47,I need help with configuration,random,negative,43348,low,new,94,medium,intermediate,5,2,26,technical
+126,Victor_Flores_0126,Victor,Flores,victor.flores126@company.com,Any,1155,42,I need help with integration,quick,positive,79080,high,returning,596,complex,beginner,2,1,35,information
+127,Unique_Robinson_0127,Unique,Robinson,unique.robinson127@sample.co,Server_B,1710,40,There's a bug in the application,random,negative,44910,high,new,114,medium,advanced,5,3,12,technical
+128,Bob_Davis_0128,Bob,Davis,bob.davis128@yahoo.com,Server_A,1394,23,Can you help me with a technical issue?,quick,random,36611,medium,returning,207,complex,beginner,5,1,59,support
+129,Jack_Martin_0129,Jack,Martin,jack.martin129@example.org,Server_A,296,11,Can you help me reset my password?,slow,negative,16081,medium,new,153,simple,beginner,5,2,45,purchase
+130,Tina_Moore_0130,Tina,Moore,tina.moore130@yahoo.com,Server_A,355,14,I need training on how to use this,medium,random,77593,medium,premium,47,medium,advanced,4,2,18,complaint
+131,Ellis_Lewis_0131,Ellis,Lewis,ellis.lewis131@yahoo.com,Server_A,734,14,I'm having trouble accessing my data,medium,negative,27694,low,returning,475,complex,beginner,4,2,27,purchase
+132,Henry_Williams_0132,Henry,Williams,henry.williams132@company.com,Any,1257,42,I have a question about your service,slow,negative,75384,low,new,335,complex,intermediate,4,2,48,complaint
+133,Yara_Wilson_0133,Yara,Wilson,yara.wilson133@example.org,Server_C,1282,7,There's a bug in the application,slow,positive,7798,low,premium,117,complex,advanced,4,3,53,technical
+134,Alice_Hill_0134,Alice,Hill,alice.hill134@hotmail.com,Any,1394,18,Can you help me reset my password?,medium,random,13424,high,new,472,complex,advanced,2,1,5,technical
+135,Drew_Ramirez_0135,Drew,Ramirez,drew.ramirez135@demo.io,Server_A,1262,22,I need help with integration,quick,neutral,51083,medium,returning,394,medium,intermediate,4,1,27,information
+136,Bob_Harris_0136,Bob,Harris,bob.harris136@test.net,Server_B,617,42,My account is not working properly,random,negative,10517,high,premium,334,complex,beginner,3,3,44,information
+137,Yara_Lewis_0137,Yara,Lewis,yara.lewis137@hotmail.com,Server_B,1655,20,I want to upgrade my plan,slow,neutral,29545,high,premium,32,medium,advanced,3,1,41,support
+138,Blake_Wilson_0138,Blake,Wilson,blake.wilson138@company.com,Any,1454,31,The system is running slowly,slow,neutral,57812,high,returning,96,medium,intermediate,3,1,40,technical
+139,Nico_Sanchez_0139,Nico,Sanchez,nico.sanchez139@example.org,Server_B,653,24,I have a question about your service,quick,neutral,8205,high,returning,481,simple,beginner,5,2,48,information
+140,Harper_Mitchell_0140,Harper,Mitchell,harper.mitchell140@gmail.com,Server_B,1580,32,My account is not working properly,random,random,22115,high,premium,43,medium,beginner,2,1,39,technical
+141,Mia_Green_0141,Mia,Green,mia.green141@client.biz,Server_B,907,5,I have a question about your service,quick,positive,37975,high,premium,594,medium,advanced,4,2,20,complaint
+142,Alex_Lewis_0142,Alex,Lewis,alex.lewis142@example.org,Server_B,1800,39,I need training on how to use this,quick,negative,35907,medium,new,56,complex,beginner,5,3,48,information
+143,Morgan_Jackson_0143,Morgan,Jackson,morgan.jackson143@demo.io,Any,708,30,Can you check my account status?,slow,random,59619,low,premium,520,simple,intermediate,5,1,16,purchase
+144,Lane_Scott_0144,Lane,Scott,lane.scott144@gmail.com,Server_A,1413,42,I want to cancel my subscription,slow,random,31267,medium,returning,539,simple,intermediate,4,3,5,purchase
+145,Ivy_Wilson_0145,Ivy,Wilson,ivy.wilson145@hotmail.com,Server_C,720,40,I need assistance with billing,random,negative,20124,low,returning,428,simple,intermediate,4,1,53,technical
+146,Kendall_Flores_0146,Kendall,Flores,kendall.flores146@yahoo.com,Server_B,1633,5,Can you help me with a technical issue?,slow,positive,44086,medium,returning,452,simple,intermediate,4,3,6,technical
+147,Karen_Wright_0147,Karen,Wright,karen.wright147@demo.io,Server_A,1146,19,I want to cancel my subscription,random,negative,85946,medium,new,389,medium,beginner,4,3,47,support
+148,Leo_Scott_0148,Leo,Scott,leo.scott148@yahoo.com,Server_C,313,47,Can you help me reset my password?,slow,neutral,30150,medium,new,257,complex,advanced,4,2,26,technical
+149,Unique_Perez_0149,Unique,Perez,unique.perez149@yahoo.com,Any,796,30,My account is not working properly,random,random,28047,low,returning,247,complex,beginner,2,1,58,information
+150,Victor_Thompson_0150,Victor,Thompson,victor.thompson150@example.org,Server_C,608,18,Could you explain how this feature works?,slow,random,84699,medium,returning,426,medium,beginner,2,1,31,support
+151,Harper_Flores_0151,Harper,Flores,harper.flores151@hotmail.com,Any,1267,26,I have a question about your service,random,negative,44365,low,premium,96,medium,advanced,2,1,11,technical
+152,Frank_Johnson_0152,Frank,Johnson,frank.johnson152@outlook.com,Server_B,1271,48,I'm having trouble accessing my data,quick,negative,39602,low,premium,35,medium,beginner,4,3,33,support
+153,Finley_Sanchez_0153,Finley,Sanchez,finley.sanchez153@yahoo.com,Server_A,1100,33,I need training on how to use this,medium,neutral,36476,high,returning,94,complex,intermediate,5,3,31,support
+154,Casey_Nguyen_0154,Casey,Nguyen,casey.nguyen154@demo.io,Server_C,1145,23,My account is not working properly,slow,positive,62846,high,returning,422,simple,intermediate,5,1,47,technical
+155,Victor_Johnson_0155,Victor,Johnson,victor.johnson155@example.org,Server_A,581,12,I need training on how to use this,quick,random,33767,high,new,38,simple,intermediate,3,3,16,complaint
+156,Alex_Miller_0156,Alex,Miller,alex.miller156@hotmail.com,Server_C,798,34,Can you check my account status?,slow,positive,23434,high,new,239,complex,advanced,5,1,44,complaint
+157,Frank_Davis_0157,Frank,Davis,frank.davis157@demo.io,Any,1327,8,Can you provide more information?,slow,positive,68470,low,premium,60,medium,intermediate,5,1,59,purchase
+158,Ruby_Young_0158,Ruby,Young,ruby.young158@client.biz,Server_A,206,40,There's an error in my order,quick,neutral,61200,medium,premium,383,complex,intermediate,2,1,44,information
+159,Yara_Garcia_0159,Yara,Garcia,yara.garcia159@client.biz,Server_B,884,6,Can you provide more information?,quick,random,12290,medium,new,555,medium,intermediate,5,3,18,information
+160,Zoe_Green_0160,Zoe,Green,zoe.green160@gmail.com,Server_B,386,43,Can you help me reset my password?,quick,negative,55273,medium,new,367,medium,intermediate,2,3,45,complaint
+161,Jack_Taylor_0161,Jack,Taylor,jack.taylor161@hotmail.com,Server_C,72,10,I'm having trouble accessing my data,medium,negative,13603,high,new,90,medium,beginner,4,2,13,complaint
+162,Olivia_Jones_0162,Olivia,Jones,olivia.jones162@gmail.com,Server_B,332,42,There's a bug in the application,random,random,81561,low,new,309,medium,advanced,3,1,44,technical
+163,Diana_Thompson_0163,Diana,Thompson,diana.thompson163@test.net,Server_A,1418,13,I need assistance with billing,quick,random,40557,medium,returning,453,medium,intermediate,5,3,28,technical
+164,Ellis_Lopez_0164,Ellis,Lopez,ellis.lopez164@hotmail.com,Any,1470,42,Can you provide more information?,slow,random,24231,high,new,142,simple,beginner,3,1,5,support
+165,Diana_Jackson_0165,Diana,Jackson,diana.jackson165@hotmail.com,Any,103,11,I'm having trouble accessing my data,quick,positive,75360,low,new,245,simple,intermediate,3,3,21,support
+166,Drew_Jones_0166,Drew,Jones,drew.jones166@client.biz,Any,160,30,The system is running slowly,medium,positive,73526,medium,new,108,complex,beginner,2,1,36,complaint
+167,Olivia_Lewis_0167,Olivia,Lewis,olivia.lewis167@gmail.com,Server_A,957,40,"Hello, I need help with my account",quick,random,21479,low,new,172,complex,intermediate,2,1,22,complaint
+168,Alice_Anderson_0168,Alice,Anderson,alice.anderson168@test.net,Server_A,1530,45,I'm having trouble accessing my data,medium,positive,23976,low,new,546,complex,advanced,3,1,14,support
+169,Grace_Jones_0169,Grace,Jones,grace.jones169@gmail.com,Server_B,870,40,I want to cancel my subscription,quick,positive,3054,medium,returning,334,complex,advanced,2,1,48,purchase
+170,Lane_Jones_0170,Lane,Jones,lane.jones170@example.org,Server_B,1747,48,I need assistance with billing,quick,neutral,27020,low,new,185,simple,intermediate,4,2,34,technical
+171,Noah_Johnson_0171,Noah,Johnson,noah.johnson171@sample.co,Server_A,979,48,I need help with configuration,medium,neutral,60513,high,premium,589,complex,beginner,4,1,5,information
+172,River_Hall_0172,River,Hall,river.hall172@example.org,Server_A,146,14,Can you help me with a technical issue?,random,neutral,31924,medium,premium,447,medium,advanced,2,3,19,complaint
+173,Morgan_Miller_0173,Morgan,Miller,morgan.miller173@hotmail.com,Server_C,76,19,There's an error in my order,random,random,46930,medium,premium,501,medium,intermediate,5,1,27,complaint
+174,Jesse_Flores_0174,Jesse,Flores,jesse.flores174@example.org,Server_C,837,17,I'm experiencing problems with login,quick,negative,1777,high,returning,349,simple,advanced,4,1,30,technical
+175,Ellis_Davis_0175,Ellis,Davis,ellis.davis175@hotmail.com,Server_C,1310,45,The system is running slowly,medium,random,48368,low,new,151,medium,beginner,3,1,38,complaint
+176,Kendall_Davis_0176,Kendall,Davis,kendall.davis176@sample.co,Any,1331,37,I want to cancel my subscription,slow,positive,78901,medium,premium,583,complex,advanced,4,2,53,information
+177,Frank_Garcia_0177,Frank,Garcia,frank.garcia177@gmail.com,Server_B,154,10,I have a complaint about the service,quick,random,39552,low,premium,578,complex,beginner,2,1,49,technical
+178,Oakley_Brown_0178,Oakley,Brown,oakley.brown178@yahoo.com,Server_C,409,18,Could you explain how this feature works?,slow,neutral,21013,high,premium,417,medium,beginner,4,3,12,support
+179,Nico_Thomas_0179,Nico,Thomas,nico.thomas179@outlook.com,Server_B,869,35,I'm having trouble accessing my data,random,positive,32693,high,returning,476,simple,advanced,4,1,45,support
+180,Ellis_Rodriguez_0180,Ellis,Rodriguez,ellis.rodriguez180@demo.io,Server_A,1489,19,Could you explain how this feature works?,random,random,4930,low,new,219,simple,advanced,4,3,39,technical
+181,Unique_Anderson_0181,Unique,Anderson,unique.anderson181@outlook.com,Server_B,1119,41,"Hello, I need help with my account",medium,random,83795,low,new,241,complex,advanced,2,2,50,information
+182,Bob_Adams_0182,Bob,Adams,bob.adams182@hotmail.com,Server_B,499,43,I'm having trouble accessing my data,medium,negative,37494,high,premium,250,medium,advanced,5,1,8,purchase
+183,Tina_Green_0183,Tina,Green,tina.green183@hotmail.com,Any,1125,42,I'm having trouble accessing my data,medium,neutral,67671,low,returning,212,complex,beginner,2,2,13,information
+184,Lane_Thompson_0184,Lane,Thompson,lane.thompson184@sample.co,Any,996,46,"Hello, I need help with my account",medium,neutral,60078,medium,returning,306,simple,advanced,3,1,28,technical
+185,Wendy_Nguyen_0185,Wendy,Nguyen,wendy.nguyen185@demo.io,Any,1545,16,I need training on how to use this,quick,neutral,12461,low,returning,378,simple,advanced,2,3,25,information
+186,Mia_Flores_0186,Mia,Flores,mia.flores186@example.org,Server_A,768,6,I have a question about your service,slow,negative,56895,medium,new,494,complex,beginner,3,2,7,support
+187,Kendall_Sanchez_0187,Kendall,Sanchez,kendall.sanchez187@outlook.com,Server_C,1499,31,There's an error in my order,random,positive,50554,high,new,106,medium,beginner,4,3,21,technical
+188,Quinn_Young_0188,Quinn,Young,quinn.young188@hotmail.com,Server_B,230,49,I need assistance with billing,medium,neutral,53869,low,premium,576,medium,advanced,2,1,42,information
+189,Frank_Hernandez_0189,Frank,Hernandez,frank.hernandez189@demo.io,Any,837,30,Can you provide more information?,quick,negative,78181,high,new,408,complex,intermediate,2,3,8,support
+190,Tina_Rivera_0190,Tina,Rivera,tina.rivera190@gmail.com,Server_A,1494,36,I need training on how to use this,slow,neutral,58121,medium,premium,151,medium,advanced,2,1,60,support
+191,Alice_Gonzalez_0191,Alice,Gonzalez,alice.gonzalez191@hotmail.com,Server_A,358,35,Can you provide more information?,slow,neutral,77728,high,new,299,complex,advanced,5,3,14,complaint
+192,Yara_Perez_0192,Yara,Perez,yara.perez192@sample.co,Server_C,340,17,Could you explain how this feature works?,random,positive,50181,high,returning,548,complex,beginner,5,1,10,information
+193,Casey_Mitchell_0193,Casey,Mitchell,casey.mitchell193@company.com,Server_C,365,24,My account is not working properly,quick,neutral,30826,medium,returning,511,complex,beginner,4,1,59,information
+194,Charlie_Hall_0194,Charlie,Hall,charlie.hall194@outlook.com,Server_C,1136,20,Could you explain how this feature works?,slow,neutral,66795,high,premium,470,medium,beginner,4,1,49,support
+195,Oakley_Flores_0195,Oakley,Flores,oakley.flores195@sample.co,Any,1673,49,I'm having trouble accessing my data,quick,random,51361,medium,new,586,simple,advanced,4,2,13,complaint
+196,Charlie_Perez_0196,Charlie,Perez,charlie.perez196@hotmail.com,Server_C,632,39,"Hello, I need help with my account",quick,negative,73326,low,new,37,complex,intermediate,5,3,9,purchase
+197,Harper_Martinez_0197,Harper,Martinez,harper.martinez197@company.com,Server_B,1143,9,Can you check my account status?,slow,negative,8974,low,new,140,medium,beginner,2,3,27,complaint
+198,Sam_Williams_0198,Sam,Williams,sam.williams198@outlook.com,Any,1521,48,I need assistance with billing,random,neutral,81892,medium,premium,263,medium,beginner,3,3,60,information
+199,Drew_Clark_0199,Drew,Clark,drew.clark199@outlook.com,Any,464,21,Could you explain how this feature works?,slow,neutral,56204,high,premium,471,medium,beginner,4,3,35,technical
+200,Indigo_Ramirez_0200,Indigo,Ramirez,indigo.ramirez200@demo.io,Server_C,1694,18,I want to upgrade my plan,slow,positive,82904,low,new,345,simple,intermediate,4,3,25,complaint
+201,Grace_Lee_0201,Grace,Lee,grace.lee201@client.biz,Server_B,503,41,I need help with integration,quick,positive,13772,high,new,599,medium,advanced,4,1,10,complaint
+202,Victor_Perez_0202,Victor,Perez,victor.perez202@client.biz,Any,963,13,Could you explain how this feature works?,medium,neutral,25180,low,premium,484,complex,advanced,3,2,59,complaint
+203,Jesse_Martin_0203,Jesse,Martin,jesse.martin203@test.net,Any,516,50,My account is not working properly,slow,negative,57339,medium,new,480,complex,advanced,4,1,16,complaint
+204,Bob_Thompson_0204,Bob,Thompson,bob.thompson204@outlook.com,Server_B,83,22,Can you check my account status?,slow,random,15517,medium,new,155,medium,intermediate,2,1,8,support
+205,Frank_Rodriguez_0205,Frank,Rodriguez,frank.rodriguez205@test.net,Server_A,1543,21,I need help with configuration,slow,positive,78529,low,new,436,simple,beginner,2,3,48,complaint
+206,Peter_Martinez_0206,Peter,Martinez,peter.martinez206@yahoo.com,Any,112,28,"Hello, I need help with my account",random,neutral,15607,high,returning,38,medium,advanced,2,3,28,purchase
+207,River_Johnson_0207,River,Johnson,river.johnson207@outlook.com,Server_B,1389,47,I have a complaint about the service,slow,negative,25555,low,new,302,simple,intermediate,3,1,57,technical
+208,Leo_Anderson_0208,Leo,Anderson,leo.anderson208@yahoo.com,Server_C,452,46,I need assistance with billing,random,random,54877,medium,returning,531,complex,beginner,5,1,16,purchase
+209,Ellis_White_0209,Ellis,White,ellis.white209@client.biz,Server_C,892,15,I need assistance with billing,quick,positive,65992,medium,premium,120,simple,intermediate,2,3,20,support
+210,Henry_Green_0210,Henry,Green,henry.green210@example.org,Server_C,477,50,Can you help me with a technical issue?,medium,neutral,29335,high,returning,229,medium,intermediate,2,1,25,complaint
+211,Alice_Williams_0211,Alice,Williams,alice.williams211@example.org,Server_B,556,30,Can you help me reset my password?,quick,random,23004,medium,new,549,complex,intermediate,3,3,16,purchase
+212,Frank_Campbell_0212,Frank,Campbell,frank.campbell212@demo.io,Any,944,48,I want to cancel my subscription,medium,neutral,19631,medium,premium,391,medium,beginner,2,3,14,support
+213,Taylor_Torres_0213,Taylor,Torres,taylor.torres213@company.com,Server_C,1338,9,Can you help me reset my password?,slow,positive,48503,high,returning,60,simple,advanced,4,1,36,purchase
+214,Ruby_Robinson_0214,Ruby,Robinson,ruby.robinson214@sample.co,Server_A,1352,39,I have a question about your service,slow,positive,7218,high,returning,109,simple,intermediate,3,3,31,technical
+215,Victor_Hall_0215,Victor,Hall,victor.hall215@test.net,Server_B,1165,46,I need help with configuration,quick,neutral,54507,medium,premium,159,medium,beginner,3,1,40,technical
+216,River_Wilson_0216,River,Wilson,river.wilson216@test.net,Server_A,721,29,I'm having trouble accessing my data,slow,positive,58083,low,returning,65,complex,intermediate,2,3,16,technical
+217,Bob_Martin_0217,Bob,Martin,bob.martin217@client.biz,Server_A,1277,14,Can you help me with a technical issue?,medium,negative,19311,medium,returning,486,simple,intermediate,5,1,34,purchase
+218,Olivia_Hernandez_0218,Olivia,Hernandez,olivia.hernandez218@outlook.com,Server_A,1549,46,The system is running slowly,random,random,2884,high,premium,88,medium,beginner,5,1,56,purchase
+219,Ellis_Gonzalez_0219,Ellis,Gonzalez,ellis.gonzalez219@gmail.com,Server_C,1366,10,I want to cancel my subscription,quick,negative,50694,high,returning,363,complex,beginner,2,2,49,support
+220,Morgan_Garcia_0220,Morgan,Garcia,morgan.garcia220@company.com,Server_A,184,16,I want to cancel my subscription,quick,random,63768,low,premium,397,medium,intermediate,3,3,25,support
+221,Charlie_Williams_0221,Charlie,Williams,charlie.williams221@example.org,Server_A,1673,35,The system is running slowly,slow,random,8409,high,new,132,complex,advanced,5,2,43,complaint
+222,Grace_Wilson_0222,Grace,Wilson,grace.wilson222@company.com,Server_C,1365,33,Can you help me reset my password?,random,positive,4382,medium,new,447,medium,intermediate,3,1,19,technical
+223,Xavier_Gonzalez_0223,Xavier,Gonzalez,xavier.gonzalez223@sample.co,Any,520,20,I need assistance with billing,random,negative,68827,low,premium,81,medium,beginner,5,1,7,technical
+224,Ellis_Davis_0224,Ellis,Davis,ellis.davis224@gmail.com,Server_A,1113,36,My account is not working properly,medium,neutral,59882,low,premium,259,complex,intermediate,3,3,40,support
+225,Tina_Hill_0225,Tina,Hill,tina.hill225@client.biz,Server_A,860,36,I need training on how to use this,medium,negative,73666,low,new,590,simple,beginner,3,2,35,technical
+226,Mia_Lopez_0226,Mia,Lopez,mia.lopez226@gmail.com,Server_A,1211,41,I need help with integration,slow,random,22524,high,new,43,medium,intermediate,3,1,13,information
+227,Sage_Gonzalez_0227,Sage,Gonzalez,sage.gonzalez227@hotmail.com,Server_B,996,43,I need assistance with billing,medium,positive,51363,high,returning,275,medium,advanced,5,3,10,support
+228,Quinn_Harris_0228,Quinn,Harris,quinn.harris228@demo.io,Server_A,1627,10,Could you explain how this feature works?,random,random,68378,medium,new,430,complex,beginner,2,1,54,purchase
+229,Peter_Hernandez_0229,Peter,Hernandez,peter.hernandez229@client.biz,Server_C,850,19,Can you check my account status?,random,neutral,51987,low,premium,37,complex,beginner,5,1,16,support
+230,Indigo_Smith_0230,Indigo,Smith,indigo.smith230@client.biz,Server_B,416,34,I want to upgrade my plan,random,negative,20406,medium,premium,421,simple,advanced,2,3,52,technical
+231,Jack_Jackson_0231,Jack,Jackson,jack.jackson231@sample.co,Any,376,10,I need help with configuration,random,random,25317,low,new,373,medium,intermediate,5,3,42,support
+232,Bob_Scott_0232,Bob,Scott,bob.scott232@outlook.com,Server_B,537,40,There's a bug in the application,random,negative,84352,high,returning,579,medium,beginner,3,1,31,technical
+233,Xavier_Nguyen_0233,Xavier,Nguyen,xavier.nguyen233@outlook.com,Server_A,1409,39,I need assistance with billing,slow,neutral,82669,high,premium,208,complex,intermediate,5,1,17,complaint
+234,Morgan_Perez_0234,Morgan,Perez,morgan.perez234@example.org,Server_A,319,25,I want to upgrade my plan,random,neutral,17829,medium,premium,324,medium,advanced,5,3,51,information
+235,Charlie_Johnson_0235,Charlie,Johnson,charlie.johnson235@gmail.com,Server_B,505,22,I need help with integration,slow,random,26137,medium,new,79,medium,intermediate,3,2,25,purchase
+236,Victor_Harris_0236,Victor,Harris,victor.harris236@company.com,Server_B,912,39,There's an error in my order,slow,neutral,24671,medium,new,41,medium,beginner,5,3,24,purchase
+237,Phoenix_Sanchez_0237,Phoenix,Sanchez,phoenix.sanchez237@hotmail.com,Server_A,952,5,My account is not working properly,medium,negative,74517,high,returning,101,simple,advanced,2,3,47,purchase
+238,Drew_Hernandez_0238,Drew,Hernandez,drew.hernandez238@sample.co,Server_C,1773,18,I have a complaint about the service,random,negative,13848,low,returning,569,simple,beginner,4,3,57,purchase
+239,Sage_Jackson_0239,Sage,Jackson,sage.jackson239@test.net,Server_C,769,24,The system is running slowly,random,random,22867,medium,new,149,complex,advanced,4,1,13,technical
+240,Jesse_Anderson_0240,Jesse,Anderson,jesse.anderson240@sample.co,Server_A,202,11,I'm experiencing problems with login,random,random,33630,high,new,305,simple,beginner,5,2,57,information
+241,Nico_Walker_0241,Nico,Walker,nico.walker241@outlook.com,Server_A,704,16,I'm experiencing problems with login,random,random,72935,medium,new,461,medium,intermediate,3,1,43,support
+242,Ivy_Lee_0242,Ivy,Lee,ivy.lee242@client.biz,Server_B,99,35,I'm experiencing problems with login,random,neutral,26547,high,premium,168,medium,beginner,2,2,34,support
+243,Quinn_Nguyen_0243,Quinn,Nguyen,quinn.nguyen243@gmail.com,Server_C,1694,46,I need training on how to use this,slow,positive,11531,high,premium,477,complex,intermediate,4,3,38,information
+244,Wendy_Wilson_0244,Wendy,Wilson,wendy.wilson244@demo.io,Any,1410,42,I'm experiencing problems with login,quick,negative,54266,low,new,149,simple,advanced,5,3,39,purchase
+245,Frank_Jones_0245,Frank,Jones,frank.jones245@gmail.com,Server_B,1463,35,Can you provide more information?,random,positive,11730,high,premium,265,medium,advanced,2,3,28,complaint
+246,Sage_Hill_0246,Sage,Hill,sage.hill246@test.net,Server_B,69,30,"Hello, I need help with my account",random,random,53006,medium,new,403,medium,beginner,2,1,10,complaint
+247,Kendall_Wright_0247,Kendall,Wright,kendall.wright247@example.org,Any,490,45,My account is not working properly,medium,neutral,31279,low,returning,294,complex,intermediate,3,1,55,support
+248,Zoe_Rodriguez_0248,Zoe,Rodriguez,zoe.rodriguez248@outlook.com,Server_B,1332,23,Can you help me reset my password?,slow,random,31808,low,returning,352,complex,intermediate,5,3,29,technical
+249,Uma_Sanchez_0249,Uma,Sanchez,uma.sanchez249@company.com,Server_A,201,16,Can you check my account status?,medium,random,22484,high,returning,307,complex,beginner,3,3,45,information
+250,Leo_Davis_0250,Leo,Davis,leo.davis250@gmail.com,Server_C,182,27,"Hello, I need help with my account",medium,random,53017,low,returning,423,medium,advanced,2,3,18,purchase
+251,Quinn_Lopez_0251,Quinn,Lopez,quinn.lopez251@example.org,Server_C,1462,22,I need assistance with billing,random,neutral,18658,low,returning,422,simple,intermediate,2,3,28,technical
+252,Victor_Robinson_0252,Victor,Robinson,victor.robinson252@yahoo.com,Server_B,918,18,There's an error in my order,slow,neutral,1386,medium,new,345,simple,advanced,3,1,47,support
+253,Wendy_Torres_0253,Wendy,Torres,wendy.torres253@client.biz,Any,1231,6,The system is running slowly,random,neutral,43853,high,new,255,simple,intermediate,5,3,36,information
+254,Taylor_Davis_0254,Taylor,Davis,taylor.davis254@company.com,Server_A,869,34,I'm having trouble accessing my data,slow,negative,51252,high,new,462,simple,intermediate,3,3,57,support
+255,Leo_Nguyen_0255,Leo,Nguyen,leo.nguyen255@gmail.com,Server_A,1473,21,There's an error in my order,slow,random,3160,high,returning,90,simple,beginner,5,3,12,technical
+256,Ellis_Wilson_0256,Ellis,Wilson,ellis.wilson256@gmail.com,Server_B,1763,10,Can you help me reset my password?,medium,random,34022,high,new,322,medium,beginner,2,1,22,complaint
+257,Kendall_Wright_0257,Kendall,Wright,kendall.wright257@demo.io,Server_C,245,28,There's a bug in the application,quick,random,47301,high,returning,143,simple,advanced,3,3,17,purchase
+258,Mia_Green_0258,Mia,Green,mia.green258@client.biz,Server_A,1800,49,Can you check my account status?,quick,neutral,53247,low,new,503,medium,advanced,5,1,42,purchase
+259,Yara_Lee_0259,Yara,Lee,yara.lee259@test.net,Server_C,377,36,Could you explain how this feature works?,random,neutral,50346,low,returning,399,medium,advanced,3,1,38,complaint
+260,Alex_Robinson_0260,Alex,Robinson,alex.robinson260@hotmail.com,Server_B,981,16,"Hello, I need help with my account",medium,random,36189,low,premium,166,complex,advanced,4,2,47,technical
+261,Ellis_Wilson_0261,Ellis,Wilson,ellis.wilson261@example.org,Any,1211,44,Can you provide more information?,slow,positive,29598,medium,returning,150,complex,beginner,3,1,6,information
+262,Jesse_Taylor_0262,Jesse,Taylor,jesse.taylor262@example.org,Server_B,1021,12,I have a question about your service,random,random,59993,low,returning,140,complex,beginner,4,1,15,information
+263,Sage_Taylor_0263,Sage,Taylor,sage.taylor263@example.org,Server_C,786,33,I have a question about your service,quick,negative,70400,low,premium,131,medium,beginner,2,3,34,complaint
+264,Uma_Torres_0264,Uma,Torres,uma.torres264@client.biz,Server_B,1393,11,The system is running slowly,medium,neutral,81216,low,new,587,simple,advanced,3,2,51,technical
+265,Peter_Jackson_0265,Peter,Jackson,peter.jackson265@company.com,Server_C,1794,10,There's an error in my order,random,positive,57384,medium,premium,81,complex,advanced,3,2,17,purchase
+266,Sam_Flores_0266,Sam,Flores,sam.flores266@test.net,Server_C,1570,41,The system is running slowly,medium,random,58340,medium,premium,60,complex,advanced,2,3,20,technical
+267,Bob_Rivera_0267,Bob,Rivera,bob.rivera267@yahoo.com,Server_A,1596,10,I want to cancel my subscription,quick,negative,41748,low,premium,579,medium,beginner,4,3,7,information
+268,Tina_Rodriguez_0268,Tina,Rodriguez,tina.rodriguez268@company.com,Server_B,906,5,My account is not working properly,quick,random,23277,medium,premium,235,simple,beginner,3,3,46,technical
+269,Peter_Torres_0269,Peter,Torres,peter.torres269@hotmail.com,Server_C,1037,47,Can you help me with a technical issue?,quick,random,4173,low,returning,252,simple,intermediate,5,3,51,purchase
+270,Phoenix_Wilson_0270,Phoenix,Wilson,phoenix.wilson270@outlook.com,Server_C,1087,27,Could you explain how this feature works?,random,positive,15112,low,returning,220,medium,beginner,2,2,46,support
+271,Jesse_Sanchez_0271,Jesse,Sanchez,jesse.sanchez271@client.biz,Server_A,1115,13,The system is running slowly,medium,positive,35885,low,returning,206,medium,beginner,3,3,50,purchase
+272,Wendy_Lewis_0272,Wendy,Lewis,wendy.lewis272@outlook.com,Server_B,1077,19,I need help with configuration,random,random,27905,low,premium,386,medium,intermediate,3,3,20,support
+273,Eve_White_0273,Eve,White,eve.white273@sample.co,Server_C,854,50,I want to upgrade my plan,medium,positive,3450,high,new,274,complex,advanced,5,1,54,purchase
+274,Peter_Nelson_0274,Peter,Nelson,peter.nelson274@outlook.com,Server_A,205,14,I want to upgrade my plan,slow,random,80285,medium,returning,584,medium,advanced,4,1,49,support
+275,Sage_Martin_0275,Sage,Martin,sage.martin275@demo.io,Server_A,1524,18,Could you explain how this feature works?,slow,negative,39519,high,new,536,simple,intermediate,3,1,59,support
+276,Gray_Walker_0276,Gray,Walker,gray.walker276@test.net,Server_A,245,17,There's an error in my order,slow,random,75884,low,new,390,complex,intermediate,4,3,46,technical
+277,Jesse_Wilson_0277,Jesse,Wilson,jesse.wilson277@gmail.com,Server_B,638,14,I have a complaint about the service,quick,neutral,37944,low,premium,39,complex,intermediate,4,3,58,complaint
+278,Jesse_Thompson_0278,Jesse,Thompson,jesse.thompson278@client.biz,Server_C,713,50,I need help with configuration,slow,positive,49680,high,returning,344,simple,intermediate,2,2,21,information
+279,Gray_Williams_0279,Gray,Williams,gray.williams279@test.net,Server_C,178,28,I need help with configuration,slow,random,72845,low,returning,279,simple,beginner,5,2,46,technical
+280,Kendall_Rivera_0280,Kendall,Rivera,kendall.rivera280@outlook.com,Server_C,669,35,Could you explain how this feature works?,quick,positive,61790,low,new,598,medium,advanced,2,3,9,complaint
+281,Bob_Adams_0281,Bob,Adams,bob.adams281@gmail.com,Server_B,1765,42,I want to cancel my subscription,quick,negative,22906,medium,premium,118,medium,advanced,4,1,37,complaint
+282,Jack_Davis_0282,Jack,Davis,jack.davis282@test.net,Server_C,405,39,There's an error in my order,random,positive,56560,medium,premium,172,simple,beginner,4,1,28,information
+283,Morgan_White_0283,Morgan,White,morgan.white283@demo.io,Server_B,1233,47,There's a bug in the application,quick,negative,84326,medium,returning,501,complex,advanced,5,1,35,purchase
+284,Indigo_Lee_0284,Indigo,Lee,indigo.lee284@example.org,Server_A,641,29,I need training on how to use this,medium,positive,81979,high,returning,564,medium,intermediate,5,1,52,purchase
+285,Ellis_White_0285,Ellis,White,ellis.white285@hotmail.com,Server_A,1187,5,"Hello, I need help with my account",medium,negative,29084,low,premium,82,medium,intermediate,3,1,37,technical
+286,Bob_Lopez_0286,Bob,Lopez,bob.lopez286@outlook.com,Any,554,20,Can you provide more information?,quick,random,49201,low,new,176,medium,advanced,3,2,48,support
+287,Bob_Garcia_0287,Bob,Garcia,bob.garcia287@client.biz,Server_C,1047,44,There's an error in my order,slow,neutral,83513,medium,returning,343,complex,beginner,3,1,13,information
+288,Tina_Hernandez_0288,Tina,Hernandez,tina.hernandez288@test.net,Server_B,628,32,Can you provide more information?,quick,positive,26974,high,new,594,medium,advanced,3,1,27,technical
+289,Mia_Anderson_0289,Mia,Anderson,mia.anderson289@sample.co,Server_B,1152,24,I have a complaint about the service,slow,neutral,32375,medium,new,430,complex,beginner,4,2,40,information
+290,Zoe_Taylor_0290,Zoe,Taylor,zoe.taylor290@outlook.com,Server_A,931,5,I need training on how to use this,medium,negative,69690,high,premium,357,complex,advanced,3,2,51,information
+291,Gray_Jackson_0291,Gray,Jackson,gray.jackson291@yahoo.com,Server_B,434,30,I want to upgrade my plan,random,neutral,9286,medium,returning,524,simple,advanced,5,1,41,purchase
+292,Xavier_Brown_0292,Xavier,Brown,xavier.brown292@sample.co,Server_A,326,34,There's an error in my order,medium,random,58628,medium,returning,263,simple,beginner,2,3,49,complaint
+293,Blake_Martin_0293,Blake,Martin,blake.martin293@demo.io,Server_B,1578,24,I need help with configuration,medium,neutral,14093,low,premium,565,medium,intermediate,2,1,37,support
+294,Alex_Clark_0294,Alex,Clark,alex.clark294@outlook.com,Server_A,1358,39,I want to upgrade my plan,quick,negative,43819,low,returning,521,simple,intermediate,4,3,52,information
+295,Zoe_Davis_0295,Zoe,Davis,zoe.davis295@company.com,Server_C,807,22,I'm having trouble accessing my data,slow,neutral,41273,low,returning,163,complex,intermediate,5,2,59,support
+296,Oakley_Young_0296,Oakley,Young,oakley.young296@demo.io,Server_B,892,44,There's a bug in the application,random,negative,61712,medium,premium,589,complex,intermediate,5,1,40,support
+297,Ruby_Ramirez_0297,Ruby,Ramirez,ruby.ramirez297@test.net,Server_A,665,48,The system is running slowly,quick,positive,5858,high,premium,69,simple,advanced,4,3,41,purchase
+298,Nico_Robinson_0298,Nico,Robinson,nico.robinson298@test.net,Any,811,29,I'm experiencing problems with login,medium,negative,37586,high,returning,131,simple,beginner,2,3,35,information
+299,River_Perez_0299,River,Perez,river.perez299@yahoo.com,Server_A,541,40,Can you check my account status?,quick,neutral,32844,medium,new,359,simple,intermediate,5,3,26,complaint
+300,Ivy_Johnson_0300,Ivy,Johnson,ivy.johnson300@gmail.com,Server_B,1161,10,I want to cancel my subscription,random,positive,38754,medium,premium,502,medium,advanced,3,2,60,information
+301,Taylor_Miller_0301,Taylor,Miller,taylor.miller301@client.biz,Server_B,251,10,There's a bug in the application,quick,random,5825,high,returning,328,simple,intermediate,3,1,26,information
+302,Karen_Torres_0302,Karen,Torres,karen.torres302@yahoo.com,Server_B,515,8,I'm having trouble accessing my data,medium,positive,46102,low,premium,49,medium,beginner,3,1,39,support
+303,Olivia_Clark_0303,Olivia,Clark,olivia.clark303@test.net,Server_A,502,12,The system is running slowly,medium,positive,74742,high,premium,148,complex,advanced,4,3,23,purchase
+304,Ivy_Allen_0304,Ivy,Allen,ivy.allen304@gmail.com,Server_C,93,5,I'm having trouble accessing my data,slow,neutral,79807,medium,new,325,simple,beginner,5,2,21,purchase
+305,Diana_Hill_0305,Diana,Hill,diana.hill305@example.org,Server_A,1628,21,Can you provide more information?,quick,positive,57304,medium,new,319,medium,intermediate,3,1,6,information
+306,Yara_Anderson_0306,Yara,Anderson,yara.anderson306@client.biz,Server_B,790,5,There's an error in my order,slow,random,38385,high,new,370,complex,intermediate,3,2,9,purchase
+307,Finley_Hall_0307,Finley,Hall,finley.hall307@sample.co,Any,175,8,My account is not working properly,slow,random,86329,medium,returning,114,medium,beginner,2,3,59,complaint
+308,Finley_Gonzalez_0308,Finley,Gonzalez,finley.gonzalez308@outlook.com,Server_B,957,17,Could you explain how this feature works?,random,neutral,19400,medium,new,449,simple,beginner,2,1,22,support
+309,Ivy_Davis_0309,Ivy,Davis,ivy.davis309@client.biz,Any,1347,33,I need training on how to use this,medium,negative,20851,low,premium,414,medium,advanced,5,2,55,complaint
+310,Mia_Ramirez_0310,Mia,Ramirez,mia.ramirez310@demo.io,Any,1503,38,There's an error in my order,random,neutral,8021,low,returning,575,complex,advanced,4,3,49,purchase
+311,Finley_Jones_0311,Finley,Jones,finley.jones311@company.com,Server_C,1563,38,Can you check my account status?,random,negative,457,medium,new,333,medium,advanced,4,3,17,support
+312,Harper_Lee_0312,Harper,Lee,harper.lee312@hotmail.com,Server_C,1094,18,I need training on how to use this,random,positive,36380,low,returning,336,complex,advanced,2,1,31,information
+313,Alex_Williams_0313,Alex,Williams,alex.williams313@outlook.com,Server_C,1157,27,I'm having trouble accessing my data,random,negative,21531,high,premium,397,complex,advanced,4,1,28,purchase
+314,Alex_Hernandez_0314,Alex,Hernandez,alex.hernandez314@client.biz,Any,1068,48,I need help with integration,slow,positive,9688,medium,new,549,simple,beginner,4,3,11,purchase
+315,Karen_Miller_0315,Karen,Miller,karen.miller315@hotmail.com,Server_A,1224,30,My account is not working properly,random,neutral,84946,low,premium,419,complex,intermediate,5,2,14,technical
+316,Ellis_Robinson_0316,Ellis,Robinson,ellis.robinson316@sample.co,Server_A,1004,14,I have a complaint about the service,medium,random,39135,medium,premium,500,medium,beginner,2,2,51,complaint
+317,Gray_Green_0317,Gray,Green,gray.green317@gmail.com,Any,347,44,I need assistance with billing,slow,negative,20619,medium,premium,145,medium,intermediate,3,2,40,information
+318,Uma_Rivera_0318,Uma,Rivera,uma.rivera318@company.com,Server_C,1619,42,I need training on how to use this,quick,neutral,40163,medium,new,298,medium,intermediate,5,2,13,purchase
+319,Eve_Young_0319,Eve,Young,eve.young319@sample.co,Server_C,927,42,I'm experiencing problems with login,random,negative,52734,medium,returning,37,complex,advanced,5,1,18,complaint
+320,Harper_Robinson_0320,Harper,Robinson,harper.robinson320@outlook.com,Server_C,1431,45,Can you provide more information?,quick,neutral,45904,medium,new,236,medium,beginner,3,1,29,information
+321,Leo_Moore_0321,Leo,Moore,leo.moore321@yahoo.com,Server_C,1748,20,My account is not working properly,slow,neutral,17945,medium,new,344,simple,advanced,5,3,39,purchase
+322,Lane_Torres_0322,Lane,Torres,lane.torres322@test.net,Server_C,1032,23,I need assistance with billing,quick,negative,48491,medium,new,470,medium,intermediate,5,2,39,support
+323,Phoenix_Flores_0323,Phoenix,Flores,phoenix.flores323@yahoo.com,Any,514,8,The system is running slowly,random,neutral,27360,low,returning,535,simple,intermediate,2,3,46,information
+324,Charlie_Wilson_0324,Charlie,Wilson,charlie.wilson324@gmail.com,Any,1413,47,Could you explain how this feature works?,slow,positive,3501,high,new,141,simple,beginner,2,3,22,purchase
+325,Leo_Williams_0325,Leo,Williams,leo.williams325@test.net,Server_B,866,23,I have a question about your service,random,neutral,47077,medium,returning,192,simple,advanced,3,2,18,technical
+326,River_Thompson_0326,River,Thompson,river.thompson326@company.com,Any,857,8,There's a bug in the application,random,random,81817,medium,premium,323,simple,beginner,5,3,11,technical
+327,Morgan_Martinez_0327,Morgan,Martinez,morgan.martinez327@outlook.com,Server_A,1284,30,My account is not working properly,quick,random,14287,low,premium,551,simple,advanced,5,3,36,purchase
+328,Tina_Hall_0328,Tina,Hall,tina.hall328@outlook.com,Server_C,665,7,Can you check my account status?,quick,positive,75004,medium,premium,434,simple,intermediate,5,1,37,support
+329,Indigo_Campbell_0329,Indigo,Campbell,indigo.campbell329@outlook.com,Server_B,235,24,Can you provide more information?,medium,neutral,58987,medium,new,148,medium,advanced,2,2,46,complaint
+330,Kendall_Perez_0330,Kendall,Perez,kendall.perez330@test.net,Any,1570,7,I need help with configuration,slow,neutral,84320,high,returning,125,medium,advanced,5,1,49,complaint
+331,Ruby_Martin_0331,Ruby,Martin,ruby.martin331@yahoo.com,Server_C,1765,36,I'm having trouble accessing my data,quick,negative,56432,high,new,585,medium,intermediate,2,3,38,support
+332,Peter_Lopez_0332,Peter,Lopez,peter.lopez332@outlook.com,Server_B,339,19,I need training on how to use this,random,negative,47889,high,premium,355,simple,beginner,3,2,47,information
+333,Drew_Torres_0333,Drew,Torres,drew.torres333@hotmail.com,Any,955,29,I need help with integration,slow,negative,45947,high,returning,495,complex,intermediate,2,2,5,technical
+334,Unique_Campbell_0334,Unique,Campbell,unique.campbell334@example.org,Server_C,513,6,Can you help me reset my password?,medium,positive,33556,medium,new,216,complex,advanced,3,3,33,support
+335,Casey_Lewis_0335,Casey,Lewis,casey.lewis335@company.com,Server_C,1318,32,I need help with integration,slow,neutral,4181,high,returning,519,simple,advanced,5,1,43,purchase
+336,Kendall_Rodriguez_0336,Kendall,Rodriguez,kendall.rodriguez336@sample.co,Any,1440,14,I have a question about your service,slow,negative,81705,low,premium,44,complex,advanced,3,1,11,information
+337,Grace_Brown_0337,Grace,Brown,grace.brown337@client.biz,Server_C,1039,6,I want to upgrade my plan,random,negative,81988,low,new,407,medium,beginner,3,1,49,complaint
+338,Oakley_Johnson_0338,Oakley,Johnson,oakley.johnson338@demo.io,Server_C,1653,49,Can you help me with a technical issue?,quick,neutral,80790,medium,returning,338,complex,beginner,5,1,9,support
+339,Blake_Nguyen_0339,Blake,Nguyen,blake.nguyen339@demo.io,Any,1240,47,My account is not working properly,random,neutral,22696,medium,new,544,simple,intermediate,5,3,52,information
+340,Wendy_Adams_0340,Wendy,Adams,wendy.adams340@test.net,Server_C,1057,28,Can you check my account status?,medium,negative,83201,high,premium,447,simple,beginner,2,3,39,purchase
+341,Leo_Lewis_0341,Leo,Lewis,leo.lewis341@company.com,Any,1102,21,Can you provide more information?,medium,negative,68872,high,premium,250,simple,beginner,5,1,9,purchase
+342,Peter_Adams_0342,Peter,Adams,peter.adams342@company.com,Any,1263,42,I'm having trouble accessing my data,medium,negative,65220,medium,returning,318,complex,advanced,4,1,29,complaint
+343,Henry_Taylor_0343,Henry,Taylor,henry.taylor343@test.net,Any,1493,17,Could you explain how this feature works?,random,random,56778,medium,returning,216,medium,advanced,4,3,45,information
+344,Quinn_White_0344,Quinn,White,quinn.white344@test.net,Any,66,25,Can you check my account status?,medium,random,1506,high,new,166,complex,intermediate,3,3,37,technical
+345,Zoe_Johnson_0345,Zoe,Johnson,zoe.johnson345@yahoo.com,Server_B,942,36,There's a bug in the application,quick,random,13893,medium,returning,442,simple,beginner,4,3,40,technical
+346,Sam_Anderson_0346,Sam,Anderson,sam.anderson346@demo.io,Server_A,509,40,I want to cancel my subscription,medium,positive,48397,low,returning,459,medium,intermediate,2,1,38,technical
+347,Taylor_Lewis_0347,Taylor,Lewis,taylor.lewis347@gmail.com,Server_A,1297,45,I'm having trouble accessing my data,medium,positive,82972,high,returning,186,complex,intermediate,2,1,58,support
+348,Nico_Miller_0348,Nico,Miller,nico.miller348@client.biz,Server_C,1227,37,I need help with integration,slow,positive,73295,low,new,69,simple,advanced,2,3,52,support
+349,Bob_Hill_0349,Bob,Hill,bob.hill349@gmail.com,Server_C,785,26,I need training on how to use this,medium,positive,50982,low,premium,168,medium,advanced,3,1,13,information
+350,Sage_Torres_0350,Sage,Torres,sage.torres350@hotmail.com,Any,217,42,I need training on how to use this,slow,neutral,68667,medium,returning,410,simple,advanced,3,2,5,purchase
+351,Tina_Nelson_0351,Tina,Nelson,tina.nelson351@test.net,Any,696,22,I'm having trouble accessing my data,medium,neutral,53649,low,returning,362,complex,intermediate,5,3,28,technical
+352,Peter_Thompson_0352,Peter,Thompson,peter.thompson352@gmail.com,Server_B,215,20,I have a complaint about the service,random,random,35616,low,new,511,medium,beginner,2,3,28,purchase
+353,Frank_Moore_0353,Frank,Moore,frank.moore353@demo.io,Server_B,358,15,I want to upgrade my plan,medium,positive,44044,medium,new,402,simple,intermediate,2,1,35,purchase
+354,Charlie_Jones_0354,Charlie,Jones,charlie.jones354@outlook.com,Server_A,1647,13,There's an error in my order,quick,negative,24149,medium,premium,597,medium,intermediate,4,1,31,complaint
+355,Quinn_Campbell_0355,Quinn,Campbell,quinn.campbell355@sample.co,Any,661,28,I have a complaint about the service,quick,neutral,32905,high,new,548,complex,beginner,3,3,24,technical
+356,Uma_Smith_0356,Uma,Smith,uma.smith356@outlook.com,Server_A,1515,50,I need help with configuration,quick,negative,74932,low,premium,469,medium,advanced,4,1,54,information
+357,Ruby_Green_0357,Ruby,Green,ruby.green357@test.net,Server_B,813,42,I have a complaint about the service,slow,neutral,83861,medium,new,388,simple,advanced,5,2,46,support
+358,Phoenix_Davis_0358,Phoenix,Davis,phoenix.davis358@client.biz,Any,1796,31,Can you check my account status?,random,neutral,10080,low,returning,273,medium,beginner,4,2,18,support
+359,Ivy_Thompson_0359,Ivy,Thompson,ivy.thompson359@yahoo.com,Server_C,1559,5,I have a complaint about the service,quick,positive,15399,high,returning,215,simple,intermediate,5,2,34,technical
+360,Jack_Davis_0360,Jack,Davis,jack.davis360@gmail.com,Server_C,1029,32,Can you help me reset my password?,quick,neutral,280,low,returning,446,complex,advanced,5,2,20,purchase
+361,Zoe_Miller_0361,Zoe,Miller,zoe.miller361@sample.co,Any,1567,20,Can you provide more information?,quick,neutral,53930,low,returning,127,complex,advanced,3,2,40,purchase
+362,Lane_Mitchell_0362,Lane,Mitchell,lane.mitchell362@example.org,Server_B,1298,15,Could you explain how this feature works?,random,neutral,72648,high,premium,344,complex,beginner,2,1,37,complaint
+363,Karen_Lopez_0363,Karen,Lopez,karen.lopez363@hotmail.com,Any,1434,27,I have a question about your service,quick,negative,24731,high,new,188,medium,advanced,4,3,46,technical
+364,Kendall_Taylor_0364,Kendall,Taylor,kendall.taylor364@test.net,Server_C,288,31,I have a complaint about the service,quick,negative,7727,low,new,71,simple,intermediate,5,1,29,technical
+365,Jack_Nguyen_0365,Jack,Nguyen,jack.nguyen365@test.net,Server_B,1619,16,The system is running slowly,quick,positive,71300,medium,premium,294,complex,advanced,4,1,26,complaint
+366,Drew_Walker_0366,Drew,Walker,drew.walker366@hotmail.com,Server_B,474,33,I have a complaint about the service,slow,random,65810,medium,returning,109,complex,beginner,5,2,24,information
+367,Kendall_Lopez_0367,Kendall,Lopez,kendall.lopez367@client.biz,Server_C,169,19,"Hello, I need help with my account",slow,negative,13977,low,premium,274,complex,advanced,4,3,48,support
+368,Sage_Allen_0368,Sage,Allen,sage.allen368@example.org,Server_C,134,9,There's an error in my order,slow,neutral,27515,low,returning,324,simple,advanced,4,2,46,support
+369,Grace_Jackson_0369,Grace,Jackson,grace.jackson369@test.net,Server_A,1223,37,There's a bug in the application,random,neutral,29329,medium,new,181,simple,intermediate,5,3,11,technical
+370,Phoenix_Perez_0370,Phoenix,Perez,phoenix.perez370@test.net,Server_C,1572,30,I need help with integration,random,neutral,79672,medium,new,86,complex,advanced,4,2,17,support
+371,Sam_Clark_0371,Sam,Clark,sam.clark371@client.biz,Server_B,851,6,Can you check my account status?,medium,negative,67677,low,returning,261,simple,beginner,5,2,34,information
+372,Olivia_Martin_0372,Olivia,Martin,olivia.martin372@test.net,Any,494,41,The system is running slowly,slow,negative,39347,high,new,552,simple,beginner,2,2,53,complaint
+373,Sage_Scott_0373,Sage,Scott,sage.scott373@test.net,Server_A,1238,47,Can you help me reset my password?,quick,random,73352,high,new,394,complex,beginner,4,1,32,purchase
+374,Quinn_Ramirez_0374,Quinn,Ramirez,quinn.ramirez374@test.net,Any,630,37,I want to upgrade my plan,random,neutral,39688,high,premium,203,simple,intermediate,2,1,46,technical
+375,Charlie_Nguyen_0375,Charlie,Nguyen,charlie.nguyen375@demo.io,Server_A,434,9,I need help with integration,random,random,18111,medium,returning,285,complex,intermediate,5,3,46,complaint
+376,Casey_King_0376,Casey,King,casey.king376@hotmail.com,Server_B,1123,24,I need assistance with billing,medium,negative,2548,medium,premium,433,simple,beginner,3,2,42,support
+377,Alex_Adams_0377,Alex,Adams,alex.adams377@example.org,Server_C,1609,36,Can you help me reset my password?,random,random,8535,high,premium,475,complex,advanced,2,3,14,information
+378,Xavier_Gonzalez_0378,Xavier,Gonzalez,xavier.gonzalez378@company.com,Any,1133,15,"Hello, I need help with my account",medium,negative,27953,high,new,320,medium,advanced,3,2,52,purchase
+379,Jesse_King_0379,Jesse,King,jesse.king379@company.com,Server_B,1227,24,I have a complaint about the service,slow,neutral,16594,high,premium,396,complex,intermediate,2,2,29,purchase
+380,Yara_Garcia_0380,Yara,Garcia,yara.garcia380@outlook.com,Server_C,707,20,I'm experiencing problems with login,quick,random,5870,medium,premium,425,complex,advanced,5,2,45,information
+381,Kendall_Harris_0381,Kendall,Harris,kendall.harris381@example.org,Server_A,1083,36,Can you help me reset my password?,quick,neutral,2098,medium,premium,266,complex,beginner,4,1,37,purchase
+382,Alice_Ramirez_0382,Alice,Ramirez,alice.ramirez382@example.org,Any,1013,10,Can you provide more information?,quick,random,39194,low,premium,81,medium,advanced,2,1,36,information
+383,Alice_Hill_0383,Alice,Hill,alice.hill383@demo.io,Server_A,1620,47,Can you help me reset my password?,quick,random,8864,medium,returning,496,complex,intermediate,2,3,26,information
+384,Grace_Baker_0384,Grace,Baker,grace.baker384@client.biz,Server_A,1232,10,I'm experiencing problems with login,medium,positive,41498,low,returning,541,simple,intermediate,5,3,13,purchase
+385,Karen_White_0385,Karen,White,karen.white385@yahoo.com,Server_C,1147,28,Can you help me with a technical issue?,quick,neutral,6682,high,returning,328,complex,advanced,3,3,16,technical
+386,Casey_Baker_0386,Casey,Baker,casey.baker386@hotmail.com,Any,1452,46,I'm having trouble accessing my data,medium,negative,72172,low,premium,105,simple,advanced,5,2,56,technical
+387,Indigo_Lopez_0387,Indigo,Lopez,indigo.lopez387@yahoo.com,Any,1506,15,Can you provide more information?,random,negative,79339,low,returning,493,medium,beginner,4,3,57,complaint
+388,Peter_Sanchez_0388,Peter,Sanchez,peter.sanchez388@demo.io,Server_C,1329,9,I have a complaint about the service,slow,random,46770,medium,premium,65,complex,advanced,3,2,8,support
+389,Peter_Scott_0389,Peter,Scott,peter.scott389@outlook.com,Any,397,17,I'm experiencing problems with login,random,negative,43287,low,premium,279,medium,intermediate,4,3,51,information
+390,Xavier_Scott_0390,Xavier,Scott,xavier.scott390@hotmail.com,Server_A,1654,12,My account is not working properly,medium,negative,10547,high,premium,74,complex,intermediate,3,2,35,purchase
+391,Jack_Brown_0391,Jack,Brown,jack.brown391@client.biz,Any,1243,24,I need assistance with billing,medium,random,29935,high,premium,79,complex,beginner,4,2,8,purchase
+392,Jack_Wilson_0392,Jack,Wilson,jack.wilson392@outlook.com,Any,496,27,Can you provide more information?,quick,positive,45184,low,new,568,complex,beginner,4,2,59,support
+393,Karen_King_0393,Karen,King,karen.king393@client.biz,Server_C,1741,26,Can you check my account status?,quick,neutral,17533,low,new,287,complex,intermediate,4,3,42,information
+394,Eve_Campbell_0394,Eve,Campbell,eve.campbell394@yahoo.com,Server_C,729,17,There's an error in my order,random,positive,81988,high,premium,143,complex,beginner,3,1,23,complaint
+395,Ellis_Baker_0395,Ellis,Baker,ellis.baker395@demo.io,Any,762,27,I need help with configuration,quick,random,47605,low,premium,286,complex,advanced,3,2,16,information
+396,Karen_Adams_0396,Karen,Adams,karen.adams396@hotmail.com,Server_A,1323,45,I want to upgrade my plan,medium,neutral,49679,high,new,460,complex,beginner,3,3,23,support
+397,Oakley_Jones_0397,Oakley,Jones,oakley.jones397@test.net,Any,591,28,I have a question about your service,medium,positive,85829,low,premium,389,medium,beginner,2,2,13,technical
+398,Diana_Rivera_0398,Diana,Rivera,diana.rivera398@company.com,Any,824,23,There's an error in my order,quick,positive,436,medium,new,315,medium,beginner,3,2,59,purchase
+399,Finley_Nguyen_0399,Finley,Nguyen,finley.nguyen399@sample.co,Server_A,756,6,I need help with integration,slow,negative,36378,high,returning,463,complex,intermediate,4,1,48,purchase
+400,Grace_Miller_0400,Grace,Miller,grace.miller400@hotmail.com,Server_B,1313,13,Can you help me reset my password?,slow,positive,41565,high,new,454,medium,intermediate,5,3,15,purchase
+401,Tina_Jones_0401,Tina,Jones,tina.jones401@sample.co,Server_C,1337,14,Can you help me reset my password?,quick,positive,76923,low,premium,240,complex,intermediate,4,2,57,support
+402,Charlie_Torres_0402,Charlie,Torres,charlie.torres402@company.com,Server_A,948,34,I want to upgrade my plan,slow,negative,349,high,premium,72,complex,beginner,5,2,49,information
+403,Charlie_Jackson_0403,Charlie,Jackson,charlie.jackson403@test.net,Server_A,1385,10,I'm experiencing problems with login,random,neutral,42268,medium,premium,292,medium,beginner,2,2,40,purchase
+404,Frank_Sanchez_0404,Frank,Sanchez,frank.sanchez404@client.biz,Server_C,383,47,Can you check my account status?,medium,random,75653,low,premium,158,medium,advanced,2,3,55,purchase
+405,Wendy_Flores_0405,Wendy,Flores,wendy.flores405@hotmail.com,Server_A,920,35,I want to upgrade my plan,quick,neutral,13001,high,premium,491,simple,beginner,3,3,9,technical
+406,Eve_Young_0406,Eve,Young,eve.young406@test.net,Server_A,85,23,I have a question about your service,quick,neutral,25032,low,new,275,simple,intermediate,4,2,23,information
+407,Jack_Campbell_0407,Jack,Campbell,jack.campbell407@client.biz,Server_A,709,21,Can you help me with a technical issue?,random,random,5545,low,premium,341,complex,advanced,2,2,33,purchase
+408,Phoenix_Lee_0408,Phoenix,Lee,phoenix.lee408@company.com,Server_C,345,22,Can you provide more information?,medium,neutral,72946,low,new,546,simple,intermediate,3,1,25,complaint
+409,Blake_Young_0409,Blake,Young,blake.young409@yahoo.com,Server_C,1287,46,Can you check my account status?,quick,random,83598,medium,premium,346,simple,advanced,3,3,43,technical
+410,Phoenix_Young_0410,Phoenix,Young,phoenix.young410@sample.co,Server_A,377,9,Can you check my account status?,medium,positive,44823,low,returning,75,medium,beginner,2,1,41,information
+411,Taylor_Campbell_0411,Taylor,Campbell,taylor.campbell411@hotmail.com,Server_C,133,30,Could you explain how this feature works?,quick,random,71953,high,returning,348,medium,beginner,3,3,19,complaint
+412,Gray_Jackson_0412,Gray,Jackson,gray.jackson412@client.biz,Any,1145,36,I have a question about your service,slow,positive,69709,low,new,591,complex,beginner,3,2,30,support
+413,Zoe_Martin_0413,Zoe,Martin,zoe.martin413@gmail.com,Server_C,833,42,My account is not working properly,slow,positive,60589,medium,returning,456,simple,beginner,5,1,27,technical
+414,Alice_Brown_0414,Alice,Brown,alice.brown414@sample.co,Any,1337,29,There's a bug in the application,slow,neutral,4770,high,returning,364,simple,beginner,2,2,9,technical
+415,Phoenix_Rodriguez_0415,Phoenix,Rodriguez,phoenix.rodriguez415@test.net,Any,338,12,Can you help me with a technical issue?,medium,positive,3368,low,new,583,simple,advanced,5,3,34,technical
+416,Grace_Allen_0416,Grace,Allen,grace.allen416@example.org,Any,283,34,Could you explain how this feature works?,slow,random,60169,medium,new,95,simple,beginner,4,3,6,purchase
+417,River_Nguyen_0417,River,Nguyen,river.nguyen417@company.com,Server_A,268,18,I have a complaint about the service,medium,random,70410,low,returning,294,medium,beginner,2,1,60,technical
+418,Alex_Miller_0418,Alex,Miller,alex.miller418@yahoo.com,Server_B,285,27,"Hello, I need help with my account",slow,negative,55857,low,new,324,medium,advanced,5,3,8,technical
+419,Ruby_Taylor_0419,Ruby,Taylor,ruby.taylor419@outlook.com,Server_A,1534,18,I have a complaint about the service,quick,neutral,68172,low,returning,161,medium,intermediate,4,2,36,complaint
+420,Oakley_Green_0420,Oakley,Green,oakley.green420@outlook.com,Server_C,1788,32,I need help with integration,quick,positive,11078,low,premium,366,simple,beginner,3,2,47,complaint
+421,Casey_Smith_0421,Casey,Smith,casey.smith421@gmail.com,Server_A,1612,22,"Hello, I need help with my account",medium,negative,7877,low,new,99,complex,advanced,3,1,44,complaint
+422,Ellis_Gonzalez_0422,Ellis,Gonzalez,ellis.gonzalez422@test.net,Server_C,556,13,The system is running slowly,slow,positive,85966,high,returning,335,medium,advanced,2,2,38,complaint
+423,Drew_Moore_0423,Drew,Moore,drew.moore423@sample.co,Server_B,962,43,Can you provide more information?,slow,positive,3080,high,premium,160,simple,advanced,5,2,28,purchase
+424,Alex_Jones_0424,Alex,Jones,alex.jones424@yahoo.com,Server_A,338,39,I have a question about your service,medium,random,34121,high,returning,75,simple,intermediate,4,1,16,support
+425,Taylor_Moore_0425,Taylor,Moore,taylor.moore425@company.com,Any,596,46,I want to upgrade my plan,quick,negative,3905,medium,returning,429,medium,intermediate,4,1,43,purchase
+426,Mia_Lopez_0426,Mia,Lopez,mia.lopez426@test.net,Any,1384,46,I want to cancel my subscription,random,negative,8771,medium,new,399,complex,beginner,2,1,13,information
+427,Jack_Scott_0427,Jack,Scott,jack.scott427@yahoo.com,Any,1566,38,I need help with integration,medium,negative,16438,medium,premium,578,medium,advanced,5,3,55,support
+428,Tina_Taylor_0428,Tina,Taylor,tina.taylor428@demo.io,Any,1539,14,I want to cancel my subscription,random,positive,67770,low,premium,303,medium,advanced,5,2,29,information
+429,Olivia_Lopez_0429,Olivia,Lopez,olivia.lopez429@company.com,Server_A,405,20,My account is not working properly,random,neutral,18162,medium,returning,354,simple,beginner,3,3,54,purchase
+430,Blake_Williams_0430,Blake,Williams,blake.williams430@hotmail.com,Server_B,1342,16,I want to cancel my subscription,random,neutral,50104,low,new,81,complex,advanced,5,1,14,support
+431,Morgan_Lopez_0431,Morgan,Lopez,morgan.lopez431@company.com,Any,1800,42,Can you check my account status?,slow,positive,85878,low,premium,384,simple,advanced,2,3,39,support
+432,Sam_Scott_0432,Sam,Scott,sam.scott432@example.org,Server_C,506,5,The system is running slowly,quick,negative,54483,high,returning,505,medium,beginner,5,1,47,support
+433,Jesse_Lopez_0433,Jesse,Lopez,jesse.lopez433@hotmail.com,Any,921,44,I have a complaint about the service,random,neutral,20509,medium,returning,251,medium,advanced,4,1,29,purchase
+434,Uma_Brown_0434,Uma,Brown,uma.brown434@test.net,Server_A,729,20,"Hello, I need help with my account",quick,neutral,59348,high,premium,327,complex,beginner,4,3,26,technical
+435,Alex_Allen_0435,Alex,Allen,alex.allen435@client.biz,Server_C,909,23,Can you help me reset my password?,random,negative,15672,high,premium,296,complex,intermediate,4,1,14,support
+436,Quinn_Young_0436,Quinn,Young,quinn.young436@demo.io,Server_C,1639,30,I want to cancel my subscription,random,negative,83056,high,premium,125,medium,intermediate,4,2,20,purchase
+437,Ivy_Martin_0437,Ivy,Martin,ivy.martin437@sample.co,Any,663,7,There's an error in my order,random,positive,8641,high,new,366,simple,beginner,2,3,49,information
+438,Jesse_Ramirez_0438,Jesse,Ramirez,jesse.ramirez438@client.biz,Server_C,1511,12,I want to cancel my subscription,slow,negative,22109,medium,new,580,complex,beginner,3,1,13,technical
+439,Xavier_Campbell_0439,Xavier,Campbell,xavier.campbell439@client.biz,Server_A,179,30,I need help with configuration,quick,neutral,30290,medium,premium,445,complex,beginner,2,2,16,technical
+440,Phoenix_Perez_0440,Phoenix,Perez,phoenix.perez440@test.net,Server_C,1022,36,Can you help me reset my password?,slow,positive,38308,medium,new,233,simple,beginner,4,2,45,support
+441,Oakley_Campbell_0441,Oakley,Campbell,oakley.campbell441@gmail.com,Server_A,1491,49,I need help with configuration,slow,random,5274,high,new,133,simple,beginner,3,2,16,purchase
+442,Ruby_Wright_0442,Ruby,Wright,ruby.wright442@example.org,Server_A,929,10,I'm having trouble accessing my data,slow,negative,21587,low,new,274,simple,beginner,4,2,21,information
+443,Quinn_Sanchez_0443,Quinn,Sanchez,quinn.sanchez443@hotmail.com,Server_B,784,5,My account is not working properly,medium,negative,10067,high,returning,264,medium,beginner,3,2,5,complaint
+444,Blake_Flores_0444,Blake,Flores,blake.flores444@hotmail.com,Any,301,13,"Hello, I need help with my account",medium,negative,58006,medium,new,66,simple,beginner,2,2,27,purchase
+445,Frank_Lewis_0445,Frank,Lewis,frank.lewis445@hotmail.com,Server_C,1162,17,There's a bug in the application,medium,neutral,82507,medium,returning,534,medium,intermediate,4,2,30,technical
+446,Karen_Walker_0446,Karen,Walker,karen.walker446@client.biz,Server_B,649,34,I want to upgrade my plan,slow,neutral,24354,low,premium,352,simple,advanced,2,2,60,complaint
+447,Finley_Young_0447,Finley,Young,finley.young447@hotmail.com,Server_A,631,12,I need training on how to use this,random,negative,35260,medium,returning,595,complex,beginner,2,2,30,technical
+448,Yara_Harris_0448,Yara,Harris,yara.harris448@outlook.com,Any,133,5,I need help with integration,quick,neutral,40244,low,returning,196,simple,beginner,5,1,36,complaint
+449,Eve_Sanchez_0449,Eve,Sanchez,eve.sanchez449@test.net,Server_C,417,16,I have a complaint about the service,quick,neutral,20503,low,premium,277,simple,advanced,5,2,11,complaint
+450,Phoenix_Taylor_0450,Phoenix,Taylor,phoenix.taylor450@outlook.com,Any,1308,16,I'm having trouble accessing my data,slow,random,57315,medium,returning,568,complex,beginner,4,3,32,purchase
+451,Victor_Jackson_0451,Victor,Jackson,victor.jackson451@example.org,Server_A,1712,48,I need help with configuration,random,positive,3342,low,premium,557,medium,intermediate,3,1,57,support
+452,Sam_Williams_0452,Sam,Williams,sam.williams452@client.biz,Server_A,1505,24,I need help with integration,medium,negative,41963,medium,new,72,medium,intermediate,4,3,28,purchase
+453,Uma_Garcia_0453,Uma,Garcia,uma.garcia453@hotmail.com,Server_C,414,50,Can you provide more information?,quick,negative,11991,medium,premium,214,medium,intermediate,4,2,12,technical
+454,Grace_Moore_0454,Grace,Moore,grace.moore454@outlook.com,Server_B,1775,24,I need assistance with billing,random,negative,68804,low,premium,577,simple,advanced,4,3,57,purchase
+455,Ellis_Young_0455,Ellis,Young,ellis.young455@test.net,Server_A,1126,9,Can you check my account status?,random,neutral,49344,medium,premium,224,simple,advanced,4,3,27,technical
+456,Blake_Wilson_0456,Blake,Wilson,blake.wilson456@outlook.com,Server_A,271,33,Could you explain how this feature works?,random,positive,52317,medium,returning,560,complex,advanced,4,2,42,technical
+457,Mia_Thompson_0457,Mia,Thompson,mia.thompson457@yahoo.com,Server_C,1798,39,I want to cancel my subscription,random,random,27970,high,returning,537,complex,advanced,4,1,16,purchase
+458,Victor_Torres_0458,Victor,Torres,victor.torres458@company.com,Server_B,1026,19,I want to cancel my subscription,slow,negative,5096,medium,new,218,medium,advanced,3,3,10,purchase
+459,Xavier_Martin_0459,Xavier,Martin,xavier.martin459@yahoo.com,Any,718,23,There's a bug in the application,quick,neutral,53921,low,returning,355,simple,advanced,5,3,22,complaint
+460,Yara_Ramirez_0460,Yara,Ramirez,yara.ramirez460@company.com,Server_C,274,22,Can you provide more information?,quick,neutral,10882,high,returning,403,complex,intermediate,3,2,31,technical
+461,Gray_Johnson_0461,Gray,Johnson,gray.johnson461@client.biz,Server_A,84,25,My account is not working properly,random,negative,38723,high,returning,220,medium,beginner,4,3,34,support
+462,Tina_Williams_0462,Tina,Williams,tina.williams462@company.com,Any,807,7,I need training on how to use this,medium,random,63826,low,returning,535,medium,advanced,3,2,50,information
+463,Harper_Nguyen_0463,Harper,Nguyen,harper.nguyen463@yahoo.com,Any,1167,20,Can you help me reset my password?,medium,random,51703,low,returning,425,simple,advanced,3,2,21,technical
+464,Finley_Clark_0464,Finley,Clark,finley.clark464@hotmail.com,Server_A,123,33,There's a bug in the application,quick,positive,17291,low,returning,509,simple,beginner,5,2,27,support
+465,Mia_Baker_0465,Mia,Baker,mia.baker465@outlook.com,Server_A,1593,13,There's an error in my order,slow,random,24061,high,new,538,simple,intermediate,5,1,16,complaint
+466,Indigo_Lopez_0466,Indigo,Lopez,indigo.lopez466@company.com,Server_C,1599,27,I have a question about your service,slow,negative,31933,low,premium,163,complex,intermediate,2,3,6,technical
+467,Casey_Gonzalez_0467,Casey,Gonzalez,casey.gonzalez467@hotmail.com,Any,1743,16,My account is not working properly,random,neutral,29867,high,new,441,simple,intermediate,4,3,40,support
+468,Jack_Hall_0468,Jack,Hall,jack.hall468@company.com,Any,797,21,Can you check my account status?,quick,positive,65383,low,premium,154,complex,intermediate,3,3,42,purchase
+469,Sage_Lewis_0469,Sage,Lewis,sage.lewis469@demo.io,Server_C,1199,29,My account is not working properly,random,negative,80597,medium,premium,403,simple,intermediate,5,1,50,purchase
+470,Frank_Nelson_0470,Frank,Nelson,frank.nelson470@test.net,Server_B,637,46,Can you help me reset my password?,quick,positive,21830,medium,returning,600,complex,advanced,2,1,15,technical
+471,Alice_Nguyen_0471,Alice,Nguyen,alice.nguyen471@demo.io,Server_B,1077,46,There's a bug in the application,slow,positive,84052,medium,new,105,medium,intermediate,5,1,14,technical
+472,Jack_Torres_0472,Jack,Torres,jack.torres472@demo.io,Server_B,1217,18,I'm experiencing problems with login,slow,neutral,17022,low,returning,109,medium,advanced,3,1,5,purchase
+473,Jesse_Baker_0473,Jesse,Baker,jesse.baker473@example.org,Server_B,1466,33,My account is not working properly,medium,random,15084,medium,returning,502,medium,beginner,5,3,26,information
+474,Peter_Baker_0474,Peter,Baker,peter.baker474@test.net,Server_A,148,9,Can you help me reset my password?,random,random,14085,medium,returning,589,complex,advanced,4,1,40,support
+475,Alex_Green_0475,Alex,Green,alex.green475@yahoo.com,Server_C,168,8,I need training on how to use this,random,positive,15695,medium,returning,375,simple,beginner,5,1,51,complaint
+476,Morgan_Johnson_0476,Morgan,Johnson,morgan.johnson476@hotmail.com,Server_C,1604,22,There's an error in my order,quick,neutral,7493,medium,premium,242,simple,intermediate,3,3,30,complaint
+477,Ivy_Torres_0477,Ivy,Torres,ivy.torres477@demo.io,Server_B,1189,17,I want to cancel my subscription,random,random,62377,medium,returning,32,simple,advanced,5,1,7,information
+478,Morgan_Scott_0478,Morgan,Scott,morgan.scott478@yahoo.com,Server_A,538,34,"Hello, I need help with my account",medium,positive,75978,low,new,299,medium,advanced,4,1,46,purchase
+479,Henry_Walker_0479,Henry,Walker,henry.walker479@sample.co,Any,753,7,I'm having trouble accessing my data,random,positive,85413,high,premium,158,complex,intermediate,5,2,29,complaint
+480,Phoenix_Clark_0480,Phoenix,Clark,phoenix.clark480@gmail.com,Server_C,1357,14,I need assistance with billing,quick,neutral,61662,low,new,342,complex,intermediate,2,1,16,complaint
+481,Uma_Perez_0481,Uma,Perez,uma.perez481@hotmail.com,Server_B,1422,40,I'm experiencing problems with login,slow,positive,62562,high,premium,226,complex,intermediate,5,1,27,technical
+482,River_Anderson_0482,River,Anderson,river.anderson482@gmail.com,Server_B,785,36,I need help with integration,slow,positive,24798,medium,new,436,complex,beginner,5,3,52,complaint
+483,Frank_Adams_0483,Frank,Adams,frank.adams483@sample.co,Any,1231,31,I need help with configuration,medium,negative,30337,medium,returning,350,complex,intermediate,5,3,40,complaint
+484,Karen_Martin_0484,Karen,Martin,karen.martin484@hotmail.com,Server_C,487,12,There's a bug in the application,slow,positive,20788,high,returning,551,complex,advanced,2,2,15,technical
+485,Blake_Hall_0485,Blake,Hall,blake.hall485@hotmail.com,Server_C,938,40,I want to cancel my subscription,medium,random,21292,high,new,418,simple,beginner,5,3,44,information
+486,Unique_Hill_0486,Unique,Hill,unique.hill486@sample.co,Any,1800,46,I need help with integration,slow,random,22231,medium,premium,261,medium,advanced,4,2,14,technical
+487,Lane_Hernandez_0487,Lane,Hernandez,lane.hernandez487@demo.io,Any,802,28,I'm having trouble accessing my data,slow,negative,10751,medium,returning,416,simple,intermediate,2,1,49,purchase
+488,Zoe_Mitchell_0488,Zoe,Mitchell,zoe.mitchell488@test.net,Server_A,786,6,Can you help me reset my password?,random,neutral,14668,high,premium,571,medium,beginner,2,2,6,technical
+489,Sage_Sanchez_0489,Sage,Sanchez,sage.sanchez489@demo.io,Any,1165,30,Can you help me with a technical issue?,slow,positive,17045,high,returning,247,simple,advanced,4,2,20,purchase
+490,Henry_Martinez_0490,Henry,Martinez,henry.martinez490@test.net,Server_B,1317,19,I need training on how to use this,slow,neutral,48975,low,returning,535,complex,beginner,5,2,23,complaint
+491,Yara_Lee_0491,Yara,Lee,yara.lee491@yahoo.com,Server_B,1440,43,Can you help me reset my password?,medium,random,75620,medium,new,60,complex,advanced,4,1,59,technical
+492,Lane_Lopez_0492,Lane,Lopez,lane.lopez492@hotmail.com,Server_B,791,16,I'm having trouble accessing my data,medium,random,33419,high,returning,82,medium,beginner,3,1,53,purchase
+493,Ivy_Johnson_0493,Ivy,Johnson,ivy.johnson493@company.com,Server_A,940,12,Could you explain how this feature works?,random,positive,53997,low,returning,138,complex,advanced,4,2,28,purchase
+494,Zoe_Davis_0494,Zoe,Davis,zoe.davis494@client.biz,Server_C,733,15,Can you check my account status?,random,negative,58132,high,premium,431,simple,beginner,3,1,27,purchase
+495,Phoenix_Moore_0495,Phoenix,Moore,phoenix.moore495@test.net,Any,351,16,I need help with configuration,medium,negative,82285,low,new,155,complex,intermediate,4,2,53,support
+496,Wendy_Johnson_0496,Wendy,Johnson,wendy.johnson496@demo.io,Server_B,1652,38,Can you provide more information?,quick,positive,25292,low,new,461,medium,intermediate,2,1,6,purchase
+497,Noah_Garcia_0497,Noah,Garcia,noah.garcia497@test.net,Server_A,443,12,I'm experiencing problems with login,slow,random,73033,low,returning,535,simple,intermediate,3,2,10,support
+498,Peter_Flores_0498,Peter,Flores,peter.flores498@gmail.com,Server_A,488,41,The system is running slowly,slow,negative,82911,high,new,547,medium,intermediate,2,1,37,purchase
+499,Peter_Williams_0499,Peter,Williams,peter.williams499@gmail.com,Any,508,21,Can you check my account status?,slow,positive,59907,low,premium,351,medium,advanced,3,2,45,purchase
+500,Finley_Johnson_0500,Finley,Johnson,finley.johnson500@demo.io,Any,1593,44,I have a question about your service,random,random,738,high,new,503,complex,advanced,5,3,20,technical
+501,Jack_Johnson_0501,Jack,Johnson,jack.johnson501@company.com,Server_A,502,6,I need help with integration,quick,random,37358,high,premium,573,medium,advanced,5,2,53,support
+502,Kendall_Martin_0502,Kendall,Martin,kendall.martin502@demo.io,Any,76,21,My account is not working properly,quick,random,64448,high,premium,430,complex,beginner,4,2,41,information
+503,Noah_Wright_0503,Noah,Wright,noah.wright503@client.biz,Any,1681,9,I want to cancel my subscription,quick,random,82666,medium,premium,491,complex,intermediate,2,3,11,complaint
+504,Oakley_Scott_0504,Oakley,Scott,oakley.scott504@company.com,Server_C,1758,5,I need training on how to use this,slow,neutral,25734,low,premium,560,medium,intermediate,4,3,44,support
+505,Noah_Wright_0505,Noah,Wright,noah.wright505@gmail.com,Server_B,1777,21,I need help with integration,random,negative,25885,high,returning,585,medium,advanced,5,2,8,information
+506,Noah_Martinez_0506,Noah,Martinez,noah.martinez506@hotmail.com,Server_C,1496,31,The system is running slowly,random,positive,13889,medium,premium,129,complex,advanced,4,3,29,information
+507,Peter_Mitchell_0507,Peter,Mitchell,peter.mitchell507@yahoo.com,Server_B,381,11,I have a question about your service,medium,negative,48165,medium,returning,56,simple,advanced,5,2,8,technical
+508,Frank_Perez_0508,Frank,Perez,frank.perez508@hotmail.com,Server_B,571,48,I have a question about your service,medium,neutral,33166,low,new,569,complex,beginner,3,3,17,purchase
+509,Victor_Ramirez_0509,Victor,Ramirez,victor.ramirez509@demo.io,Server_C,746,20,I need assistance with billing,medium,negative,42426,high,new,400,medium,intermediate,5,3,37,purchase
+510,Oakley_Hernandez_0510,Oakley,Hernandez,oakley.hernandez510@gmail.com,Any,1091,8,There's a bug in the application,quick,neutral,4421,low,premium,248,medium,advanced,4,3,26,complaint
+511,Sam_Harris_0511,Sam,Harris,sam.harris511@example.org,Server_A,1257,31,My account is not working properly,slow,positive,77089,low,returning,383,medium,beginner,2,2,18,purchase
+512,Quinn_Mitchell_0512,Quinn,Mitchell,quinn.mitchell512@hotmail.com,Server_B,587,30,I have a question about your service,quick,negative,85146,high,premium,266,simple,intermediate,4,3,54,technical
+513,Unique_Anderson_0513,Unique,Anderson,unique.anderson513@yahoo.com,Server_A,1767,8,Can you check my account status?,slow,positive,85222,high,new,233,complex,intermediate,4,1,10,support
+514,Casey_Ramirez_0514,Casey,Ramirez,casey.ramirez514@example.org,Server_C,1354,32,I need assistance with billing,random,positive,21282,low,new,47,medium,intermediate,2,3,50,technical
+515,Lane_Mitchell_0515,Lane,Mitchell,lane.mitchell515@yahoo.com,Server_C,462,42,I need help with integration,medium,random,69747,high,new,375,simple,beginner,3,2,7,complaint
+516,Tina_Lewis_0516,Tina,Lewis,tina.lewis516@company.com,Any,1590,44,I'm having trouble accessing my data,quick,positive,73402,low,premium,230,simple,intermediate,4,1,47,complaint
+517,Sage_Clark_0517,Sage,Clark,sage.clark517@gmail.com,Server_C,1127,6,Can you help me reset my password?,quick,random,13281,medium,new,69,medium,advanced,5,2,17,information
+518,Indigo_Wright_0518,Indigo,Wright,indigo.wright518@sample.co,Server_A,1061,27,There's a bug in the application,slow,positive,85395,low,premium,370,complex,intermediate,3,1,59,support
+519,Eve_Ramirez_0519,Eve,Ramirez,eve.ramirez519@test.net,Server_B,1773,42,There's an error in my order,medium,negative,10188,medium,returning,199,medium,intermediate,3,1,27,information
+520,Kendall_Young_0520,Kendall,Young,kendall.young520@demo.io,Server_B,728,38,Can you check my account status?,quick,random,81498,medium,new,339,simple,intermediate,4,2,54,information
+521,Ellis_Miller_0521,Ellis,Miller,ellis.miller521@company.com,Server_C,576,48,I have a question about your service,medium,neutral,18047,medium,new,63,complex,advanced,5,3,50,complaint
+522,Jack_Rodriguez_0522,Jack,Rodriguez,jack.rodriguez522@test.net,Server_B,1714,32,I want to cancel my subscription,medium,random,25015,low,new,429,medium,advanced,3,3,44,complaint
+523,Alice_Rivera_0523,Alice,Rivera,alice.rivera523@gmail.com,Server_C,1432,48,I need help with configuration,slow,neutral,74452,high,returning,410,medium,advanced,3,1,43,purchase
+524,Jack_Thomas_0524,Jack,Thomas,jack.thomas524@client.biz,Server_C,648,34,Can you help me with a technical issue?,quick,neutral,34026,medium,returning,529,simple,beginner,4,1,41,technical
+525,Casey_Rodriguez_0525,Casey,Rodriguez,casey.rodriguez525@company.com,Server_A,1430,49,I'm experiencing problems with login,medium,neutral,22941,medium,new,78,complex,intermediate,2,2,8,support
+526,Lane_Wright_0526,Lane,Wright,lane.wright526@hotmail.com,Server_B,294,20,I'm experiencing problems with login,slow,random,19184,low,returning,586,complex,intermediate,3,1,21,purchase
+527,Bob_Sanchez_0527,Bob,Sanchez,bob.sanchez527@test.net,Any,754,16,I need training on how to use this,medium,negative,45807,low,returning,530,complex,intermediate,2,3,45,complaint
+528,Jack_Hall_0528,Jack,Hall,jack.hall528@demo.io,Server_A,1181,22,Can you help me with a technical issue?,medium,random,45777,low,premium,535,complex,advanced,5,2,53,information
+529,Alice_Davis_0529,Alice,Davis,alice.davis529@example.org,Server_A,1556,5,I need training on how to use this,quick,neutral,26033,medium,premium,427,medium,advanced,2,2,18,information
+530,Sage_Scott_0530,Sage,Scott,sage.scott530@sample.co,Server_C,1363,13,I need assistance with billing,random,neutral,55698,low,new,305,simple,intermediate,2,1,22,technical
+531,Finley_Flores_0531,Finley,Flores,finley.flores531@test.net,Server_A,469,22,Can you provide more information?,random,neutral,22159,low,new,539,medium,advanced,5,1,14,purchase
+532,Sage_Moore_0532,Sage,Moore,sage.moore532@company.com,Server_C,1794,11,I want to cancel my subscription,slow,neutral,1467,low,new,342,medium,advanced,4,2,24,support
+533,Blake_Jones_0533,Blake,Jones,blake.jones533@yahoo.com,Server_A,1445,15,There's a bug in the application,slow,random,21675,high,new,549,complex,intermediate,4,3,49,information
+534,Gray_Perez_0534,Gray,Perez,gray.perez534@gmail.com,Server_B,604,16,There's an error in my order,quick,neutral,63449,low,returning,528,medium,advanced,5,3,5,purchase
+535,Phoenix_White_0535,Phoenix,White,phoenix.white535@outlook.com,Any,1151,40,I need assistance with billing,slow,random,15423,high,premium,135,simple,beginner,2,3,44,purchase
+536,Casey_Rivera_0536,Casey,Rivera,casey.rivera536@client.biz,Server_B,1376,10,There's an error in my order,slow,positive,39273,medium,new,434,simple,intermediate,5,2,46,information
+537,Jesse_Thompson_0537,Jesse,Thompson,jesse.thompson537@sample.co,Any,982,5,I'm having trouble accessing my data,slow,neutral,76011,low,returning,504,complex,advanced,2,3,14,technical
+538,Henry_Gonzalez_0538,Henry,Gonzalez,henry.gonzalez538@outlook.com,Any,395,24,I have a complaint about the service,quick,positive,13228,low,returning,461,simple,beginner,4,2,7,technical
+539,Taylor_Flores_0539,Taylor,Flores,taylor.flores539@hotmail.com,Any,768,44,I need help with configuration,quick,neutral,28814,high,new,397,complex,advanced,5,2,7,technical
+540,Olivia_Davis_0540,Olivia,Davis,olivia.davis540@hotmail.com,Any,1491,31,There's an error in my order,random,positive,16583,high,new,512,medium,beginner,3,2,24,support
+541,Tina_Baker_0541,Tina,Baker,tina.baker541@client.biz,Server_A,241,20,I want to cancel my subscription,random,negative,18850,high,returning,440,simple,beginner,5,1,13,complaint
+542,Noah_Perez_0542,Noah,Perez,noah.perez542@sample.co,Any,1104,9,I have a question about your service,medium,neutral,16553,medium,returning,402,simple,advanced,5,3,55,complaint
+543,Nico_Flores_0543,Nico,Flores,nico.flores543@company.com,Server_A,541,23,There's an error in my order,random,positive,37578,high,returning,530,medium,advanced,5,1,49,purchase
+544,Morgan_King_0544,Morgan,King,morgan.king544@test.net,Server_C,1611,47,I want to upgrade my plan,medium,positive,83645,high,new,74,medium,beginner,4,2,48,information
+545,Unique_Hernandez_0545,Unique,Hernandez,unique.hernandez545@client.biz,Any,1688,44,My account is not working properly,quick,negative,11877,low,premium,248,medium,intermediate,3,3,17,technical
+546,Finley_Hernandez_0546,Finley,Hernandez,finley.hernandez546@company.com,Any,1242,10,There's an error in my order,slow,neutral,47417,low,premium,214,simple,advanced,2,1,16,complaint
+547,Ivy_Robinson_0547,Ivy,Robinson,ivy.robinson547@company.com,Any,1470,45,I need assistance with billing,medium,neutral,31901,low,premium,215,medium,beginner,3,3,45,complaint
+548,Jack_Wilson_0548,Jack,Wilson,jack.wilson548@sample.co,Any,940,38,Can you check my account status?,slow,random,12278,low,returning,146,complex,intermediate,4,3,33,support
+549,Yara_Johnson_0549,Yara,Johnson,yara.johnson549@test.net,Server_C,936,21,"Hello, I need help with my account",random,negative,52426,high,premium,151,complex,advanced,3,1,7,information
+550,Zoe_Smith_0550,Zoe,Smith,zoe.smith550@demo.io,Any,1272,12,I have a question about your service,slow,positive,74868,high,new,33,complex,advanced,2,3,35,complaint
+551,Blake_Jackson_0551,Blake,Jackson,blake.jackson551@test.net,Server_C,373,50,Can you check my account status?,medium,random,43265,medium,new,204,simple,intermediate,4,2,55,purchase
+552,Karen_Wilson_0552,Karen,Wilson,karen.wilson552@gmail.com,Server_C,1249,6,I need assistance with billing,medium,negative,29141,high,returning,30,simple,advanced,3,3,14,support
+553,Finley_Flores_0553,Finley,Flores,finley.flores553@sample.co,Server_A,420,25,Can you help me with a technical issue?,quick,positive,75719,high,new,323,complex,beginner,3,1,29,technical
+554,Uma_Sanchez_0554,Uma,Sanchez,uma.sanchez554@company.com,Server_B,1063,50,I want to upgrade my plan,random,negative,65557,high,returning,301,complex,intermediate,5,2,44,support
+555,Jesse_Taylor_0555,Jesse,Taylor,jesse.taylor555@test.net,Server_A,1608,40,Can you check my account status?,random,random,78749,high,new,501,complex,beginner,5,3,6,information
+556,Bob_Hall_0556,Bob,Hall,bob.hall556@gmail.com,Server_C,549,48,I want to upgrade my plan,random,random,24382,low,premium,66,simple,beginner,4,3,28,purchase
+557,Sam_Thompson_0557,Sam,Thompson,sam.thompson557@gmail.com,Server_C,1764,40,Can you check my account status?,slow,random,77051,medium,returning,250,medium,beginner,5,3,40,complaint
+558,Jack_Taylor_0558,Jack,Taylor,jack.taylor558@demo.io,Any,1188,10,I have a question about your service,medium,random,40276,high,premium,498,medium,intermediate,3,2,15,information
+559,Noah_White_0559,Noah,White,noah.white559@example.org,Server_B,643,34,Can you provide more information?,quick,negative,40451,low,new,133,complex,advanced,3,3,24,purchase
+560,River_Robinson_0560,River,Robinson,river.robinson560@sample.co,Server_C,201,46,Can you check my account status?,random,random,86372,high,new,200,complex,intermediate,4,2,31,complaint
+561,Jesse_Rivera_0561,Jesse,Rivera,jesse.rivera561@outlook.com,Server_C,778,48,There's an error in my order,quick,negative,23415,medium,returning,127,simple,beginner,4,2,13,technical
+562,Diana_Perez_0562,Diana,Perez,diana.perez562@hotmail.com,Any,336,40,I need help with integration,random,negative,81937,medium,premium,462,complex,intermediate,5,1,43,purchase
+563,Grace_Wright_0563,Grace,Wright,grace.wright563@client.biz,Server_C,546,27,I want to cancel my subscription,medium,random,51435,medium,premium,553,simple,intermediate,3,2,47,complaint
+564,Olivia_Martinez_0564,Olivia,Martinez,olivia.martinez564@outlook.com,Server_C,1355,29,Can you help me with a technical issue?,slow,neutral,5720,low,returning,140,simple,intermediate,4,3,19,purchase
+565,Indigo_Nguyen_0565,Indigo,Nguyen,indigo.nguyen565@hotmail.com,Server_B,1706,44,There's a bug in the application,medium,neutral,43701,medium,returning,473,medium,intermediate,3,2,41,purchase
+566,Ivy_Flores_0566,Ivy,Flores,ivy.flores566@demo.io,Server_C,1057,10,I want to cancel my subscription,slow,neutral,73954,low,returning,378,medium,advanced,5,2,9,purchase
+567,Indigo_Brown_0567,Indigo,Brown,indigo.brown567@client.biz,Server_A,563,46,"Hello, I need help with my account",quick,negative,6374,medium,premium,262,medium,advanced,3,2,23,technical
+568,Casey_Miller_0568,Casey,Miller,casey.miller568@sample.co,Server_C,1575,26,"Hello, I need help with my account",quick,positive,32816,medium,returning,280,simple,beginner,3,2,41,information
+569,Karen_Taylor_0569,Karen,Taylor,karen.taylor569@yahoo.com,Any,422,42,I need training on how to use this,medium,random,73742,high,premium,530,complex,beginner,5,3,24,technical
+570,Bob_Perez_0570,Bob,Perez,bob.perez570@hotmail.com,Server_C,266,13,I want to upgrade my plan,slow,random,62561,low,new,301,simple,advanced,3,1,48,support
+571,Diana_Scott_0571,Diana,Scott,diana.scott571@test.net,Server_A,1277,7,Can you check my account status?,slow,negative,44317,medium,new,374,complex,advanced,2,3,43,technical
+572,Morgan_Lee_0572,Morgan,Lee,morgan.lee572@client.biz,Server_B,279,29,There's a bug in the application,random,neutral,73156,medium,premium,537,medium,advanced,2,1,32,complaint
+573,Phoenix_Lewis_0573,Phoenix,Lewis,phoenix.lewis573@demo.io,Any,1365,44,I want to cancel my subscription,quick,positive,9264,low,premium,429,medium,advanced,5,2,38,complaint
+574,Bob_Anderson_0574,Bob,Anderson,bob.anderson574@company.com,Any,655,50,Can you help me with a technical issue?,quick,random,81001,low,new,145,simple,advanced,2,3,26,complaint
+575,Alex_Martin_0575,Alex,Martin,alex.martin575@hotmail.com,Server_C,1783,18,I need help with configuration,random,random,32874,medium,premium,220,simple,beginner,4,1,36,technical
+576,Frank_Adams_0576,Frank,Adams,frank.adams576@client.biz,Server_A,251,20,I have a complaint about the service,random,random,35503,high,premium,531,complex,intermediate,4,1,13,support
+577,Zoe_Young_0577,Zoe,Young,zoe.young577@outlook.com,Server_A,1522,33,I need help with integration,quick,positive,67903,high,returning,124,simple,beginner,4,3,47,support
+578,Eve_Davis_0578,Eve,Davis,eve.davis578@demo.io,Server_C,671,47,I have a question about your service,random,neutral,26206,high,new,396,simple,intermediate,2,1,36,complaint
+579,Indigo_Hill_0579,Indigo,Hill,indigo.hill579@example.org,Server_C,1261,44,I have a question about your service,medium,neutral,41578,low,returning,119,complex,intermediate,5,1,33,information
+580,Wendy_Mitchell_0580,Wendy,Mitchell,wendy.mitchell580@example.org,Server_A,590,17,I'm experiencing problems with login,quick,negative,39204,low,returning,596,medium,advanced,2,3,14,support
+581,Blake_Wilson_0581,Blake,Wilson,blake.wilson581@outlook.com,Server_A,1063,23,My account is not working properly,quick,positive,41939,medium,new,40,simple,beginner,4,3,28,technical
+582,Ivy_Moore_0582,Ivy,Moore,ivy.moore582@company.com,Server_A,1510,27,Could you explain how this feature works?,quick,negative,54728,high,new,400,complex,advanced,2,2,41,technical
+583,Jack_Anderson_0583,Jack,Anderson,jack.anderson583@yahoo.com,Server_C,272,41,The system is running slowly,medium,neutral,1059,medium,returning,37,simple,advanced,4,2,38,technical
+584,Jesse_Perez_0584,Jesse,Perez,jesse.perez584@company.com,Server_B,176,33,I need help with integration,quick,random,8477,medium,new,33,medium,beginner,5,3,20,information
+585,Grace_Hall_0585,Grace,Hall,grace.hall585@example.org,Any,1264,14,My account is not working properly,slow,random,48746,low,premium,493,simple,intermediate,4,1,28,information
+586,Alex_Wilson_0586,Alex,Wilson,alex.wilson586@example.org,Server_B,1526,48,I want to upgrade my plan,quick,neutral,43691,low,returning,109,medium,intermediate,4,3,34,information
+587,Morgan_Moore_0587,Morgan,Moore,morgan.moore587@yahoo.com,Server_A,336,38,My account is not working properly,medium,neutral,58638,medium,new,468,complex,intermediate,3,3,22,technical
+588,Finley_Rodriguez_0588,Finley,Rodriguez,finley.rodriguez588@company.com,Server_C,281,28,Can you help me with a technical issue?,quick,neutral,7980,low,returning,494,simple,beginner,3,3,7,purchase
+589,Gray_Rodriguez_0589,Gray,Rodriguez,gray.rodriguez589@example.org,Server_C,930,12,I have a complaint about the service,medium,negative,65137,medium,new,505,medium,beginner,2,2,18,purchase
+590,Ruby_Flores_0590,Ruby,Flores,ruby.flores590@demo.io,Any,1687,30,Could you explain how this feature works?,random,negative,38245,low,premium,425,medium,advanced,3,1,11,technical
+591,Victor_White_0591,Victor,White,victor.white591@client.biz,Server_B,737,5,Can you provide more information?,medium,random,31304,low,new,293,complex,intermediate,5,3,11,information
+592,Frank_Hernandez_0592,Frank,Hernandez,frank.hernandez592@client.biz,Server_A,1348,28,Can you help me reset my password?,quick,neutral,25624,low,returning,555,complex,advanced,4,3,55,purchase
+593,Frank_Young_0593,Frank,Young,frank.young593@hotmail.com,Server_B,1712,29,I need help with configuration,random,neutral,60456,low,premium,322,medium,advanced,3,2,19,technical
+594,Bob_Allen_0594,Bob,Allen,bob.allen594@test.net,Any,1658,14,I want to cancel my subscription,slow,negative,58754,high,returning,287,complex,intermediate,2,1,30,complaint
+595,Oakley_Wilson_0595,Oakley,Wilson,oakley.wilson595@test.net,Any,778,10,I need training on how to use this,medium,random,39974,medium,returning,108,complex,intermediate,3,3,11,purchase
+596,Peter_Nelson_0596,Peter,Nelson,peter.nelson596@test.net,Any,463,25,I need assistance with billing,medium,neutral,37519,medium,premium,239,simple,beginner,4,3,12,complaint
+597,Alex_Sanchez_0597,Alex,Sanchez,alex.sanchez597@yahoo.com,Server_C,1175,40,I need help with integration,random,negative,61337,high,new,262,simple,intermediate,2,1,41,information
+598,Taylor_Moore_0598,Taylor,Moore,taylor.moore598@hotmail.com,Server_C,1368,15,Can you provide more information?,slow,random,36749,medium,premium,489,complex,beginner,4,1,44,support
+599,Eve_Brown_0599,Eve,Brown,eve.brown599@yahoo.com,Any,1628,9,Can you provide more information?,medium,random,45653,high,returning,117,medium,advanced,3,3,31,complaint
+600,Casey_Rodriguez_0600,Casey,Rodriguez,casey.rodriguez600@yahoo.com,Any,1423,43,Can you help me reset my password?,medium,neutral,81454,medium,new,141,complex,advanced,4,1,24,complaint
+601,Harper_Hill_0601,Harper,Hill,harper.hill601@client.biz,Server_A,262,26,I'm having trouble accessing my data,medium,random,85559,medium,new,149,complex,beginner,4,3,56,purchase
+602,Grace_Baker_0602,Grace,Baker,grace.baker602@hotmail.com,Any,882,12,I want to upgrade my plan,random,neutral,53090,medium,premium,278,simple,advanced,2,1,46,purchase
+603,Tina_Wilson_0603,Tina,Wilson,tina.wilson603@company.com,Server_A,681,9,I want to upgrade my plan,random,random,20344,high,returning,325,medium,beginner,3,3,60,purchase
+604,Kendall_Hall_0604,Kendall,Hall,kendall.hall604@demo.io,Server_C,1496,40,I need help with configuration,quick,random,80322,low,premium,318,medium,advanced,3,2,45,purchase
+605,Leo_Green_0605,Leo,Green,leo.green605@demo.io,Server_A,629,25,Could you explain how this feature works?,slow,random,81727,high,premium,447,simple,advanced,2,1,11,support
+606,River_Hill_0606,River,Hill,river.hill606@example.org,Any,908,17,"Hello, I need help with my account",quick,neutral,77059,medium,new,399,medium,beginner,3,3,34,support
+607,Morgan_Nelson_0607,Morgan,Nelson,morgan.nelson607@gmail.com,Any,377,48,I have a complaint about the service,quick,neutral,69135,medium,returning,405,medium,intermediate,4,2,44,purchase
+608,Oakley_Taylor_0608,Oakley,Taylor,oakley.taylor608@yahoo.com,Server_B,1667,38,Could you explain how this feature works?,random,random,68202,medium,premium,338,medium,advanced,4,2,11,information
+609,Grace_Wright_0609,Grace,Wright,grace.wright609@yahoo.com,Server_A,199,14,Can you check my account status?,quick,neutral,79006,high,returning,273,complex,beginner,5,3,54,purchase
+610,River_Martinez_0610,River,Martinez,river.martinez610@sample.co,Server_B,987,48,I need help with integration,slow,negative,6911,medium,premium,468,medium,intermediate,3,2,56,information
+611,Yara_Garcia_0611,Yara,Garcia,yara.garcia611@company.com,Server_B,1579,31,I have a question about your service,slow,neutral,66534,low,returning,471,medium,advanced,3,3,32,support
+612,Tina_Miller_0612,Tina,Miller,tina.miller612@hotmail.com,Server_C,586,17,I need help with integration,medium,positive,32138,high,returning,107,medium,beginner,2,1,33,information
+613,Diana_Sanchez_0613,Diana,Sanchez,diana.sanchez613@gmail.com,Server_A,1087,45,I have a question about your service,medium,negative,79018,low,premium,74,complex,intermediate,2,2,5,support
+614,Uma_Hill_0614,Uma,Hill,uma.hill614@gmail.com,Any,1401,30,I need training on how to use this,quick,random,48353,high,premium,326,medium,advanced,3,1,19,technical
+615,Blake_Adams_0615,Blake,Adams,blake.adams615@client.biz,Any,978,33,I need help with configuration,slow,neutral,20854,high,new,455,medium,advanced,5,3,23,information
+616,Diana_Lewis_0616,Diana,Lewis,diana.lewis616@example.org,Server_A,930,14,The system is running slowly,medium,negative,53316,medium,new,213,complex,intermediate,3,1,21,information
+617,Charlie_Martin_0617,Charlie,Martin,charlie.martin617@example.org,Server_B,107,37,Can you check my account status?,random,negative,36910,low,new,300,medium,intermediate,2,1,16,technical
+618,Lane_Lewis_0618,Lane,Lewis,lane.lewis618@test.net,Any,1169,47,I need help with configuration,random,negative,12642,medium,new,309,simple,advanced,4,3,21,support
+619,Finley_Jones_0619,Finley,Jones,finley.jones619@client.biz,Server_A,67,15,There's an error in my order,slow,random,19965,low,returning,105,complex,beginner,3,3,32,technical
+620,Nico_Lewis_0620,Nico,Lewis,nico.lewis620@client.biz,Server_A,411,43,I want to cancel my subscription,random,negative,29480,medium,new,577,complex,advanced,3,3,12,information
+621,Sam_Campbell_0621,Sam,Campbell,sam.campbell621@example.org,Any,1579,46,I need assistance with billing,random,positive,30902,low,new,243,simple,advanced,5,1,14,information
+622,Charlie_Martinez_0622,Charlie,Martinez,charlie.martinez622@example.org,Server_B,921,22,I need help with integration,medium,neutral,48928,low,new,209,simple,beginner,3,3,55,technical
+623,Noah_Anderson_0623,Noah,Anderson,noah.anderson623@company.com,Server_B,651,50,There's an error in my order,random,positive,21089,medium,new,502,simple,advanced,5,3,48,information
+624,Morgan_Allen_0624,Morgan,Allen,morgan.allen624@outlook.com,Server_B,430,9,Can you check my account status?,random,negative,69082,medium,returning,78,medium,advanced,5,1,30,technical
+625,Nico_Johnson_0625,Nico,Johnson,nico.johnson625@example.org,Server_A,1565,41,Can you help me with a technical issue?,quick,neutral,81751,high,new,322,medium,advanced,2,2,53,support
+626,Sam_Taylor_0626,Sam,Taylor,sam.taylor626@gmail.com,Server_B,513,32,Can you check my account status?,slow,negative,25783,medium,new,128,simple,beginner,3,1,27,complaint
+627,Henry_Hernandez_0627,Henry,Hernandez,henry.hernandez627@gmail.com,Server_C,604,39,I have a complaint about the service,quick,neutral,33840,medium,new,389,simple,intermediate,2,1,38,information
+628,Alice_Anderson_0628,Alice,Anderson,alice.anderson628@outlook.com,Server_A,829,32,There's a bug in the application,medium,negative,22959,low,premium,498,complex,beginner,3,3,47,support
+629,Jesse_Perez_0629,Jesse,Perez,jesse.perez629@sample.co,Server_A,1379,20,I want to cancel my subscription,random,neutral,1460,high,new,260,simple,beginner,2,2,41,information
+630,Grace_White_0630,Grace,White,grace.white630@company.com,Server_B,413,39,I need training on how to use this,medium,random,68372,low,premium,234,medium,intermediate,2,3,50,support
+631,Nico_Garcia_0631,Nico,Garcia,nico.garcia631@sample.co,Server_A,1482,23,"Hello, I need help with my account",random,positive,35606,high,returning,369,medium,advanced,4,2,26,support
+632,River_Hall_0632,River,Hall,river.hall632@client.biz,Any,1250,17,Can you provide more information?,random,positive,1808,medium,premium,590,simple,beginner,5,2,38,technical
+633,Morgan_Wilson_0633,Morgan,Wilson,morgan.wilson633@hotmail.com,Server_C,688,21,Could you explain how this feature works?,quick,random,85191,medium,new,362,simple,beginner,2,1,19,complaint
+634,Unique_Taylor_0634,Unique,Taylor,unique.taylor634@outlook.com,Server_C,620,16,Can you check my account status?,medium,positive,1802,low,returning,267,simple,intermediate,5,1,27,complaint
+635,Finley_Torres_0635,Finley,Torres,finley.torres635@example.org,Server_B,622,12,Can you help me reset my password?,random,positive,19341,low,returning,48,medium,advanced,2,1,45,technical
+636,Diana_Hernandez_0636,Diana,Hernandez,diana.hernandez636@outlook.com,Server_C,1546,41,I need help with configuration,medium,negative,74582,high,returning,244,simple,intermediate,3,1,37,support
+637,Indigo_Jackson_0637,Indigo,Jackson,indigo.jackson637@hotmail.com,Server_B,1600,34,There's a bug in the application,quick,neutral,10583,medium,premium,372,simple,advanced,3,2,60,information
+638,Frank_Nelson_0638,Frank,Nelson,frank.nelson638@test.net,Any,1432,41,Can you check my account status?,quick,positive,45295,high,returning,153,simple,beginner,2,2,19,complaint
+639,Casey_Lee_0639,Casey,Lee,casey.lee639@test.net,Any,1625,23,I have a complaint about the service,quick,negative,29693,high,premium,519,complex,intermediate,3,2,28,complaint
+640,Henry_Robinson_0640,Henry,Robinson,henry.robinson640@company.com,Server_B,1560,27,I want to cancel my subscription,medium,negative,2160,high,new,124,complex,intermediate,3,3,43,complaint
+641,Oakley_Young_0641,Oakley,Young,oakley.young641@gmail.com,Server_A,1455,32,I have a question about your service,medium,random,44907,low,returning,87,medium,beginner,5,2,8,support
+642,Grace_Wilson_0642,Grace,Wilson,grace.wilson642@demo.io,Server_C,253,30,I need training on how to use this,medium,random,11123,high,premium,48,complex,intermediate,5,3,8,technical
+643,Blake_Moore_0643,Blake,Moore,blake.moore643@demo.io,Any,627,35,I need help with configuration,medium,neutral,39923,high,premium,342,medium,advanced,2,3,47,support
+644,Peter_Young_0644,Peter,Young,peter.young644@client.biz,Server_C,885,24,Can you check my account status?,medium,random,38481,low,premium,538,complex,beginner,2,3,15,purchase
+645,Diana_Lee_0645,Diana,Lee,diana.lee645@company.com,Server_B,856,12,I want to cancel my subscription,random,neutral,40707,high,premium,572,medium,intermediate,5,2,19,support
+646,Alice_Moore_0646,Alice,Moore,alice.moore646@outlook.com,Server_A,246,48,Can you provide more information?,quick,positive,71494,high,premium,537,simple,intermediate,3,1,46,information
+647,Leo_Martinez_0647,Leo,Martinez,leo.martinez647@gmail.com,Server_A,837,50,I have a question about your service,slow,random,6946,medium,new,594,simple,advanced,5,3,30,technical
+648,Jack_Smith_0648,Jack,Smith,jack.smith648@example.org,Any,878,16,I need training on how to use this,medium,positive,20044,high,new,569,medium,intermediate,3,1,27,technical
+649,Karen_Miller_0649,Karen,Miller,karen.miller649@yahoo.com,Any,65,42,Can you help me reset my password?,medium,random,71135,high,new,464,simple,beginner,5,2,27,technical
+650,Victor_Ramirez_0650,Victor,Ramirez,victor.ramirez650@hotmail.com,Any,1177,20,Could you explain how this feature works?,random,neutral,54050,medium,new,43,complex,advanced,5,1,22,purchase
+651,Ivy_Hall_0651,Ivy,Hall,ivy.hall651@example.org,Server_C,772,48,There's a bug in the application,slow,positive,66684,low,returning,266,complex,intermediate,4,3,51,information
+652,Diana_Garcia_0652,Diana,Garcia,diana.garcia652@company.com,Server_C,1238,27,Can you help me with a technical issue?,slow,positive,62653,medium,premium,181,complex,intermediate,5,1,14,technical
+653,Nico_Thomas_0653,Nico,Thomas,nico.thomas653@example.org,Server_B,1309,32,There's a bug in the application,medium,positive,72604,high,new,186,simple,intermediate,2,1,50,information
+654,Oakley_Gonzalez_0654,Oakley,Gonzalez,oakley.gonzalez654@hotmail.com,Server_C,1725,24,I'm experiencing problems with login,medium,positive,75103,low,returning,408,medium,beginner,3,2,46,information
+655,Oakley_Robinson_0655,Oakley,Robinson,oakley.robinson655@sample.co,Any,651,45,Can you help me reset my password?,medium,random,69961,high,premium,224,medium,advanced,2,3,39,technical
+656,Henry_Flores_0656,Henry,Flores,henry.flores656@sample.co,Server_C,1181,23,Can you check my account status?,slow,random,30712,medium,premium,140,simple,beginner,5,1,20,purchase
+657,Grace_Mitchell_0657,Grace,Mitchell,grace.mitchell657@outlook.com,Server_B,1575,41,I need help with configuration,slow,negative,58844,high,new,229,medium,advanced,4,2,38,complaint
+658,Ruby_Lopez_0658,Ruby,Lopez,ruby.lopez658@hotmail.com,Any,699,32,I need training on how to use this,slow,random,43098,low,premium,474,complex,advanced,4,2,16,technical
+659,Wendy_Adams_0659,Wendy,Adams,wendy.adams659@example.org,Server_C,92,14,I have a question about your service,quick,neutral,7780,high,new,529,complex,advanced,3,2,44,purchase
+660,Nico_Brown_0660,Nico,Brown,nico.brown660@company.com,Server_A,643,47,Could you explain how this feature works?,slow,negative,6570,medium,returning,492,medium,advanced,3,3,59,information
+661,Mia_Ramirez_0661,Mia,Ramirez,mia.ramirez661@outlook.com,Any,860,9,"Hello, I need help with my account",random,neutral,85752,low,premium,566,simple,advanced,4,3,22,support
+662,Sam_Baker_0662,Sam,Baker,sam.baker662@gmail.com,Any,1034,49,There's an error in my order,quick,neutral,54422,low,new,301,medium,advanced,3,3,7,technical
+663,Tina_Young_0663,Tina,Young,tina.young663@company.com,Server_B,1080,26,Can you provide more information?,slow,random,57860,low,premium,545,complex,advanced,3,3,25,purchase
+664,Sage_Gonzalez_0664,Sage,Gonzalez,sage.gonzalez664@example.org,Server_C,1684,38,I need help with configuration,slow,negative,34928,high,new,231,simple,advanced,2,1,14,complaint
+665,Nico_Green_0665,Nico,Green,nico.green665@gmail.com,Server_C,1565,33,I want to cancel my subscription,random,random,2198,low,returning,306,complex,advanced,2,2,55,technical
+666,Taylor_Thompson_0666,Taylor,Thompson,taylor.thompson666@gmail.com,Server_C,983,36,My account is not working properly,random,random,22495,medium,premium,133,complex,beginner,5,2,55,technical
+667,Phoenix_Campbell_0667,Phoenix,Campbell,phoenix.campbell667@outlook.com,Server_C,583,37,Can you provide more information?,random,random,37875,medium,premium,546,simple,advanced,5,1,60,complaint
+668,Harper_Robinson_0668,Harper,Robinson,harper.robinson668@yahoo.com,Server_A,692,19,I need training on how to use this,random,positive,82585,high,returning,312,medium,advanced,2,3,7,support
+669,Ruby_Rodriguez_0669,Ruby,Rodriguez,ruby.rodriguez669@yahoo.com,Any,972,11,I need training on how to use this,slow,positive,62520,low,returning,494,complex,advanced,2,2,14,technical
+670,Diana_Jackson_0670,Diana,Jackson,diana.jackson670@example.org,Server_B,140,28,Can you check my account status?,random,neutral,74672,medium,returning,31,medium,beginner,3,3,51,information
+671,Alice_Moore_0671,Alice,Moore,alice.moore671@demo.io,Server_C,1005,18,There's an error in my order,slow,positive,54505,low,premium,443,medium,advanced,4,1,38,information
+672,Quinn_Mitchell_0672,Quinn,Mitchell,quinn.mitchell672@sample.co,Server_B,784,10,"Hello, I need help with my account",quick,negative,8237,high,new,383,simple,beginner,2,3,53,technical
+673,Peter_Mitchell_0673,Peter,Mitchell,peter.mitchell673@sample.co,Any,966,28,I need training on how to use this,slow,random,54192,medium,returning,577,medium,intermediate,4,2,31,complaint
+674,Henry_Nelson_0674,Henry,Nelson,henry.nelson674@sample.co,Server_B,1181,15,I need training on how to use this,random,random,18497,medium,premium,473,complex,intermediate,3,1,20,purchase
+675,Ruby_Brown_0675,Ruby,Brown,ruby.brown675@test.net,Server_C,254,12,I need help with configuration,slow,random,39220,medium,new,219,medium,advanced,4,3,31,purchase
+676,Eve_Hall_0676,Eve,Hall,eve.hall676@gmail.com,Server_B,1707,42,I have a complaint about the service,slow,random,57393,medium,premium,449,medium,beginner,2,3,7,purchase
+677,Nico_Thomas_0677,Nico,Thomas,nico.thomas677@gmail.com,Any,381,12,There's an error in my order,medium,random,19932,medium,new,83,simple,intermediate,3,1,26,support
+678,Tina_Allen_0678,Tina,Allen,tina.allen678@demo.io,Server_A,147,16,Can you help me reset my password?,medium,negative,15926,low,premium,461,medium,intermediate,4,1,25,information
+679,Indigo_Thomas_0679,Indigo,Thomas,indigo.thomas679@outlook.com,Server_A,1688,11,I want to upgrade my plan,quick,random,18584,high,returning,476,simple,beginner,4,3,26,complaint
+680,Ellis_Martin_0680,Ellis,Martin,ellis.martin680@demo.io,Server_A,1249,49,Can you help me with a technical issue?,quick,negative,50011,medium,returning,534,simple,advanced,5,2,45,purchase
+681,Casey_Williams_0681,Casey,Williams,casey.williams681@outlook.com,Server_A,777,30,Can you check my account status?,medium,neutral,49947,low,returning,594,complex,beginner,4,1,36,technical
+682,Sam_Nelson_0682,Sam,Nelson,sam.nelson682@client.biz,Server_C,600,22,I have a complaint about the service,random,negative,75724,high,new,265,medium,advanced,4,1,55,technical
+683,Alex_Jones_0683,Alex,Jones,alex.jones683@yahoo.com,Any,1548,25,I need help with configuration,random,random,86373,low,returning,438,simple,beginner,2,3,45,support
+684,Blake_Nelson_0684,Blake,Nelson,blake.nelson684@company.com,Any,1237,13,I want to cancel my subscription,random,neutral,59038,medium,returning,214,simple,intermediate,2,3,52,purchase
+685,Casey_Martin_0685,Casey,Martin,casey.martin685@yahoo.com,Server_C,838,32,There's an error in my order,random,random,4229,high,premium,401,simple,advanced,4,1,19,complaint
+686,Ivy_Taylor_0686,Ivy,Taylor,ivy.taylor686@yahoo.com,Server_A,724,37,I need training on how to use this,random,negative,83861,high,returning,245,complex,beginner,3,3,21,technical
+687,River_Moore_0687,River,Moore,river.moore687@yahoo.com,Server_B,1165,29,I have a complaint about the service,quick,random,34338,high,new,259,simple,intermediate,3,1,55,purchase
+688,Eve_Davis_0688,Eve,Davis,eve.davis688@company.com,Server_C,393,7,I have a complaint about the service,quick,random,14610,low,premium,317,simple,beginner,2,2,57,purchase
+689,Eve_Wilson_0689,Eve,Wilson,eve.wilson689@yahoo.com,Any,165,17,"Hello, I need help with my account",random,random,32206,low,new,287,medium,beginner,4,1,25,support
+690,Zoe_Smith_0690,Zoe,Smith,zoe.smith690@test.net,Any,928,32,My account is not working properly,slow,random,23163,medium,new,566,complex,intermediate,3,1,28,complaint
+691,Alex_Jones_0691,Alex,Jones,alex.jones691@sample.co,Server_B,1079,44,My account is not working properly,medium,random,72788,high,returning,377,complex,advanced,3,2,49,information
+692,River_Moore_0692,River,Moore,river.moore692@example.org,Server_A,80,21,Can you help me with a technical issue?,slow,negative,47093,high,returning,44,complex,intermediate,4,2,54,support
+693,Oakley_White_0693,Oakley,White,oakley.white693@test.net,Any,1145,8,I need training on how to use this,medium,negative,74067,high,premium,137,complex,advanced,5,1,8,complaint
+694,Xavier_Ramirez_0694,Xavier,Ramirez,xavier.ramirez694@outlook.com,Server_C,1290,34,I need assistance with billing,slow,positive,960,high,new,432,simple,advanced,3,2,37,complaint
+695,Phoenix_Lopez_0695,Phoenix,Lopez,phoenix.lopez695@hotmail.com,Any,1449,36,I want to cancel my subscription,random,positive,71711,low,premium,66,simple,beginner,5,3,8,support
+696,Sage_Anderson_0696,Sage,Anderson,sage.anderson696@company.com,Server_C,300,21,I'm experiencing problems with login,quick,random,15851,high,returning,391,complex,intermediate,3,2,28,technical
+697,Ruby_Harris_0697,Ruby,Harris,ruby.harris697@test.net,Server_C,1103,39,Could you explain how this feature works?,quick,random,18239,low,returning,421,medium,advanced,4,2,57,information
+698,Taylor_Lewis_0698,Taylor,Lewis,taylor.lewis698@yahoo.com,Server_A,173,17,Could you explain how this feature works?,quick,negative,23168,high,returning,162,medium,intermediate,4,1,59,support
+699,Sam_Clark_0699,Sam,Clark,sam.clark699@gmail.com,Server_B,611,7,I need help with integration,quick,positive,67926,low,returning,587,simple,beginner,5,3,41,purchase
+700,Oakley_Moore_0700,Oakley,Moore,oakley.moore700@example.org,Server_B,703,23,I have a complaint about the service,random,neutral,66971,low,returning,186,medium,advanced,4,2,30,complaint
+701,Henry_Williams_0701,Henry,Williams,henry.williams701@hotmail.com,Any,1152,23,Can you provide more information?,medium,positive,34652,medium,new,522,complex,advanced,2,2,38,technical
+702,Nico_Ramirez_0702,Nico,Ramirez,nico.ramirez702@test.net,Any,1253,30,There's an error in my order,random,random,66693,high,returning,264,complex,advanced,5,1,7,support
+703,Casey_Lewis_0703,Casey,Lewis,casey.lewis703@yahoo.com,Server_C,1134,23,Can you provide more information?,random,random,19875,medium,premium,38,simple,intermediate,2,2,51,information
+704,Wendy_Allen_0704,Wendy,Allen,wendy.allen704@company.com,Server_C,783,49,"Hello, I need help with my account",random,negative,11048,low,premium,447,complex,beginner,4,1,21,technical
+705,Xavier_Jackson_0705,Xavier,Jackson,xavier.jackson705@company.com,Any,660,30,I want to upgrade my plan,slow,negative,43044,high,returning,542,medium,beginner,4,2,24,support
+706,Xavier_Hall_0706,Xavier,Hall,xavier.hall706@company.com,Server_C,789,14,"Hello, I need help with my account",random,neutral,56794,low,new,179,simple,beginner,4,2,33,complaint
+707,Bob_Rodriguez_0707,Bob,Rodriguez,bob.rodriguez707@outlook.com,Server_C,908,8,Can you help me with a technical issue?,random,positive,28797,medium,returning,338,simple,advanced,2,2,29,purchase
+708,Victor_Clark_0708,Victor,Clark,victor.clark708@demo.io,Any,434,46,Can you provide more information?,random,neutral,16516,medium,new,195,simple,intermediate,4,2,20,information
+709,Nico_Baker_0709,Nico,Baker,nico.baker709@test.net,Server_C,1419,22,I have a complaint about the service,quick,positive,8942,low,new,392,complex,advanced,5,2,34,purchase
+710,Xavier_Perez_0710,Xavier,Perez,xavier.perez710@hotmail.com,Server_C,386,27,Can you provide more information?,slow,neutral,40448,medium,returning,343,medium,intermediate,5,3,49,technical
+711,Ellis_Walker_0711,Ellis,Walker,ellis.walker711@hotmail.com,Server_A,1223,7,There's a bug in the application,random,positive,13691,medium,premium,223,medium,beginner,2,1,33,information
+712,Drew_White_0712,Drew,White,drew.white712@client.biz,Server_B,1166,26,I want to upgrade my plan,slow,negative,1393,medium,premium,579,simple,beginner,3,2,55,support
+713,Finley_Jones_0713,Finley,Jones,finley.jones713@gmail.com,Any,1111,19,Could you explain how this feature works?,random,random,50625,high,returning,478,medium,advanced,3,2,23,complaint
+714,Unique_Robinson_0714,Unique,Robinson,unique.robinson714@sample.co,Server_B,759,47,Can you help me reset my password?,random,random,38757,medium,new,57,simple,intermediate,2,2,44,information
+715,Eve_Robinson_0715,Eve,Robinson,eve.robinson715@demo.io,Any,317,32,There's a bug in the application,random,random,28328,high,returning,303,simple,beginner,5,1,32,purchase
+716,Ruby_Sanchez_0716,Ruby,Sanchez,ruby.sanchez716@client.biz,Server_C,1354,42,The system is running slowly,medium,negative,27379,low,premium,475,complex,advanced,5,2,27,support
+717,Sam_Lewis_0717,Sam,Lewis,sam.lewis717@hotmail.com,Server_C,101,39,Can you help me with a technical issue?,slow,random,70226,low,premium,456,simple,intermediate,3,3,52,purchase
+718,Ruby_Perez_0718,Ruby,Perez,ruby.perez718@hotmail.com,Any,573,47,I'm experiencing problems with login,medium,positive,66780,low,premium,207,complex,beginner,5,2,43,support
+719,Casey_Adams_0719,Casey,Adams,casey.adams719@yahoo.com,Server_C,1413,33,I'm having trouble accessing my data,random,neutral,1672,low,premium,379,complex,intermediate,4,2,50,purchase
+720,Alice_White_0720,Alice,White,alice.white720@hotmail.com,Server_A,454,33,Can you provide more information?,medium,neutral,45488,high,returning,549,medium,intermediate,2,1,51,purchase
+721,Alex_Walker_0721,Alex,Walker,alex.walker721@test.net,Server_A,1167,49,There's a bug in the application,quick,neutral,7424,low,new,264,medium,intermediate,5,1,17,support
+722,Sam_Flores_0722,Sam,Flores,sam.flores722@sample.co,Any,608,11,Can you provide more information?,quick,positive,51978,high,premium,162,simple,intermediate,3,3,5,complaint
+723,Alice_Jackson_0723,Alice,Jackson,alice.jackson723@test.net,Any,1409,32,I need training on how to use this,medium,positive,74120,low,premium,150,medium,advanced,5,2,35,information
+724,Phoenix_Adams_0724,Phoenix,Adams,phoenix.adams724@sample.co,Server_B,878,18,Can you provide more information?,slow,positive,62214,low,returning,338,medium,intermediate,2,3,24,information
+725,Peter_Sanchez_0725,Peter,Sanchez,peter.sanchez725@company.com,Server_C,155,21,I need assistance with billing,medium,random,29613,high,returning,585,complex,beginner,5,1,13,purchase
+726,Karen_Hernandez_0726,Karen,Hernandez,karen.hernandez726@example.org,Server_C,1593,10,I'm experiencing problems with login,random,random,67079,low,premium,427,medium,intermediate,5,1,35,purchase
+727,Noah_Allen_0727,Noah,Allen,noah.allen727@company.com,Any,1738,25,My account is not working properly,medium,positive,58906,high,new,112,simple,advanced,3,1,45,complaint
+728,Olivia_Jackson_0728,Olivia,Jackson,olivia.jackson728@yahoo.com,Server_B,615,11,I'm having trouble accessing my data,slow,random,66558,high,returning,312,complex,intermediate,4,2,41,purchase
+729,Oakley_Hernandez_0729,Oakley,Hernandez,oakley.hernandez729@gmail.com,Server_A,1463,17,There's a bug in the application,random,random,14096,low,premium,597,complex,advanced,4,1,55,support
+730,Lane_Wright_0730,Lane,Wright,lane.wright730@test.net,Server_B,1133,24,There's an error in my order,random,positive,81970,medium,premium,185,medium,intermediate,4,2,40,technical
+731,Ellis_Rivera_0731,Ellis,Rivera,ellis.rivera731@sample.co,Server_B,329,28,I want to upgrade my plan,medium,random,69287,high,returning,587,medium,advanced,2,1,44,complaint
+732,Mia_Taylor_0732,Mia,Taylor,mia.taylor732@outlook.com,Server_B,321,24,I have a complaint about the service,slow,random,65785,high,premium,161,medium,intermediate,2,1,35,complaint
+733,Victor_Harris_0733,Victor,Harris,victor.harris733@gmail.com,Server_C,1045,27,I want to cancel my subscription,random,negative,472,low,returning,582,simple,beginner,3,1,55,information
+734,Ellis_Mitchell_0734,Ellis,Mitchell,ellis.mitchell734@demo.io,Server_B,1357,41,Could you explain how this feature works?,quick,negative,16589,medium,premium,63,complex,intermediate,5,1,23,support
+735,Karen_Perez_0735,Karen,Perez,karen.perez735@example.org,Any,343,45,I need assistance with billing,quick,random,42072,high,returning,185,medium,advanced,5,1,27,support
+736,Oakley_Brown_0736,Oakley,Brown,oakley.brown736@demo.io,Server_C,1257,9,I need training on how to use this,slow,neutral,31634,low,returning,503,simple,intermediate,5,2,9,purchase
+737,Unique_Thomas_0737,Unique,Thomas,unique.thomas737@outlook.com,Server_B,1101,17,Can you help me reset my password?,random,positive,10609,medium,new,567,complex,intermediate,2,3,24,technical
+738,Sage_Adams_0738,Sage,Adams,sage.adams738@sample.co,Any,464,29,I want to cancel my subscription,medium,neutral,31944,medium,premium,220,medium,advanced,2,1,35,purchase
+739,Ruby_Ramirez_0739,Ruby,Ramirez,ruby.ramirez739@hotmail.com,Server_A,1726,43,My account is not working properly,random,negative,41883,medium,returning,365,complex,intermediate,2,3,22,complaint
+740,Taylor_Thomas_0740,Taylor,Thomas,taylor.thomas740@client.biz,Server_B,1233,8,Could you explain how this feature works?,quick,random,84467,high,new,34,simple,beginner,2,2,47,complaint
+741,Peter_Rivera_0741,Peter,Rivera,peter.rivera741@hotmail.com,Any,208,32,Could you explain how this feature works?,slow,positive,41932,low,premium,533,simple,intermediate,5,2,30,purchase
+742,Noah_Jackson_0742,Noah,Jackson,noah.jackson742@sample.co,Any,1479,33,There's an error in my order,medium,positive,14555,high,returning,68,complex,beginner,5,2,34,purchase
+743,Victor_Wilson_0743,Victor,Wilson,victor.wilson743@client.biz,Server_C,1442,14,I have a complaint about the service,quick,positive,64552,low,new,473,complex,intermediate,5,2,13,information
+744,Nico_Thompson_0744,Nico,Thompson,nico.thompson744@client.biz,Server_C,732,46,I want to upgrade my plan,quick,negative,1323,medium,returning,233,simple,intermediate,3,1,22,technical
+745,Sam_Wilson_0745,Sam,Wilson,sam.wilson745@company.com,Server_B,1727,16,I'm experiencing problems with login,medium,negative,72364,low,returning,517,simple,intermediate,5,1,12,information
+746,Drew_Gonzalez_0746,Drew,Gonzalez,drew.gonzalez746@outlook.com,Server_C,1571,34,I need help with integration,medium,random,13566,low,premium,362,complex,intermediate,2,3,27,technical
+747,Leo_Miller_0747,Leo,Miller,leo.miller747@client.biz,Server_B,316,14,I want to upgrade my plan,random,random,72419,medium,returning,33,complex,beginner,4,1,32,complaint
+748,Phoenix_Martin_0748,Phoenix,Martin,phoenix.martin748@gmail.com,Any,899,17,Can you help me with a technical issue?,random,neutral,72347,low,returning,247,simple,beginner,2,2,27,purchase
+749,Wendy_Davis_0749,Wendy,Davis,wendy.davis749@outlook.com,Server_C,497,38,Could you explain how this feature works?,medium,neutral,6091,medium,premium,538,complex,beginner,5,2,22,information
+750,Quinn_Smith_0750,Quinn,Smith,quinn.smith750@gmail.com,Any,1159,28,I have a question about your service,random,neutral,74978,high,new,503,medium,advanced,2,2,14,information
+751,Grace_Robinson_0751,Grace,Robinson,grace.robinson751@outlook.com,Any,567,20,I have a complaint about the service,random,positive,19907,low,premium,476,simple,advanced,5,2,23,complaint
+752,Alex_Flores_0752,Alex,Flores,alex.flores752@client.biz,Any,1431,30,I need help with integration,quick,negative,33007,low,returning,286,medium,advanced,4,3,14,complaint
+753,Alex_Nelson_0753,Alex,Nelson,alex.nelson753@yahoo.com,Server_C,1253,13,I want to cancel my subscription,quick,positive,37530,medium,returning,469,medium,beginner,3,2,39,technical
+754,Frank_Campbell_0754,Frank,Campbell,frank.campbell754@sample.co,Server_C,1203,9,I want to upgrade my plan,slow,positive,53675,high,new,395,complex,intermediate,2,1,51,technical
+755,Harper_Hill_0755,Harper,Hill,harper.hill755@outlook.com,Any,844,50,I want to cancel my subscription,quick,neutral,21858,low,new,554,medium,beginner,3,1,37,information
+756,Nico_Smith_0756,Nico,Smith,nico.smith756@hotmail.com,Server_A,1286,21,There's a bug in the application,random,positive,4475,medium,returning,194,medium,intermediate,2,2,16,information
+757,Xavier_Rivera_0757,Xavier,Rivera,xavier.rivera757@hotmail.com,Server_B,573,44,Could you explain how this feature works?,slow,random,47937,medium,new,224,medium,intermediate,3,1,42,support
+758,Bob_Jones_0758,Bob,Jones,bob.jones758@company.com,Any,382,48,Can you help me reset my password?,slow,random,40777,high,premium,573,medium,beginner,2,2,40,complaint
+759,Jack_Martin_0759,Jack,Martin,jack.martin759@yahoo.com,Any,1005,47,I need help with integration,medium,neutral,18343,high,new,458,complex,beginner,3,1,34,purchase
+760,Wendy_Sanchez_0760,Wendy,Sanchez,wendy.sanchez760@test.net,Any,1728,10,I want to cancel my subscription,quick,random,41814,low,returning,103,complex,intermediate,3,2,12,complaint
+761,Blake_Smith_0761,Blake,Smith,blake.smith761@hotmail.com,Server_A,869,20,The system is running slowly,medium,neutral,83227,low,returning,429,simple,advanced,5,1,54,complaint
+762,Indigo_Walker_0762,Indigo,Walker,indigo.walker762@client.biz,Server_A,527,27,Can you help me with a technical issue?,medium,random,82474,low,returning,305,simple,advanced,3,2,44,purchase
+763,Noah_Mitchell_0763,Noah,Mitchell,noah.mitchell763@yahoo.com,Server_B,876,45,I need training on how to use this,slow,positive,12798,low,premium,476,complex,beginner,3,3,47,information
+764,Ruby_White_0764,Ruby,White,ruby.white764@yahoo.com,Any,111,18,The system is running slowly,quick,positive,37649,medium,new,432,simple,advanced,2,3,49,complaint
+765,Peter_Baker_0765,Peter,Baker,peter.baker765@company.com,Server_C,1325,49,Can you provide more information?,quick,negative,12150,medium,new,230,medium,beginner,5,1,9,complaint
+766,Oakley_Moore_0766,Oakley,Moore,oakley.moore766@client.biz,Any,469,14,The system is running slowly,random,positive,30308,medium,premium,342,simple,beginner,5,2,34,technical
+767,Ivy_Thomas_0767,Ivy,Thomas,ivy.thomas767@yahoo.com,Server_A,1516,45,Can you help me reset my password?,quick,neutral,65834,medium,premium,581,complex,advanced,5,2,9,support
+768,Diana_Brown_0768,Diana,Brown,diana.brown768@hotmail.com,Server_A,1753,28,I'm experiencing problems with login,random,neutral,47724,high,returning,453,medium,beginner,3,3,39,support
+769,Gray_Nguyen_0769,Gray,Nguyen,gray.nguyen769@hotmail.com,Any,759,22,I want to cancel my subscription,random,random,37284,medium,new,436,medium,beginner,4,1,58,information
+770,Karen_Brown_0770,Karen,Brown,karen.brown770@company.com,Server_B,258,11,I'm experiencing problems with login,medium,random,80427,high,premium,67,simple,beginner,3,2,24,purchase
+771,Wendy_Davis_0771,Wendy,Davis,wendy.davis771@outlook.com,Server_C,1479,8,My account is not working properly,quick,positive,22080,high,returning,319,medium,beginner,5,3,17,complaint
+772,Henry_Moore_0772,Henry,Moore,henry.moore772@example.org,Server_A,676,28,I want to upgrade my plan,random,negative,71992,low,new,144,simple,beginner,4,1,11,complaint
+773,Alice_Johnson_0773,Alice,Johnson,alice.johnson773@outlook.com,Server_C,1200,14,I have a complaint about the service,medium,neutral,78443,medium,returning,473,simple,intermediate,2,3,27,technical
+774,Nico_Brown_0774,Nico,Brown,nico.brown774@demo.io,Server_C,1599,23,There's a bug in the application,random,neutral,8080,low,new,407,simple,advanced,4,3,54,information
+775,Alex_Jones_0775,Alex,Jones,alex.jones775@yahoo.com,Server_B,1148,15,Can you help me reset my password?,medium,random,5251,high,premium,84,medium,beginner,5,1,35,purchase
+776,Finley_Thompson_0776,Finley,Thompson,finley.thompson776@yahoo.com,Server_C,1615,14,Can you provide more information?,medium,positive,65057,high,premium,98,medium,advanced,2,1,27,information
+777,Ellis_Hall_0777,Ellis,Hall,ellis.hall777@company.com,Server_C,1339,35,Could you explain how this feature works?,quick,neutral,56618,high,premium,81,complex,beginner,5,2,42,information
+778,Olivia_Garcia_0778,Olivia,Garcia,olivia.garcia778@test.net,Server_B,217,36,I'm experiencing problems with login,medium,positive,54682,medium,premium,289,simple,advanced,2,3,11,information
+779,Drew_Lee_0779,Drew,Lee,drew.lee779@gmail.com,Any,418,14,I'm experiencing problems with login,random,random,26199,high,returning,392,simple,intermediate,2,2,38,purchase
+780,Drew_Harris_0780,Drew,Harris,drew.harris780@hotmail.com,Server_C,1215,17,I need help with integration,quick,neutral,28900,medium,new,286,simple,beginner,5,2,29,information
+781,Leo_Torres_0781,Leo,Torres,leo.torres781@sample.co,Any,1456,27,Could you explain how this feature works?,slow,positive,24820,high,premium,559,simple,advanced,3,3,60,technical
+782,Peter_Lewis_0782,Peter,Lewis,peter.lewis782@company.com,Server_B,1220,17,Can you help me reset my password?,slow,positive,10085,medium,returning,521,medium,advanced,2,2,9,information
+783,Finley_Moore_0783,Finley,Moore,finley.moore783@test.net,Any,185,50,I'm having trouble accessing my data,quick,random,53509,low,new,87,complex,beginner,3,2,46,information
+784,Nico_Perez_0784,Nico,Perez,nico.perez784@yahoo.com,Server_A,352,47,Can you help me with a technical issue?,quick,neutral,57328,high,returning,375,medium,beginner,5,1,32,support
+785,Casey_Clark_0785,Casey,Clark,casey.clark785@client.biz,Any,1583,40,I'm having trouble accessing my data,random,negative,70032,low,premium,238,medium,advanced,2,1,40,technical
+786,Oakley_Torres_0786,Oakley,Torres,oakley.torres786@company.com,Server_C,829,27,Can you help me reset my password?,slow,negative,66185,high,returning,481,complex,advanced,2,2,47,support
+787,Xavier_Williams_0787,Xavier,Williams,xavier.williams787@sample.co,Any,976,32,There's an error in my order,quick,negative,4886,low,new,448,complex,intermediate,2,1,16,purchase
+788,Leo_Miller_0788,Leo,Miller,leo.miller788@sample.co,Any,665,5,I'm having trouble accessing my data,medium,random,4787,medium,new,167,medium,intermediate,2,3,52,support
+789,Bob_Lewis_0789,Bob,Lewis,bob.lewis789@gmail.com,Server_B,121,39,My account is not working properly,slow,negative,45339,medium,premium,566,simple,intermediate,5,3,34,purchase
+790,Quinn_White_0790,Quinn,White,quinn.white790@yahoo.com,Any,1737,37,There's a bug in the application,quick,neutral,71055,medium,returning,75,medium,beginner,3,3,43,information
+791,Yara_Walker_0791,Yara,Walker,yara.walker791@client.biz,Any,1325,6,Could you explain how this feature works?,quick,random,30759,low,new,306,medium,advanced,2,2,57,purchase
+792,Charlie_Hall_0792,Charlie,Hall,charlie.hall792@demo.io,Server_C,185,29,I have a question about your service,quick,negative,39754,low,new,39,simple,beginner,4,2,10,purchase
+793,Henry_Williams_0793,Henry,Williams,henry.williams793@test.net,Any,942,13,I have a complaint about the service,slow,neutral,28343,medium,returning,475,medium,beginner,2,1,29,information
+794,Noah_Clark_0794,Noah,Clark,noah.clark794@example.org,Server_B,1735,31,I need help with integration,slow,random,77449,medium,premium,448,complex,intermediate,4,2,27,complaint
+795,Sam_Jackson_0795,Sam,Jackson,sam.jackson795@gmail.com,Server_B,1763,21,Could you explain how this feature works?,slow,positive,57698,high,new,40,medium,beginner,3,1,8,complaint
+796,Mia_Brown_0796,Mia,Brown,mia.brown796@demo.io,Server_B,1019,34,I need help with integration,slow,random,56242,low,returning,424,complex,beginner,4,1,30,complaint
+797,Casey_Rodriguez_0797,Casey,Rodriguez,casey.rodriguez797@sample.co,Server_A,886,24,The system is running slowly,slow,random,1726,medium,returning,540,simple,intermediate,2,1,20,technical
+798,Nico_Perez_0798,Nico,Perez,nico.perez798@hotmail.com,Server_A,806,31,There's a bug in the application,slow,negative,32491,high,new,227,medium,beginner,3,1,24,complaint
+799,Jack_Thomas_0799,Jack,Thomas,jack.thomas799@yahoo.com,Server_B,320,23,I want to upgrade my plan,slow,negative,29663,medium,premium,586,medium,intermediate,3,1,24,support
+800,Jack_Jones_0800,Jack,Jones,jack.jones800@demo.io,Any,717,33,My account is not working properly,slow,random,37774,high,premium,251,complex,intermediate,3,1,25,complaint
+801,Indigo_Martin_0801,Indigo,Martin,indigo.martin801@sample.co,Server_A,1156,26,Can you help me reset my password?,random,random,28140,low,new,38,medium,beginner,2,2,15,technical
+802,Grace_Clark_0802,Grace,Clark,grace.clark802@example.org,Any,1797,41,I want to cancel my subscription,random,positive,60974,low,returning,306,simple,intermediate,4,1,23,technical
+803,Victor_Miller_0803,Victor,Miller,victor.miller803@outlook.com,Any,1314,44,Can you help me with a technical issue?,medium,negative,68020,low,new,179,medium,intermediate,3,1,5,technical
+804,Lane_Allen_0804,Lane,Allen,lane.allen804@hotmail.com,Any,1377,38,The system is running slowly,slow,positive,27441,medium,premium,133,complex,advanced,3,3,27,purchase
+805,Bob_Scott_0805,Bob,Scott,bob.scott805@client.biz,Server_B,942,49,My account is not working properly,medium,neutral,58224,high,new,568,simple,advanced,5,2,9,information
+806,Karen_Flores_0806,Karen,Flores,karen.flores806@yahoo.com,Server_A,646,19,The system is running slowly,random,positive,29680,low,returning,224,simple,advanced,2,2,10,technical
+807,River_Moore_0807,River,Moore,river.moore807@gmail.com,Server_C,298,21,I have a question about your service,slow,random,32535,high,new,301,simple,advanced,2,1,56,complaint
+808,Eve_Sanchez_0808,Eve,Sanchez,eve.sanchez808@yahoo.com,Server_A,1043,21,"Hello, I need help with my account",slow,negative,12004,medium,new,37,complex,advanced,2,2,58,complaint
+809,Alex_Wright_0809,Alex,Wright,alex.wright809@demo.io,Any,177,43,Can you provide more information?,random,neutral,17151,high,returning,498,complex,advanced,2,1,8,complaint
+810,Frank_Mitchell_0810,Frank,Mitchell,frank.mitchell810@hotmail.com,Server_B,815,13,I need help with integration,medium,neutral,57591,low,premium,572,medium,advanced,5,3,41,support
+811,Frank_White_0811,Frank,White,frank.white811@company.com,Server_B,870,19,I have a complaint about the service,quick,positive,27466,low,new,389,complex,intermediate,3,3,60,information
+812,Peter_Miller_0812,Peter,Miller,peter.miller812@gmail.com,Server_B,665,36,"Hello, I need help with my account",slow,negative,63895,medium,returning,382,simple,intermediate,2,1,10,information
+813,Victor_Lee_0813,Victor,Lee,victor.lee813@outlook.com,Server_A,132,28,I have a complaint about the service,medium,negative,83769,low,new,440,simple,intermediate,3,2,60,information
+814,Sam_Clark_0814,Sam,Clark,sam.clark814@client.biz,Any,60,49,I need training on how to use this,quick,random,54894,low,new,252,medium,intermediate,5,2,28,technical
+815,Phoenix_Baker_0815,Phoenix,Baker,phoenix.baker815@sample.co,Server_C,278,49,Can you provide more information?,slow,neutral,54432,high,premium,423,simple,intermediate,5,1,13,information
+816,Casey_Johnson_0816,Casey,Johnson,casey.johnson816@test.net,Server_C,1327,50,I have a complaint about the service,random,neutral,57676,medium,returning,352,complex,advanced,3,2,48,support
+817,Nico_Green_0817,Nico,Green,nico.green817@sample.co,Server_A,774,16,I need help with configuration,quick,neutral,39166,medium,new,597,simple,advanced,3,3,17,information
+818,Blake_Hill_0818,Blake,Hill,blake.hill818@example.org,Server_A,1413,49,Can you check my account status?,slow,positive,48991,low,premium,57,simple,intermediate,4,2,8,support
+819,Peter_Smith_0819,Peter,Smith,peter.smith819@sample.co,Server_B,94,28,Could you explain how this feature works?,random,positive,70465,medium,premium,325,medium,beginner,2,2,22,purchase
+820,Casey_Williams_0820,Casey,Williams,casey.williams820@test.net,Any,1295,11,There's a bug in the application,slow,random,71621,low,returning,525,medium,beginner,3,1,48,support
+821,Tina_Nguyen_0821,Tina,Nguyen,tina.nguyen821@hotmail.com,Server_C,1590,25,I'm having trouble accessing my data,medium,positive,18767,high,returning,267,simple,beginner,5,2,29,purchase
+822,Mia_Martinez_0822,Mia,Martinez,mia.martinez822@sample.co,Server_C,537,31,The system is running slowly,random,negative,13706,low,premium,328,medium,advanced,4,2,53,information
+823,Nico_Martin_0823,Nico,Martin,nico.martin823@gmail.com,Server_C,1234,43,I need assistance with billing,slow,negative,78728,high,premium,550,simple,advanced,4,2,25,technical
+824,Peter_Martinez_0824,Peter,Martinez,peter.martinez824@hotmail.com,Server_C,1153,18,I'm experiencing problems with login,quick,random,45568,medium,premium,186,complex,intermediate,4,3,53,technical
+825,Eve_Wright_0825,Eve,Wright,eve.wright825@company.com,Server_A,1388,41,Can you help me reset my password?,random,negative,11493,low,returning,151,medium,beginner,4,2,20,complaint
+826,Tina_Young_0826,Tina,Young,tina.young826@demo.io,Server_C,717,37,I have a complaint about the service,medium,negative,69614,high,returning,210,simple,advanced,4,3,8,technical
+827,Ivy_King_0827,Ivy,King,ivy.king827@outlook.com,Any,1665,28,I'm having trouble accessing my data,slow,negative,38817,high,new,275,simple,beginner,5,2,25,purchase
+828,Wendy_Gonzalez_0828,Wendy,Gonzalez,wendy.gonzalez828@company.com,Server_A,1631,31,I have a question about your service,quick,negative,29602,low,returning,232,simple,intermediate,5,2,48,technical
+829,Bob_Green_0829,Bob,Green,bob.green829@client.biz,Server_A,1281,8,Can you provide more information?,random,negative,69009,medium,new,143,complex,advanced,5,1,17,purchase
+830,Charlie_Green_0830,Charlie,Green,charlie.green830@gmail.com,Server_A,723,24,Can you help me reset my password?,slow,neutral,36424,low,new,556,medium,beginner,3,3,38,complaint
+831,Frank_Hernandez_0831,Frank,Hernandez,frank.hernandez831@test.net,Any,136,44,Can you help me reset my password?,random,negative,7468,high,premium,159,simple,beginner,5,3,5,purchase
+832,Finley_Perez_0832,Finley,Perez,finley.perez832@client.biz,Server_A,329,49,Can you help me reset my password?,random,positive,56302,high,new,199,complex,intermediate,5,3,23,support
+833,Nico_King_0833,Nico,King,nico.king833@client.biz,Server_A,868,45,I have a question about your service,random,neutral,47522,medium,premium,83,simple,beginner,3,2,51,technical
+834,Sam_White_0834,Sam,White,sam.white834@yahoo.com,Server_C,1299,17,I need training on how to use this,random,neutral,68259,high,new,476,simple,advanced,2,2,47,complaint
+835,Ivy_King_0835,Ivy,King,ivy.king835@gmail.com,Server_B,373,19,Can you help me reset my password?,medium,random,49472,low,premium,224,simple,advanced,2,3,58,purchase
+836,Lane_Baker_0836,Lane,Baker,lane.baker836@demo.io,Server_B,336,19,Can you help me with a technical issue?,random,positive,66055,medium,new,169,medium,beginner,2,2,40,support
+837,Phoenix_Scott_0837,Phoenix,Scott,phoenix.scott837@yahoo.com,Server_B,1182,28,I need help with configuration,quick,random,67370,high,returning,596,simple,intermediate,5,3,56,support
+838,Phoenix_Johnson_0838,Phoenix,Johnson,phoenix.johnson838@company.com,Server_A,1337,32,I'm having trouble accessing my data,medium,random,55634,low,premium,347,simple,intermediate,3,2,14,information
+839,Henry_Hernandez_0839,Henry,Hernandez,henry.hernandez839@client.biz,Any,1303,14,I need assistance with billing,slow,negative,3047,low,new,333,simple,advanced,2,3,45,support
+840,Finley_Anderson_0840,Finley,Anderson,finley.anderson840@hotmail.com,Any,1508,19,Can you help me reset my password?,slow,positive,39580,high,premium,395,medium,advanced,4,2,23,support
+841,River_Walker_0841,River,Walker,river.walker841@gmail.com,Any,1258,32,Can you help me with a technical issue?,slow,negative,46588,low,premium,529,complex,intermediate,5,2,49,purchase
+842,Drew_Jones_0842,Drew,Jones,drew.jones842@outlook.com,Server_B,380,30,I'm having trouble accessing my data,quick,random,27454,low,new,60,simple,advanced,2,3,35,complaint
+843,Drew_Hill_0843,Drew,Hill,drew.hill843@sample.co,Server_A,323,37,I want to upgrade my plan,quick,negative,23078,high,new,168,complex,advanced,5,3,25,purchase
+844,Diana_Hernandez_0844,Diana,Hernandez,diana.hernandez844@yahoo.com,Any,1653,18,I need help with integration,medium,random,59080,low,new,43,simple,beginner,4,2,57,purchase
+845,River_Walker_0845,River,Walker,river.walker845@outlook.com,Server_A,641,47,I need assistance with billing,quick,negative,28335,medium,premium,103,complex,intermediate,2,1,15,technical
+846,Alice_Lopez_0846,Alice,Lopez,alice.lopez846@company.com,Server_B,375,37,My account is not working properly,slow,negative,29033,medium,premium,44,medium,beginner,2,2,30,complaint
+847,Quinn_Rivera_0847,Quinn,Rivera,quinn.rivera847@company.com,Any,1579,28,The system is running slowly,slow,neutral,14820,low,new,451,complex,advanced,5,3,13,support
+848,Henry_Nguyen_0848,Henry,Nguyen,henry.nguyen848@gmail.com,Server_A,1215,33,I want to cancel my subscription,quick,negative,55892,low,returning,440,complex,intermediate,5,1,43,complaint
+849,Olivia_Wright_0849,Olivia,Wright,olivia.wright849@test.net,Server_C,794,29,There's an error in my order,random,neutral,78560,medium,returning,33,complex,intermediate,3,1,59,technical
+850,Karen_Rodriguez_0850,Karen,Rodriguez,karen.rodriguez850@outlook.com,Server_A,487,32,There's an error in my order,random,random,49298,high,new,210,complex,intermediate,5,2,46,support
+851,Diana_Green_0851,Diana,Green,diana.green851@sample.co,Server_B,1557,22,I'm having trouble accessing my data,random,positive,21755,low,new,317,medium,intermediate,4,2,29,purchase
+852,Alex_Brown_0852,Alex,Brown,alex.brown852@company.com,Server_A,366,19,Can you check my account status?,random,neutral,17281,medium,returning,513,simple,advanced,3,1,35,support
+853,River_Taylor_0853,River,Taylor,river.taylor853@gmail.com,Server_B,1576,33,Can you check my account status?,medium,neutral,25099,low,premium,44,medium,advanced,5,1,59,support
+854,Eve_Adams_0854,Eve,Adams,eve.adams854@test.net,Server_B,64,34,I'm having trouble accessing my data,random,neutral,45697,high,returning,411,medium,intermediate,4,1,33,purchase
+855,River_Smith_0855,River,Smith,river.smith855@client.biz,Server_B,1320,26,There's a bug in the application,quick,neutral,23365,low,premium,243,simple,beginner,3,3,56,support
+856,Eve_Jackson_0856,Eve,Jackson,eve.jackson856@outlook.com,Server_B,169,38,Can you help me with a technical issue?,slow,positive,76940,high,returning,147,medium,advanced,5,1,52,complaint
+857,Diana_Harris_0857,Diana,Harris,diana.harris857@test.net,Server_A,1582,23,I want to upgrade my plan,medium,random,74523,low,premium,55,complex,intermediate,5,3,28,purchase
+858,Henry_Nguyen_0858,Henry,Nguyen,henry.nguyen858@company.com,Server_C,1425,13,I'm having trouble accessing my data,random,positive,33050,medium,returning,83,simple,intermediate,5,2,7,purchase
+859,Indigo_Lopez_0859,Indigo,Lopez,indigo.lopez859@outlook.com,Server_B,1195,9,Could you explain how this feature works?,slow,negative,83305,low,new,90,medium,advanced,2,2,7,complaint
+860,Wendy_Flores_0860,Wendy,Flores,wendy.flores860@yahoo.com,Server_A,238,24,I want to upgrade my plan,slow,random,37868,medium,returning,191,medium,advanced,3,1,25,purchase
+861,Mia_Green_0861,Mia,Green,mia.green861@demo.io,Any,80,14,Can you help me reset my password?,slow,positive,55875,low,premium,133,simple,intermediate,3,3,36,complaint
+862,Casey_Williams_0862,Casey,Williams,casey.williams862@company.com,Server_B,833,46,I need help with integration,medium,random,61587,high,returning,64,medium,beginner,2,2,25,complaint
+863,Quinn_Brown_0863,Quinn,Brown,quinn.brown863@gmail.com,Server_B,1101,9,My account is not working properly,quick,positive,35639,medium,new,457,medium,beginner,3,2,43,information
+864,Uma_Moore_0864,Uma,Moore,uma.moore864@outlook.com,Server_A,368,10,I want to cancel my subscription,quick,neutral,66406,low,new,128,complex,beginner,4,2,50,technical
+865,Alex_Nelson_0865,Alex,Nelson,alex.nelson865@hotmail.com,Server_B,286,47,I need assistance with billing,slow,random,58702,high,returning,505,medium,intermediate,3,3,46,technical
+866,Gray_White_0866,Gray,White,gray.white866@company.com,Server_B,1281,21,Can you help me with a technical issue?,random,neutral,16574,high,new,59,medium,intermediate,3,3,16,complaint
+867,Sage_Hill_0867,Sage,Hill,sage.hill867@client.biz,Any,679,33,Can you help me reset my password?,random,negative,11665,low,returning,506,complex,intermediate,2,3,34,complaint
+868,Uma_Moore_0868,Uma,Moore,uma.moore868@client.biz,Server_A,872,10,I want to upgrade my plan,medium,positive,34208,high,returning,306,complex,intermediate,4,3,44,complaint
+869,Morgan_Martinez_0869,Morgan,Martinez,morgan.martinez869@company.com,Any,706,16,I need training on how to use this,medium,random,29914,high,returning,103,medium,beginner,4,3,35,technical
+870,Bob_Sanchez_0870,Bob,Sanchez,bob.sanchez870@test.net,Server_C,1172,39,There's an error in my order,slow,positive,68966,medium,new,475,complex,advanced,2,3,58,complaint
+871,Bob_Clark_0871,Bob,Clark,bob.clark871@demo.io,Server_C,1743,37,The system is running slowly,slow,neutral,4298,low,returning,414,medium,intermediate,4,2,30,technical
+872,Sam_Campbell_0872,Sam,Campbell,sam.campbell872@outlook.com,Any,1032,47,I need help with configuration,quick,positive,65986,low,premium,193,medium,beginner,5,1,9,technical
+873,Sage_Davis_0873,Sage,Davis,sage.davis873@example.org,Server_A,964,44,I need help with integration,slow,positive,63018,medium,returning,344,medium,beginner,2,2,58,purchase
+874,Zoe_Anderson_0874,Zoe,Anderson,zoe.anderson874@sample.co,Server_A,937,10,I need training on how to use this,quick,random,53158,high,new,220,medium,intermediate,4,2,26,purchase
+875,Jesse_Lopez_0875,Jesse,Lopez,jesse.lopez875@client.biz,Server_C,187,50,I need training on how to use this,quick,negative,28206,high,returning,265,simple,advanced,4,1,38,purchase
+876,Alice_Martin_0876,Alice,Martin,alice.martin876@sample.co,Server_A,526,6,Can you help me reset my password?,quick,random,77796,high,premium,444,simple,advanced,2,1,35,purchase
+877,Frank_Mitchell_0877,Frank,Mitchell,frank.mitchell877@test.net,Any,1146,13,I want to cancel my subscription,random,positive,45717,medium,returning,343,complex,advanced,5,2,57,technical
+878,Mia_Clark_0878,Mia,Clark,mia.clark878@demo.io,Server_C,736,46,Can you provide more information?,random,neutral,24455,high,new,206,simple,beginner,2,2,14,complaint
+879,Lane_Mitchell_0879,Lane,Mitchell,lane.mitchell879@demo.io,Server_A,731,11,I need help with integration,medium,negative,69233,high,returning,55,simple,advanced,5,1,57,complaint
+880,Sam_Baker_0880,Sam,Baker,sam.baker880@company.com,Server_C,683,32,Can you check my account status?,medium,neutral,59717,medium,new,414,simple,advanced,5,1,20,information
+881,Victor_Sanchez_0881,Victor,Sanchez,victor.sanchez881@yahoo.com,Server_A,848,24,There's an error in my order,slow,random,13309,high,new,322,medium,intermediate,5,2,17,support
+882,Taylor_Wright_0882,Taylor,Wright,taylor.wright882@gmail.com,Server_B,1055,35,I'm experiencing problems with login,random,neutral,54649,high,returning,546,complex,beginner,3,1,43,purchase
+883,Zoe_Flores_0883,Zoe,Flores,zoe.flores883@client.biz,Server_A,1225,50,I'm having trouble accessing my data,random,positive,66706,medium,returning,422,medium,intermediate,5,1,58,information
+884,Tina_Allen_0884,Tina,Allen,tina.allen884@sample.co,Server_C,857,35,"Hello, I need help with my account",random,positive,78124,high,new,232,complex,beginner,3,2,38,information
+885,Oakley_Adams_0885,Oakley,Adams,oakley.adams885@hotmail.com,Any,1035,32,I have a complaint about the service,medium,negative,37900,high,new,287,complex,advanced,3,1,17,purchase
+886,Finley_White_0886,Finley,White,finley.white886@client.biz,Server_B,114,32,I want to upgrade my plan,quick,positive,71901,low,new,441,simple,beginner,2,3,34,purchase
+887,Indigo_Hill_0887,Indigo,Hill,indigo.hill887@company.com,Server_C,922,34,I'm experiencing problems with login,quick,negative,62333,medium,premium,497,simple,advanced,3,2,52,information
+888,Tina_Martin_0888,Tina,Martin,tina.martin888@outlook.com,Any,1317,30,I have a complaint about the service,slow,positive,37039,high,returning,435,simple,intermediate,4,2,43,support
+889,Eve_Allen_0889,Eve,Allen,eve.allen889@hotmail.com,Any,1764,47,Can you provide more information?,random,neutral,68977,medium,premium,72,medium,intermediate,3,2,59,information
+890,Harper_Allen_0890,Harper,Allen,harper.allen890@demo.io,Server_C,486,12,I need help with configuration,quick,positive,26906,medium,new,571,complex,beginner,2,3,20,complaint
+891,Ellis_Thompson_0891,Ellis,Thompson,ellis.thompson891@sample.co,Any,730,38,My account is not working properly,quick,positive,83098,medium,new,498,medium,beginner,5,2,53,purchase
+892,Nico_Brown_0892,Nico,Brown,nico.brown892@example.org,Server_A,737,34,There's a bug in the application,slow,negative,36253,low,premium,472,simple,intermediate,3,3,35,information
+893,Quinn_Lopez_0893,Quinn,Lopez,quinn.lopez893@test.net,Any,1487,31,Can you provide more information?,quick,negative,33096,high,returning,55,complex,intermediate,2,1,20,technical
+894,Uma_Adams_0894,Uma,Adams,uma.adams894@sample.co,Any,985,12,Can you provide more information?,medium,neutral,76748,low,returning,173,simple,intermediate,5,1,37,support
+895,Jesse_Sanchez_0895,Jesse,Sanchez,jesse.sanchez895@test.net,Any,1009,28,Can you provide more information?,medium,negative,55385,high,new,184,simple,advanced,3,1,54,technical
+896,Yara_White_0896,Yara,White,yara.white896@client.biz,Server_C,1786,38,I'm experiencing problems with login,slow,neutral,72749,high,new,553,complex,advanced,5,2,41,purchase
+897,Unique_Walker_0897,Unique,Walker,unique.walker897@gmail.com,Server_C,1612,19,I'm having trouble accessing my data,quick,random,15945,medium,premium,453,simple,beginner,4,2,17,technical
+898,Bob_Rodriguez_0898,Bob,Rodriguez,bob.rodriguez898@yahoo.com,Server_A,1196,48,I'm experiencing problems with login,quick,positive,66038,low,new,177,medium,beginner,4,1,23,technical
+899,Ivy_Harris_0899,Ivy,Harris,ivy.harris899@test.net,Server_A,818,11,Can you provide more information?,slow,neutral,63699,low,new,314,simple,advanced,5,2,49,technical
+900,Lane_Wright_0900,Lane,Wright,lane.wright900@client.biz,Server_C,898,12,Can you help me reset my password?,random,neutral,58671,medium,returning,524,medium,intermediate,3,3,36,information
+901,River_Young_0901,River,Young,river.young901@test.net,Server_C,1530,46,I need training on how to use this,quick,positive,67405,low,premium,193,complex,advanced,5,3,15,complaint
+902,Eve_Hernandez_0902,Eve,Hernandez,eve.hernandez902@yahoo.com,Server_B,1533,47,I need assistance with billing,quick,neutral,40492,low,returning,183,medium,beginner,5,1,21,support
+903,Mia_Martin_0903,Mia,Martin,mia.martin903@test.net,Any,989,30,Could you explain how this feature works?,random,neutral,75179,low,new,110,simple,advanced,4,2,56,information
+904,Mia_Walker_0904,Mia,Walker,mia.walker904@outlook.com,Server_C,401,31,Can you help me reset my password?,medium,positive,51784,medium,returning,491,medium,advanced,3,2,43,technical
+905,Xavier_Walker_0905,Xavier,Walker,xavier.walker905@company.com,Server_C,1240,32,Can you provide more information?,medium,negative,19800,medium,premium,379,medium,intermediate,2,1,6,support
+906,Zoe_Anderson_0906,Zoe,Anderson,zoe.anderson906@client.biz,Server_C,766,27,Can you help me reset my password?,slow,random,61869,medium,premium,484,medium,beginner,5,2,21,technical
+907,River_Rivera_0907,River,Rivera,river.rivera907@gmail.com,Any,753,18,I have a question about your service,medium,random,48319,low,returning,510,medium,beginner,5,2,13,complaint
+908,Uma_Taylor_0908,Uma,Taylor,uma.taylor908@hotmail.com,Any,1761,16,I need training on how to use this,slow,random,83661,medium,new,401,simple,beginner,5,3,53,technical
+909,Mia_Campbell_0909,Mia,Campbell,mia.campbell909@test.net,Any,1719,12,Could you explain how this feature works?,random,negative,17855,high,premium,53,complex,intermediate,5,2,17,complaint
+910,Tina_Adams_0910,Tina,Adams,tina.adams910@yahoo.com,Server_B,1222,18,I want to cancel my subscription,random,positive,40153,medium,returning,253,simple,beginner,3,2,49,purchase
+911,Leo_Clark_0911,Leo,Clark,leo.clark911@yahoo.com,Server_C,1100,15,The system is running slowly,quick,neutral,50325,medium,new,232,complex,intermediate,3,3,53,information
+912,Quinn_Nguyen_0912,Quinn,Nguyen,quinn.nguyen912@company.com,Server_B,1269,44,I want to cancel my subscription,quick,negative,45469,low,premium,333,simple,beginner,3,1,17,information
+913,Sage_Mitchell_0913,Sage,Mitchell,sage.mitchell913@demo.io,Server_C,514,9,My account is not working properly,random,negative,77349,low,premium,337,simple,advanced,4,3,59,purchase
+914,Mia_Allen_0914,Mia,Allen,mia.allen914@company.com,Server_C,628,46,The system is running slowly,quick,positive,68676,high,returning,115,complex,intermediate,3,2,16,information
+915,Wendy_Mitchell_0915,Wendy,Mitchell,wendy.mitchell915@gmail.com,Server_A,1666,19,"Hello, I need help with my account",slow,negative,29727,high,new,109,medium,advanced,5,3,8,information
+916,Unique_Miller_0916,Unique,Miller,unique.miller916@gmail.com,Any,1474,21,Can you help me reset my password?,medium,positive,67873,low,returning,65,simple,advanced,3,2,37,information
+917,Bob_Ramirez_0917,Bob,Ramirez,bob.ramirez917@hotmail.com,Server_C,715,23,Can you check my account status?,random,positive,54133,low,premium,78,complex,advanced,4,2,16,purchase
+918,Grace_Lee_0918,Grace,Lee,grace.lee918@yahoo.com,Server_B,1470,25,There's an error in my order,random,neutral,62695,high,returning,554,complex,intermediate,4,1,32,technical
+919,Drew_King_0919,Drew,King,drew.king919@outlook.com,Any,1553,12,My account is not working properly,slow,random,16262,medium,new,188,simple,advanced,4,3,11,purchase
+920,Peter_Hill_0920,Peter,Hill,peter.hill920@outlook.com,Server_A,1747,26,I have a question about your service,slow,random,33239,low,new,507,complex,intermediate,2,2,21,technical
+921,Diana_Davis_0921,Diana,Davis,diana.davis921@yahoo.com,Server_C,399,14,I need help with configuration,slow,random,77244,low,returning,237,complex,advanced,2,1,18,information
+922,Uma_Perez_0922,Uma,Perez,uma.perez922@gmail.com,Server_B,1219,10,Can you check my account status?,medium,neutral,35610,medium,new,526,simple,beginner,4,3,16,information
+923,Sam_Martin_0923,Sam,Martin,sam.martin923@hotmail.com,Any,346,40,I have a question about your service,quick,random,72374,medium,premium,418,complex,intermediate,2,1,53,support
+924,Gray_Sanchez_0924,Gray,Sanchez,gray.sanchez924@demo.io,Server_C,1120,27,"Hello, I need help with my account",quick,neutral,52960,low,returning,404,medium,beginner,5,3,52,information
+925,Ivy_Hall_0925,Ivy,Hall,ivy.hall925@sample.co,Server_A,1206,13,I need assistance with billing,random,positive,81796,medium,premium,527,simple,beginner,4,3,29,support
+926,Yara_Lopez_0926,Yara,Lopez,yara.lopez926@hotmail.com,Server_A,259,31,There's a bug in the application,quick,negative,63055,medium,new,526,complex,beginner,3,2,9,technical
+927,Taylor_Anderson_0927,Taylor,Anderson,taylor.anderson927@sample.co,Server_A,1442,32,There's an error in my order,medium,random,17545,medium,new,460,medium,intermediate,2,2,48,support
+928,Leo_Wright_0928,Leo,Wright,leo.wright928@company.com,Any,1670,30,Could you explain how this feature works?,random,neutral,40715,medium,premium,421,simple,advanced,4,3,8,complaint
+929,Wendy_Green_0929,Wendy,Green,wendy.green929@example.org,Server_B,1347,15,I need help with configuration,quick,random,17193,high,premium,569,complex,advanced,4,2,19,information
+930,Diana_Mitchell_0930,Diana,Mitchell,diana.mitchell930@sample.co,Server_B,109,44,"Hello, I need help with my account",medium,negative,81990,medium,returning,433,medium,intermediate,5,3,6,support
+931,Victor_Jackson_0931,Victor,Jackson,victor.jackson931@example.org,Server_C,545,18,Can you help me with a technical issue?,medium,random,15864,high,returning,254,medium,beginner,5,2,6,support
+932,Taylor_Martinez_0932,Taylor,Martinez,taylor.martinez932@example.org,Server_B,581,26,I need help with configuration,random,neutral,31903,low,new,269,simple,beginner,4,3,13,purchase
+933,Alex_Anderson_0933,Alex,Anderson,alex.anderson933@yahoo.com,Any,1096,49,There's a bug in the application,random,random,64577,high,premium,491,medium,intermediate,2,2,45,technical
+934,Nico_Moore_0934,Nico,Moore,nico.moore934@example.org,Server_B,1699,44,I need assistance with billing,quick,negative,62159,medium,new,271,medium,advanced,5,2,33,information
+935,Phoenix_Williams_0935,Phoenix,Williams,phoenix.williams935@outlook.com,Server_C,1021,36,I have a complaint about the service,slow,random,11859,low,returning,294,medium,intermediate,3,2,5,technical
+936,Bob_Hall_0936,Bob,Hall,bob.hall936@test.net,Server_B,1032,32,"Hello, I need help with my account",random,positive,21442,high,new,180,simple,beginner,3,2,42,support
+937,Henry_Perez_0937,Henry,Perez,henry.perez937@outlook.com,Server_A,734,24,My account is not working properly,quick,random,5618,medium,premium,353,complex,advanced,2,1,38,technical
+938,Wendy_Torres_0938,Wendy,Torres,wendy.torres938@example.org,Any,1523,33,I'm experiencing problems with login,quick,neutral,79139,high,new,484,simple,advanced,5,3,17,support
+939,Grace_Taylor_0939,Grace,Taylor,grace.taylor939@test.net,Any,534,48,I need help with integration,quick,neutral,42744,medium,new,314,medium,advanced,3,1,56,complaint
+940,Wendy_Anderson_0940,Wendy,Anderson,wendy.anderson940@example.org,Server_B,892,41,There's an error in my order,random,random,84786,medium,new,66,simple,intermediate,3,3,49,information
+941,Wendy_Wilson_0941,Wendy,Wilson,wendy.wilson941@outlook.com,Server_C,595,16,"Hello, I need help with my account",slow,random,35050,medium,returning,557,simple,intermediate,5,1,57,technical
+942,Phoenix_Lee_0942,Phoenix,Lee,phoenix.lee942@test.net,Server_C,1356,49,Can you check my account status?,random,negative,65914,low,returning,252,simple,advanced,2,3,11,complaint
+943,Harper_Ramirez_0943,Harper,Ramirez,harper.ramirez943@yahoo.com,Server_B,621,16,I want to cancel my subscription,quick,neutral,71400,medium,returning,416,simple,advanced,5,3,57,technical
+944,Ellis_Nguyen_0944,Ellis,Nguyen,ellis.nguyen944@hotmail.com,Server_A,376,48,I have a question about your service,random,random,43417,high,premium,42,medium,beginner,4,1,16,purchase
+945,Indigo_Thomas_0945,Indigo,Thomas,indigo.thomas945@company.com,Server_A,353,14,"Hello, I need help with my account",medium,neutral,1043,medium,new,204,medium,intermediate,3,3,13,information
+946,Ellis_Smith_0946,Ellis,Smith,ellis.smith946@yahoo.com,Server_B,753,30,I have a complaint about the service,random,neutral,5060,medium,premium,394,medium,beginner,5,1,48,purchase
+947,Morgan_Lewis_0947,Morgan,Lewis,morgan.lewis947@gmail.com,Any,1183,41,I need training on how to use this,medium,random,73041,low,returning,421,medium,advanced,2,2,46,support
+948,Phoenix_Brown_0948,Phoenix,Brown,phoenix.brown948@test.net,Server_B,1179,5,I'm having trouble accessing my data,random,random,84648,medium,new,356,complex,intermediate,4,2,44,information
+949,Zoe_Young_0949,Zoe,Young,zoe.young949@gmail.com,Server_C,621,10,I need assistance with billing,slow,positive,84706,low,new,126,complex,intermediate,5,3,58,technical
+950,Harper_Smith_0950,Harper,Smith,harper.smith950@company.com,Server_B,1693,8,I want to cancel my subscription,slow,positive,46790,high,returning,302,simple,beginner,2,3,55,purchase
+951,Henry_Scott_0951,Henry,Scott,henry.scott951@example.org,Server_A,1091,27,I need help with integration,quick,neutral,66874,low,premium,342,medium,intermediate,3,1,8,purchase
+952,Ruby_Campbell_0952,Ruby,Campbell,ruby.campbell952@example.org,Server_C,588,35,I need training on how to use this,random,positive,19007,high,premium,144,medium,intermediate,3,1,47,information
+953,Leo_Wright_0953,Leo,Wright,leo.wright953@hotmail.com,Server_C,738,42,I want to cancel my subscription,medium,neutral,10384,high,premium,558,medium,beginner,5,3,50,complaint
+954,Olivia_Anderson_0954,Olivia,Anderson,olivia.anderson954@example.org,Any,976,24,I have a complaint about the service,slow,neutral,55278,low,returning,302,medium,beginner,2,1,20,information
+955,Gray_Garcia_0955,Gray,Garcia,gray.garcia955@hotmail.com,Server_C,1134,6,I want to cancel my subscription,slow,neutral,34491,medium,returning,568,simple,beginner,3,3,21,information
+956,Ellis_Perez_0956,Ellis,Perez,ellis.perez956@sample.co,Any,1764,19,I want to cancel my subscription,slow,negative,76078,medium,premium,85,complex,advanced,5,3,50,purchase
+957,Eve_Martinez_0957,Eve,Martinez,eve.martinez957@example.org,Server_C,563,18,I'm having trouble accessing my data,quick,random,5603,high,premium,51,simple,advanced,5,2,25,purchase
+958,Nico_Thompson_0958,Nico,Thompson,nico.thompson958@yahoo.com,Server_A,157,40,Could you explain how this feature works?,slow,negative,67953,low,new,300,simple,advanced,4,3,10,technical
+959,Grace_Thomas_0959,Grace,Thomas,grace.thomas959@demo.io,Server_A,853,7,I need help with integration,medium,negative,30012,low,premium,111,simple,beginner,4,2,45,complaint
+960,Lane_Green_0960,Lane,Green,lane.green960@example.org,Server_B,1543,17,I need help with configuration,medium,random,65823,low,returning,260,complex,intermediate,2,2,43,complaint
+961,Quinn_Jackson_0961,Quinn,Jackson,quinn.jackson961@client.biz,Any,1671,38,There's an error in my order,quick,positive,46029,high,premium,395,medium,advanced,4,1,47,information
+962,Tina_Nelson_0962,Tina,Nelson,tina.nelson962@yahoo.com,Server_B,256,34,I want to cancel my subscription,random,positive,32958,high,premium,377,complex,advanced,3,1,8,technical
+963,Jack_Lewis_0963,Jack,Lewis,jack.lewis963@outlook.com,Server_B,577,33,I need assistance with billing,quick,neutral,7663,low,new,158,complex,advanced,4,3,7,purchase
+964,Alex_Lewis_0964,Alex,Lewis,alex.lewis964@hotmail.com,Server_A,1204,18,My account is not working properly,random,positive,86321,medium,returning,102,medium,intermediate,2,3,11,purchase
+965,Gray_Ramirez_0965,Gray,Ramirez,gray.ramirez965@company.com,Server_C,1702,33,"Hello, I need help with my account",random,neutral,68982,medium,returning,443,medium,advanced,5,1,15,technical
+966,Ivy_White_0966,Ivy,White,ivy.white966@test.net,Server_B,79,41,The system is running slowly,medium,negative,75825,low,new,504,simple,advanced,5,2,59,information
+967,Kendall_Sanchez_0967,Kendall,Sanchez,kendall.sanchez967@example.org,Server_A,761,49,I want to cancel my subscription,slow,negative,27841,low,premium,155,simple,intermediate,5,3,32,technical
+968,Eve_Mitchell_0968,Eve,Mitchell,eve.mitchell968@sample.co,Server_C,1466,25,I'm experiencing problems with login,quick,random,16809,high,premium,273,simple,intermediate,5,3,48,technical
+969,Sage_Rivera_0969,Sage,Rivera,sage.rivera969@hotmail.com,Server_C,1462,14,Can you help me reset my password?,random,random,42645,medium,premium,519,medium,intermediate,3,3,28,support
+970,Casey_Hill_0970,Casey,Hill,casey.hill970@gmail.com,Server_B,686,47,I want to upgrade my plan,slow,random,62913,low,returning,356,complex,advanced,3,2,28,information
+971,Unique_Rivera_0971,Unique,Rivera,unique.rivera971@sample.co,Server_C,1089,35,"Hello, I need help with my account",quick,neutral,62216,low,new,460,medium,intermediate,4,1,50,support
+972,Alex_Williams_0972,Alex,Williams,alex.williams972@yahoo.com,Server_C,587,8,Could you explain how this feature works?,random,negative,34643,low,returning,351,complex,advanced,5,2,38,technical
+973,Grace_Rivera_0973,Grace,Rivera,grace.rivera973@demo.io,Server_C,1503,45,Can you provide more information?,slow,negative,12528,low,returning,70,complex,beginner,2,2,37,information
+974,Gray_Perez_0974,Gray,Perez,gray.perez974@outlook.com,Server_B,392,39,The system is running slowly,medium,neutral,50172,high,new,171,simple,beginner,2,1,32,support
+975,Xavier_Adams_0975,Xavier,Adams,xavier.adams975@outlook.com,Any,1339,18,I have a complaint about the service,medium,positive,37222,low,returning,332,complex,advanced,3,3,28,information
+976,Drew_King_0976,Drew,King,drew.king976@demo.io,Server_B,161,30,I want to cancel my subscription,random,neutral,71999,low,premium,181,medium,intermediate,4,3,56,technical
+977,Quinn_Garcia_0977,Quinn,Garcia,quinn.garcia977@client.biz,Server_C,924,19,Can you help me reset my password?,quick,neutral,73234,medium,premium,111,simple,intermediate,4,2,43,information
+978,Tina_Robinson_0978,Tina,Robinson,tina.robinson978@client.biz,Server_B,847,45,I have a complaint about the service,quick,negative,80503,low,new,219,simple,beginner,2,1,18,purchase
+979,Oakley_Mitchell_0979,Oakley,Mitchell,oakley.mitchell979@demo.io,Any,356,15,I have a question about your service,quick,negative,28297,medium,new,293,complex,advanced,4,3,25,support
+980,Lane_Sanchez_0980,Lane,Sanchez,lane.sanchez980@outlook.com,Server_C,426,26,The system is running slowly,random,negative,63690,high,returning,521,medium,advanced,3,3,50,purchase
+981,Morgan_Thompson_0981,Morgan,Thompson,morgan.thompson981@demo.io,Server_B,1505,5,I want to cancel my subscription,slow,random,70129,low,new,331,medium,intermediate,4,2,48,complaint
+982,Indigo_Davis_0982,Indigo,Davis,indigo.davis982@demo.io,Any,805,17,Can you check my account status?,random,positive,49747,medium,returning,521,medium,advanced,3,3,53,purchase
+983,Bob_Scott_0983,Bob,Scott,bob.scott983@hotmail.com,Server_B,1293,40,There's an error in my order,random,random,53696,high,returning,445,medium,intermediate,5,2,51,information
+984,Blake_Smith_0984,Blake,Smith,blake.smith984@client.biz,Server_C,790,18,I have a question about your service,random,positive,2960,high,new,317,simple,intermediate,5,3,17,complaint
+985,Oakley_Anderson_0985,Oakley,Anderson,oakley.anderson985@gmail.com,Server_A,227,45,Can you help me with a technical issue?,medium,positive,31224,medium,returning,301,simple,beginner,4,3,19,complaint
+986,Quinn_Lee_0986,Quinn,Lee,quinn.lee986@sample.co,Server_C,1188,12,I have a question about your service,slow,negative,27874,low,new,218,medium,intermediate,5,3,28,purchase
+987,Jack_Sanchez_0987,Jack,Sanchez,jack.sanchez987@hotmail.com,Server_A,1251,45,Can you help me reset my password?,slow,positive,4089,low,premium,529,simple,advanced,5,3,7,information
+988,Jack_Moore_0988,Jack,Moore,jack.moore988@company.com,Server_C,1418,20,I need assistance with billing,random,neutral,39967,high,premium,238,simple,beginner,3,2,24,complaint
+989,Morgan_Nelson_0989,Morgan,Nelson,morgan.nelson989@example.org,Server_C,1017,9,There's an error in my order,medium,positive,49026,high,new,449,complex,advanced,2,2,33,information
+990,Unique_King_0990,Unique,King,unique.king990@outlook.com,Any,1486,18,I have a question about your service,random,neutral,80734,high,new,68,medium,intermediate,4,2,32,complaint
+991,Grace_Smith_0991,Grace,Smith,grace.smith991@test.net,Server_C,1648,26,Can you help me reset my password?,quick,neutral,28965,high,new,390,complex,intermediate,3,1,49,complaint
+992,Gray_Adams_0992,Gray,Adams,gray.adams992@yahoo.com,Server_A,100,17,Could you explain how this feature works?,slow,positive,8958,high,premium,471,simple,intermediate,2,1,37,technical
+993,Ruby_Williams_0993,Ruby,Williams,ruby.williams993@client.biz,Any,994,9,There's an error in my order,slow,negative,77655,low,premium,507,medium,intermediate,3,3,59,information
+994,Tina_Wilson_0994,Tina,Wilson,tina.wilson994@client.biz,Server_A,961,48,Can you check my account status?,random,random,8984,medium,new,471,simple,intermediate,2,3,40,technical
+995,Drew_Clark_0995,Drew,Clark,drew.clark995@test.net,Any,1186,18,Can you provide more information?,slow,neutral,42348,medium,new,457,complex,beginner,2,1,37,technical
+996,Victor_Scott_0996,Victor,Scott,victor.scott996@hotmail.com,Any,1697,7,I have a complaint about the service,random,negative,56756,high,premium,232,medium,beginner,3,3,9,information
+997,Phoenix_Perez_0997,Phoenix,Perez,phoenix.perez997@gmail.com,Server_A,214,6,There's an error in my order,medium,neutral,69764,high,new,431,complex,advanced,2,1,32,information
+998,Alice_Walker_0998,Alice,Walker,alice.walker998@demo.io,Any,335,50,Could you explain how this feature works?,random,random,77557,high,new,392,complex,advanced,4,1,47,purchase
+999,Ivy_Hill_0999,Ivy,Hill,ivy.hill999@test.net,Server_B,174,6,I want to upgrade my plan,medium,random,51162,low,returning,249,simple,beginner,2,1,6,complaint
+1000,Indigo_Flores_1000,Indigo,Flores,indigo.flores1000@client.biz,Server_C,909,7,I want to cancel my subscription,quick,negative,15659,high,returning,169,simple,intermediate,4,1,42,technical

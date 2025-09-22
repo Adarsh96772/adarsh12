@@ -1,0 +1,28 @@
+{
+  "server": {
+    "max_servers": 3,
+    "waiting_time": 300,
+    "port_range": [
+      8000,
+      8010
+    ]
+  },
+  "client": {
+    "max_clients": 1000,
+    "timeout": 30,
+    "retry_attempts": 3
+  },
+  "database": {
+    "path": "data/server_metrics.db",
+    "backup_interval": 3600
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "logs/chat_server.log",
+    "archive_file": "archive.txt"
+  },
+  "performance": {
+    "monitor_interval": 1,
+    "metrics_retention": 86400
+  }
+}

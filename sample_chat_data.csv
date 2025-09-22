@@ -1,0 +1,338 @@
+timestamp,sender,message,message_type,client_id,client_name
+0,client,I'm experiencing problems with login,initial,1,Uma_Lewis_0001
+46,client,That's very helpful.,response,1,Uma_Lewis_0001
+105,server,Server response 1,response,1,Uma_Lewis_0001
+183,client,I think I understand better now.,response,1,Uma_Lewis_0001
+393,server,Server response 2,response,1,Uma_Lewis_0001
+694,client,Let me test that.,response,1,Uma_Lewis_0001
+1297,server,Server response 3,response,1,Uma_Lewis_0001
+2432,client,I appreciate your patience.,response,1,Uma_Lewis_0001
+4448,server,Server response 4,response,1,Uma_Lewis_0001
+8206,client,That's very helpful.,response,1,Uma_Lewis_0001
+15141,server,Server response 5,response,1,Uma_Lewis_0001
+27849,client,That's not quite what I meant.,response,1,Uma_Lewis_0001
+51230,server,Server response 6,response,1,Uma_Lewis_0001
+94260,client,That's exactly what I needed.,response,1,Uma_Lewis_0001
+173368,server,Server response 7,response,1,Uma_Lewis_0001
+318862,client,Could you clarify that?,response,1,Uma_Lewis_0001
+586523,server,Server response 8,response,1,Uma_Lewis_0001
+1078784,client,I think I understand better now.,response,1,Uma_Lewis_0001
+1984215,server,Server response 9,response,1,Uma_Lewis_0001
+3649563,client,I'll implement that change.,response,1,Uma_Lewis_0001
+6712576,server,Server response 10,response,1,Uma_Lewis_0001
+12346408,client,Could you clarify that?,response,1,Uma_Lewis_0001
+22708574,server,Server response 11,response,1,Uma_Lewis_0001
+41767609,client,I'll follow up if I need more help.,response,1,Uma_Lewis_0001
+76822610,server,Server response 12,response,1,Uma_Lewis_0001
+141298850,client,I'll follow up if I need more help.,response,1,Uma_Lewis_0001
+259889086,server,Server response 13,response,1,Uma_Lewis_0001
+478010564,client,Thanks for the quick response!,response,1,Uma_Lewis_0001
+879198527,server,Server response 14,response,1,Uma_Lewis_0001
+1617098211,client,I'm still having issues.,response,1,Uma_Lewis_0001
+2974307328,server,Server response 15,response,1,Uma_Lewis_0001
+5470604125,client,I'll follow up if I need more help.,response,1,Uma_Lewis_0001
+10062009679,server,Server response 16,response,1,Uma_Lewis_0001
+18506921140,client,That's very helpful.,response,1,Uma_Lewis_0001
+34039534982,server,Server response 17,response,1,Uma_Lewis_0001
+62608465814,client,"Great service, thanks!",response,1,Uma_Lewis_0001
+115154921989,server,Server response 18,response,1,Uma_Lewis_0001
+211802922820,client,That worked perfectly!,response,1,Uma_Lewis_0001
+389566310666,server,Server response 19,response,1,Uma_Lewis_0001
+716524155521,client,"Great service, thanks!",response,1,Uma_Lewis_0001
+1317893389066,server,Server response 20,response,1,Uma_Lewis_0001
+2423983855296,client,I understand now.,response,1,Uma_Lewis_0001
+2423983855313,client,Rating: 5,rating,1,Uma_Lewis_0001
+0,client,Can you help me reset my password?,initial,2,Ivy_Baker_0002
+8,client,That solved my problem.,response,2,Ivy_Baker_0002
+16,server,Server response 1,response,2,Ivy_Baker_0002
+26,client,Can you provide more details?,response,2,Ivy_Baker_0002
+59,server,Server response 2,response,2,Ivy_Baker_0002
+108,client,"Perfect, that's clear now.",response,2,Ivy_Baker_0002
+195,server,Server response 3,response,2,Ivy_Baker_0002
+370,client,Thanks for the quick response!,response,2,Ivy_Baker_0002
+682,server,Server response 4,response,2,Ivy_Baker_0002
+1248,client,Can you provide more details?,response,2,Ivy_Baker_0002
+2305,server,Server response 5,response,2,Ivy_Baker_0002
+2333,client,Rating: 2,rating,2,Ivy_Baker_0002
+0,client,I'm experiencing problems with login,initial,3,Sage_Clark_0003
+90,client,Could you clarify that?,response,3,Sage_Clark_0003
+190,server,Server response 1,response,3,Sage_Clark_0003
+342,client,I'm still having issues.,response,3,Sage_Clark_0003
+689,server,Server response 2,response,3,Sage_Clark_0003
+1254,client,I think I understand better now.,response,3,Sage_Clark_0003
+2384,server,Server response 3,response,3,Sage_Clark_0003
+4440,client,I think I understand better now.,response,3,Sage_Clark_0003
+8168,server,Server response 4,response,3,Sage_Clark_0003
+15049,client,Could you walk me through it again?,response,3,Sage_Clark_0003
+27761,server,Server response 5,response,3,Sage_Clark_0003
+51027,client,I'll follow up if I need more help.,response,3,Sage_Clark_0003
+93869,server,Server response 6,response,3,Sage_Clark_0003
+172711,client,Let me test that.,response,3,Sage_Clark_0003
+317668,server,Server response 7,response,3,Sage_Clark_0003
+584283,client,Thanks for the quick response!,response,3,Sage_Clark_0003
+1074736,server,Server response 8,response,3,Sage_Clark_0003
+1976722,client,Thanks for the quick response!,response,3,Sage_Clark_0003
+3635851,server,Server response 9,response,3,Sage_Clark_0003
+6687420,client,I understand now.,response,3,Sage_Clark_0003
+12300068,server,Server response 10,response,3,Sage_Clark_0003
+22623374,client,Could you clarify that?,response,3,Sage_Clark_0003
+41610979,server,Server response 11,response,3,Sage_Clark_0003
+76534512,client,That's very helpful.,response,3,Sage_Clark_0003
+140768914,server,Server response 12,response,3,Sage_Clark_0003
+258914524,client,I'll follow up if I need more help.,response,3,Sage_Clark_0003
+476218030,server,Server response 13,response,3,Sage_Clark_0003
+875901535,client,I appreciate your patience.,response,3,Sage_Clark_0003
+875901558,client,Rating: 4,rating,3,Sage_Clark_0003
+0,client,My account is not working properly,initial,4,Yara_Campbell_0004
+54,client,Let me test that.,response,4,Yara_Campbell_0004
+111,server,Server response 1,response,4,Yara_Campbell_0004
+284,client,I'm still having issues.,response,4,Yara_Campbell_0004
+517,server,Server response 2,response,4,Yara_Campbell_0004
+986,client,That's very helpful.,response,4,Yara_Campbell_0004
+1872,server,Server response 3,response,4,Yara_Campbell_0004
+3452,client,Let me try that solution.,response,4,Yara_Campbell_0004
+6380,server,Server response 4,response,4,Yara_Campbell_0004
+11753,client,I appreciate your patience.,response,4,Yara_Campbell_0004
+21692,server,Server response 5,response,4,Yara_Campbell_0004
+39932,client,Could you clarify that?,response,4,Yara_Campbell_0004
+73479,server,Server response 6,response,4,Yara_Campbell_0004
+135209,client,I'll follow up if I need more help.,response,4,Yara_Campbell_0004
+248659,server,Server response 7,response,4,Yara_Campbell_0004
+457393,client,Thanks for the quick response!,response,4,Yara_Campbell_0004
+841358,server,Server response 8,response,4,Yara_Campbell_0004
+1547454,client,Thanks for the quick response!,response,4,Yara_Campbell_0004
+2846292,server,Server response 9,response,4,Yara_Campbell_0004
+5235182,client,That's exactly what I needed.,response,4,Yara_Campbell_0004
+9629003,server,Server response 10,response,4,Yara_Campbell_0004
+17710548,client,That worked perfectly!,response,4,Yara_Campbell_0004
+32574832,server,Server response 11,response,4,Yara_Campbell_0004
+59914487,client,"Great service, thanks!",response,4,Yara_Campbell_0004
+110199969,server,Server response 12,response,4,Yara_Campbell_0004
+202689340,client,I appreciate your patience.,response,4,Yara_Campbell_0004
+372803893,server,Server response 13,response,4,Yara_Campbell_0004
+685693321,client,Could you walk me through it again?,response,4,Yara_Campbell_0004
+1261186673,server,Server response 14,response,4,Yara_Campbell_0004
+1261186701,client,Rating: 5,rating,4,Yara_Campbell_0004
+0,client,I have a question about your service,initial,5,River_Rivera_0005
+7,client,That's exactly what I needed.,response,5,River_Rivera_0005
+9,server,Server response 1,response,5,River_Rivera_0005
+22,client,That solved my problem.,response,5,River_Rivera_0005
+39,server,Server response 2,response,5,River_Rivera_0005
+78,client,I understand now.,response,5,River_Rivera_0005
+149,server,Server response 3,response,5,River_Rivera_0005
+271,client,Let me try that solution.,response,5,River_Rivera_0005
+508,server,Server response 4,response,5,River_Rivera_0005
+936,client,That's exactly what I needed.,response,5,River_Rivera_0005
+1720,server,Server response 5,response,5,River_Rivera_0005
+3169,client,I'll implement that change.,response,5,River_Rivera_0005
+5828,server,Server response 6,response,5,River_Rivera_0005
+10721,client,Could you clarify that?,response,5,River_Rivera_0005
+19720,server,Server response 7,response,5,River_Rivera_0005
+36272,client,That's exactly what I needed.,response,5,River_Rivera_0005
+66722,server,Server response 8,response,5,River_Rivera_0005
+122719,client,I'm still having issues.,response,5,River_Rivera_0005
+225717,server,Server response 9,response,5,River_Rivera_0005
+415164,client,That worked perfectly!,response,5,River_Rivera_0005
+763604,server,Server response 10,response,5,River_Rivera_0005
+1404493,client,Thanks for the quick response!,response,5,River_Rivera_0005
+2583270,server,Server response 11,response,5,River_Rivera_0005
+4751373,client,Let me test that.,response,5,River_Rivera_0005
+8739145,server,Server response 12,response,5,River_Rivera_0005
+16073791,client,I understand now.,response,5,River_Rivera_0005
+29564311,server,Server response 13,response,5,River_Rivera_0005
+54377252,client,Could you clarify that?,response,5,River_Rivera_0005
+100015355,server,Server response 14,response,5,River_Rivera_0005
+183956927,client,"Great service, thanks!",response,5,River_Rivera_0005
+338349543,server,Server response 15,response,5,River_Rivera_0005
+622321826,client,I appreciate your patience.,response,5,River_Rivera_0005
+1144628297,server,Server response 16,response,5,River_Rivera_0005
+2105299669,client,That's not quite what I meant.,response,5,River_Rivera_0005
+3872249802,server,Server response 17,response,5,River_Rivera_0005
+7122177769,client,I appreciate your patience.,response,5,River_Rivera_0005
+13099727249,server,Server response 18,response,5,River_Rivera_0005
+24094154824,client,"Perfect, that's clear now.",response,5,River_Rivera_0005
+44316059847,server,Server response 19,response,5,River_Rivera_0005
+81509941928,client,I understand now.,response,5,River_Rivera_0005
+81509941955,client,Rating: 5,rating,5,River_Rivera_0005
+0,client,Can you help me with a technical issue?,initial,6,Casey_Johnson_0006
+23,client,That's very helpful.,response,6,Casey_Johnson_0006
+32,server,Server response 1,response,6,Casey_Johnson_0006
+94,client,Can you provide more details?,response,6,Casey_Johnson_0006
+205,server,Server response 2,response,6,Casey_Johnson_0006
+336,client,Could you clarify that?,response,6,Casey_Johnson_0006
+667,server,Server response 3,response,6,Casey_Johnson_0006
+1265,client,I think I understand better now.,response,6,Casey_Johnson_0006
+2297,server,Server response 4,response,6,Casey_Johnson_0006
+4284,client,"Great service, thanks!",response,6,Casey_Johnson_0006
+7888,server,Server response 5,response,6,Casey_Johnson_0006
+14514,client,I appreciate your patience.,response,6,Casey_Johnson_0006
+26697,server,Server response 6,response,6,Casey_Johnson_0006
+49116,client,That's not quite what I meant.,response,6,Casey_Johnson_0006
+90368,server,Server response 7,response,6,Casey_Johnson_0006
+166222,client,Thank you for your help!,response,6,Casey_Johnson_0006
+305756,server,Server response 8,response,6,Casey_Johnson_0006
+562377,client,Let me try that solution.,response,6,Casey_Johnson_0006
+1034369,server,Server response 9,response,6,Casey_Johnson_0006
+1902513,client,I appreciate your patience.,response,6,Casey_Johnson_0006
+3499286,server,Server response 10,response,6,Casey_Johnson_0006
+6436197,client,Could you clarify that?,response,6,Casey_Johnson_0006
+11838042,server,Server response 11,response,6,Casey_Johnson_0006
+21773571,client,I understand now.,response,6,Casey_Johnson_0006
+40047861,server,Server response 12,response,6,Casey_Johnson_0006
+73659496,client,That solved my problem.,response,6,Casey_Johnson_0006
+135480933,server,Server response 13,response,6,Casey_Johnson_0006
+249188315,client,Let me try that solution.,response,6,Casey_Johnson_0006
+458328785,server,Server response 14,response,6,Casey_Johnson_0006
+842998082,client,I understand now.,response,6,Casey_Johnson_0006
+1550515202,server,Server response 15,response,6,Casey_Johnson_0006
+2851842096,client,Can you provide more details?,response,6,Casey_Johnson_0006
+5245355438,server,Server response 16,response,6,Casey_Johnson_0006
+9647712792,client,Could you clarify that?,response,6,Casey_Johnson_0006
+17744910367,server,Server response 17,response,6,Casey_Johnson_0006
+32637978623,client,That worked perfectly!,response,6,Casey_Johnson_0006
+60030601786,server,Server response 18,response,6,Casey_Johnson_0006
+110413490779,client,Let me try that solution.,response,6,Casey_Johnson_0006
+203082071235,server,Server response 19,response,6,Casey_Johnson_0006
+373526163819,client,That's exactly what I needed.,response,6,Casey_Johnson_0006
+687021725859,server,Server response 20,response,6,Casey_Johnson_0006
+1263629960967,client,That's exactly what I needed.,response,6,Casey_Johnson_0006
+2324177850696,server,Server response 21,response,6,Casey_Johnson_0006
+2324177850718,client,Rating: 4,rating,6,Casey_Johnson_0006
+0,client,Could you explain how this feature works?,initial,7,Charlie_Johnson_0007
+119,client,Could you walk me through it again?,response,7,Charlie_Johnson_0007
+165,server,Server response 1,response,7,Charlie_Johnson_0007
+401,client,I understand now.,response,7,Charlie_Johnson_0007
+728,server,Server response 2,response,7,Charlie_Johnson_0007
+1327,client,That's not quite what I meant.,response,7,Charlie_Johnson_0007
+2566,server,Server response 3,response,7,Charlie_Johnson_0007
+4675,client,I appreciate your patience.,response,7,Charlie_Johnson_0007
+8623,server,Server response 4,response,7,Charlie_Johnson_0007
+15954,client,Let me test that.,response,7,Charlie_Johnson_0007
+29335,server,Server response 5,response,7,Charlie_Johnson_0007
+53988,client,Thank you for your help!,response,7,Charlie_Johnson_0007
+99371,server,Server response 6,response,7,Charlie_Johnson_0007
+182752,client,Thank you for your help!,response,7,Charlie_Johnson_0007
+336167,server,Server response 7,response,7,Charlie_Johnson_0007
+618322,client,"Great service, thanks!",response,7,Charlie_Johnson_0007
+1137354,server,Server response 8,response,7,Charlie_Johnson_0007
+2091896,client,I'll follow up if I need more help.,response,7,Charlie_Johnson_0007
+3847649,server,Server response 9,response,7,Charlie_Johnson_0007
+7076981,client,I appreciate your patience.,response,7,Charlie_Johnson_0007
+13016621,server,Server response 10,response,7,Charlie_Johnson_0007
+23941348,client,That solved my problem.,response,7,Charlie_Johnson_0007
+44035061,server,Server response 11,response,7,Charlie_Johnson_0007
+80993060,client,"Perfect, that's clear now.",response,7,Charlie_Johnson_0007
+148969563,server,Server response 12,response,7,Charlie_Johnson_0007
+273997745,client,I think I understand better now.,response,7,Charlie_Johnson_0007
+503960481,server,Server response 13,response,7,Charlie_Johnson_0007
+926927897,client,Could you clarify that?,response,7,Charlie_Johnson_0007
+1704886186,server,Server response 14,response,7,Charlie_Johnson_0007
+3135774683,client,I appreciate your patience.,response,7,Charlie_Johnson_0007
+5767588849,server,Server response 15,response,7,Charlie_Johnson_0007
+10608249826,client,Thanks for the quick response!,response,7,Charlie_Johnson_0007
+19511613462,server,Server response 16,response,7,Charlie_Johnson_0007
+35887452180,client,Let me try that solution.,response,7,Charlie_Johnson_0007
+66007315509,server,Server response 17,response,7,Charlie_Johnson_0007
+121406381208,client,I'll follow up if I need more help.,response,7,Charlie_Johnson_0007
+223301149009,server,Server response 18,response,7,Charlie_Johnson_0007
+410714845834,client,"Great service, thanks!",response,7,Charlie_Johnson_0007
+755422376087,server,Server response 19,response,7,Charlie_Johnson_0007
+1389438370999,client,That solved my problem.,response,7,Charlie_Johnson_0007
+1389438371022,client,Rating: 4,rating,7,Charlie_Johnson_0007
+0,client,I have a question about your service,initial,8,Unique_Rivera_0008
+4,client,That worked perfectly!,response,8,Unique_Rivera_0008
+56,server,Server response 1,response,8,Unique_Rivera_0008
+119,client,Thank you for your help!,response,8,Unique_Rivera_0008
+235,server,Server response 2,response,8,Unique_Rivera_0008
+450,client,Let me test that.,response,8,Unique_Rivera_0008
+816,server,Server response 3,response,8,Unique_Rivera_0008
+1509,client,Thanks for the quick response!,response,8,Unique_Rivera_0008
+2824,server,Server response 4,response,8,Unique_Rivera_0008
+5156,client,Could you walk me through it again?,response,8,Unique_Rivera_0008
+9544,server,Server response 5,response,8,Unique_Rivera_0008
+17539,client,That's very helpful.,response,8,Unique_Rivera_0008
+32249,server,Server response 6,response,8,Unique_Rivera_0008
+59392,client,That's exactly what I needed.,response,8,Unique_Rivera_0008
+59404,client,Rating: 5,rating,8,Unique_Rivera_0008
+0,client,Can you help me with a technical issue?,initial,9,Sage_Perez_0009
+22,client,"Great service, thanks!",response,9,Sage_Perez_0009
+43,server,Server response 1,response,9,Sage_Perez_0009
+91,client,I'll follow up if I need more help.,response,9,Sage_Perez_0009
+172,server,Server response 2,response,9,Sage_Perez_0009
+331,client,Let me try that solution.,response,9,Sage_Perez_0009
+618,server,Server response 3,response,9,Sage_Perez_0009
+1149,client,"Perfect, that's clear now.",response,9,Sage_Perez_0009
+2118,server,Server response 4,response,9,Sage_Perez_0009
+3902,client,Could you clarify that?,response,9,Sage_Perez_0009
+7194,server,Server response 5,response,9,Sage_Perez_0009
+13233,client,That solved my problem.,response,9,Sage_Perez_0009
+24359,server,Server response 6,response,9,Sage_Perez_0009
+44804,client,That's very helpful.,response,9,Sage_Perez_0009
+82406,server,Server response 7,response,9,Sage_Perez_0009
+151589,client,"Perfect, that's clear now.",response,9,Sage_Perez_0009
+278816,server,Server response 8,response,9,Sage_Perez_0009
+512833,client,I understand now.,response,9,Sage_Perez_0009
+943254,server,Server response 9,response,9,Sage_Perez_0009
+1734931,client,I appreciate your patience.,response,9,Sage_Perez_0009
+3191037,server,Server response 10,response,9,Sage_Perez_0009
+5869240,client,Let me try that solution.,response,9,Sage_Perez_0009
+10795219,server,Server response 11,response,9,Sage_Perez_0009
+19855509,client,That worked perfectly!,response,9,Sage_Perez_0009
+36519984,server,Server response 12,response,9,Sage_Perez_0009
+67170734,client,That's very helpful.,response,9,Sage_Perez_0009
+123546243,server,Server response 13,response,9,Sage_Perez_0009
+227236971,client,Let me try that solution.,response,9,Sage_Perez_0009
+417953978,server,Server response 14,response,9,Sage_Perez_0009
+768737221,client,That's not quite what I meant.,response,9,Sage_Perez_0009
+1413928190,server,Server response 15,response,9,Sage_Perez_0009
+2600619419,client,Let me try that solution.,response,9,Sage_Perez_0009
+4783284854,server,Server response 16,response,9,Sage_Perez_0009
+8797832486,client,Could you clarify that?,response,9,Sage_Perez_0009
+16181736776,server,Server response 17,response,9,Sage_Perez_0009
+29762854139,client,I'll follow up if I need more help.,response,9,Sage_Perez_0009
+54742423421,server,Server response 18,response,9,Sage_Perez_0009
+100687014362,client,That's not quite what I meant.,response,9,Sage_Perez_0009
+185192291942,server,Server response 19,response,9,Sage_Perez_0009
+340621729746,client,That's not quite what I meant.,response,9,Sage_Perez_0009
+626501036062,server,Server response 20,response,9,Sage_Perez_0009
+1152315057773,client,Let me test that.,response,9,Sage_Perez_0009
+2119437823591,server,Server response 21,response,9,Sage_Perez_0009
+2119437823613,client,Rating: 2,rating,9,Sage_Perez_0009
+0,client,There's an error in my order,initial,10,Morgan_Martin_0010
+17,client,That worked perfectly!,response,10,Morgan_Martin_0010
+27,server,Server response 1,response,10,Morgan_Martin_0010
+67,client,That's not quite what I meant.,response,10,Morgan_Martin_0010
+123,server,Server response 2,response,10,Morgan_Martin_0010
+246,client,Thanks for the quick response!,response,10,Morgan_Martin_0010
+455,server,Server response 3,response,10,Morgan_Martin_0010
+837,client,That's not quite what I meant.,response,10,Morgan_Martin_0010
+1555,server,Server response 4,response,10,Morgan_Martin_0010
+2869,client,Let me try that solution.,response,10,Morgan_Martin_0010
+5281,server,Server response 5,response,10,Morgan_Martin_0010
+9720,client,I'll implement that change.,response,10,Morgan_Martin_0010
+17883,server,Server response 6,response,10,Morgan_Martin_0010
+32899,client,That's not quite what I meant.,response,10,Morgan_Martin_0010
+60518,server,Server response 7,response,10,Morgan_Martin_0010
+111327,client,Let me try that solution.,response,10,Morgan_Martin_0010
+204762,server,Server response 8,response,10,Morgan_Martin_0010
+376627,client,Let me test that.,response,10,Morgan_Martin_0010
+692741,server,Server response 9,response,10,Morgan_Martin_0010
+1274160,client,Let me test that.,response,10,Morgan_Martin_0010
+2343557,server,Server response 10,response,10,Morgan_Martin_0010
+4310488,client,I'll follow up if I need more help.,response,10,Morgan_Martin_0010
+7928215,server,Server response 11,response,10,Morgan_Martin_0010
+14582284,client,That's not quite what I meant.,response,10,Morgan_Martin_0010
+26821014,server,Server response 12,response,10,Morgan_Martin_0010
+49331540,client,That's exactly what I needed.,response,10,Morgan_Martin_0010
+90734863,server,Server response 13,response,10,Morgan_Martin_0010
+166887436,client,"Perfect, that's clear now.",response,10,Morgan_Martin_0010
+306953864,server,Server response 14,response,10,Morgan_Martin_0010
+564576181,client,Thanks for the quick response!,response,10,Morgan_Martin_0010
+1038417502,server,Server response 15,response,10,Morgan_Martin_0010
+1909947573,client,Could you clarify that?,response,10,Morgan_Martin_0010
+3512941284,server,Server response 16,response,10,Morgan_Martin_0010
+6461306374,client,"Great service, thanks!",response,10,Morgan_Martin_0010
+11884195242,server,Server response 17,response,10,Morgan_Martin_0010
+21858442924,client,Thanks for the quick response!,response,10,Morgan_Martin_0010
+40203944560,server,Server response 18,response,10,Morgan_Martin_0010
+40203944565,client,Rating: 4,rating,10,Morgan_Martin_0010
