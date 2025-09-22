@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- Custom Animations --- */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 5px rgba(59, 130, 246, 0.5); }
+  50% { box-shadow: 0 0 20px rgba(59, 130, 246, 0.8), 0 0 30px rgba(59, 130, 246, 0.4); }
+}
+
+@keyframes gradient-x {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* --- Utility Classes --- */
+.float-animation { animation: float 3s ease-in-out infinite; }
+.pulse-glow { animation: pulse-glow 2s infinite; }
+.gradient-animate { background-size: 200% 200%; animation: gradient-x 3s ease infinite; }
+.spinner { border: 3px solid rgba(59, 130, 246, 0.1); border-left: 3px solid #3b82f6; border-radius: 50%; animation: spin 1s linear infinite; }
+
+/* --- Glass Effect --- */
+.glass { backdrop-filter: blur(10px); background: rgba(255, 255, 255, 0.1); border: 1px solid rgba(255, 255, 255, 0.2); }
+.glass-dark { backdrop-filter: blur(10px); background: rgba(0, 0, 0, 0.1); border: 1px solid rgba(255, 255, 255, 0.1); }
+
+/* --- Leaflet Custom Styles --- */
+.leaflet-container { height: 100%; width: 100%; border-radius: 12px; overflow: hidden; }
+.custom-marker-icon { border-radius: 50%; border: 3px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.3); }
+
+/* --- Safety Score Gradient --- */
+.safety-low { @apply bg-gradient-to-r from-red-500 to-red-600; }
+.safety-medium { @apply bg-gradient-to-r from-yellow-500 to-orange-500; }
+.safety-high { @apply bg-gradient-to-r from-green-500 to-emerald-600; }
+
+/* --- Buttons --- */
+.btn-primary { @apply bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transform transition-all duration-200 hover:scale-105; }
+.btn-danger { @apply bg-gradient-to-r from-red-500 to-red-600 hover:from-red-600 hover:to-red-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transform transition-all duration-200 hover:scale-105; }
+.btn-success { @apply bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transform transition-all duration-200 hover:scale-105; }
+
+/* --- Custom Card --- */
+.custom-card { @apply bg-white dark:bg-gray-800 rounded-xl shadow-lg border border-gray-200 dark:border-gray-700 overflow-hidden transition-all duration-300 hover:shadow-xl; }
+
+/* --- Responsive adjustments --- */
+@media (max-width: 768px) {
+  .mobile-padding { @apply px-4 py-2; }
+  .mobile-text { @apply text-sm; }
+}
+
+/* --- Scrollbar (plain CSS, cannot use @apply) --- */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background-color: #f3f4f6; }
+.dark ::-webkit-scrollbar-track { background-color: #1f2937; }
+::-webkit-scrollbar-thumb { background-color: #d1d5db; border-radius: 9999px; }
+.dark ::-webkit-scrollbar-thumb { background-color: #4b5563; }
+::-webkit-scrollbar-thumb:hover { background-color: #9ca3af; }
+.dark ::-webkit-scrollbar-thumb:hover { background-color: #6b7280; }
